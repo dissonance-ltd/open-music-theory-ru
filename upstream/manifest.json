@@ -5,7 +5,7 @@
   "format": "Pressbooks HTML adaptation",
   "license": "CC-BY-SA-4.0",
   "current_viva_equivalence": "not_verified",
-  "retrieved_at": "2026-09-20T15:56:57.984800+00:00",
+  "retrieved_at": "2026-09-20",
   "normalizer_version": 1,
   "chapters": [
     {
@@ -908,6 +908,313 @@
         {
           "kind": "a",
           "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-6-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "aspn",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/",
+      "title": "6 American Standard Pitch Notation (ASPN)",
+      "source_byline": [
+        "Chelsey Hamm and Bryn Hughes"
+      ],
+      "raw_sha256": "c36e2972c4c997d82520cee9d8365ce1397b90e4c3f94e3a80b370cf3c107673",
+      "content_sha256": "391b8beeca72883751a4144dbd5e7b0429fa7db8117d3c618178285a813368ff",
+      "snapshot": "en/aspn.html",
+      "translation": "src/fundamentals/06-aspn.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Scientific_pitch_notation_octaves_of_C-300x183.png",
+          "alt": "Nine different octaves are shown in the treble and bass clefs, each beginning and ending with the pitch \"C.\" They are labeled with their ASPN label; C0, C1, C2, etc.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png",
+          "alt": "The notes C, D, E, F, G, A, and B in a treble clef",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/1040px-Piano_Frequencies.svg_-300x58.png",
+          "alt": "A piano keyboard with each octave labeled by number. The first two white keys are the \"0\" octave; each new octave (octave 1, octave 2, octave 3, etc.) starts at the note \"C.\"",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws01-pitch_notation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://he.kendallhunt.com/sites/default/files/uploadedFiles/Kendall_Hunt/Content/Higher_Education/Uploads/Gerhold_2e_Chapter1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-American-Standard-Pitch-Notation-ASPN-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-American-Standard-Pitch-Notation-ASPN-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "other-notation",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/",
+      "title": "7 Other Aspects of Notation",
+      "source_byline": [
+        "Chelsey Hamm and Mark Gotham"
+      ],
+      "raw_sha256": "d6fa49671e4898af13a82dc34178b43f2b43c40a33116e766899da14faf8c295",
+      "content_sha256": "4b35c7eff61e83cbda4ef21fdc582554a9c43ab2c8a42d6c265a801267e093a2",
+      "snapshot": "en/other-notation.html",
+      "translation": "src/fundamentals/07-other-notation.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/96292654_667667213778088_2752956277322678272_n-300x38.png",
+          "alt": "Eight dynamics are arranged from softest to loudest.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/CrescendoandDecrescendoChapter6-1-300x76.png",
+          "alt": "A crescendo is shown to the left, and a decrescendo is shown on the right.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/tempi-300x27.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/96422265_232053788221736_2295624173914947584_n-300x34.png",
+          "alt": "A timeline shows the Medieval, Renaissance, Baroque, Classical, Romantic, and Post-Tonal periods",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://static1.squarespace.com/static/51c35901e4b039fd32fd4191/t/57fbcc7bb3db2bf57a4d7d5a/1476119676956/Music+Theory+Packet+Level+3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.crsd.org/cms/lib/PA01000188/Centricity/Domain/739/musical-terminology.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.crsd.org/cms/lib/PA01000188/Centricity/Domain/739/musical-terminology.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.crsd.org/cms/lib/PA01000188/Centricity/Domain/739/musical-terminology.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.sgasd.org/cms/lib/PA01001732/Centricity/Domain/172/Rhythm%206th%20-%20Fall%202018.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.crsd.org/cms/lib/PA01000188/Centricity/Domain/739/musical-terminology.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.crsd.org/cms/lib/PA01000188/Centricity/Domain/739/musical-terminology.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Other-Aspects-of-Notation-13.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "rhythmic-rest-values",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/",
+      "title": "8 Rhythmic and Rest Values",
+      "source_byline": [
+        "Chelsey Hamm; Mark Gotham; and Bryn Hughes"
+      ],
+      "raw_sha256": "d9c06d029d315aeedeba5151886fcfdb79c98b4f0836879a0468d36331b11e9b",
+      "content_sha256": "47c67a0adcd454cb210e1a71053782bd87b98306959349061b88dfe1e15104c9",
+      "snapshot": "en/rhythmic-rest-values.html",
+      "translation": "src/fundamentals/08-rhythmic-rest-values.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/noteillustration-1-300x132.png",
+          "alt": "Several notes are pictured, with their noteheads, stems, beams, and flags labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/durations-1-264x300.png",
+          "alt": "A hierarchical graphic showing the relationship between whole, half, quarter, eighth, sixteenth, and thirty-second notes",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Example-3-Chapter-8-300x133.png",
+          "alt": "A double whole note on a line is shown.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/rests-1-264x300.png",
+          "alt": "The hierarchical relationship between whole, half, quarter, eighth, sixteenth, and thirty-second rests are illustrated",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Breve-Rest-300x139.png",
+          "alt": "A breve rest appears on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/dots-1-300x244.png",
+          "alt": "Two examples of dotted notes, one example of a doubly dotted note",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://learnmusictheory.net/PDFs/pdffiles/01-01-04-RhythmicValues.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://makingmusicfun.net/pdf/worksheets/it-all-adds-up-worksheet-three.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://makingmusicfun.net/pdf/worksheets/it-all-adds-up-worksheet-two.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://makingmusicfun.net/pdf/worksheets/it-all-adds-up-worksheet-four.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://makingmusicfun.net/pdf/worksheets/it-all-adds-up-worksheet-five.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.cornerstonecharter.com/ourpages/auto/2018/9/8/52864067/Music%20Theory%20-%20Note%20Duration%20Worksheet%20Packet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/20395336/1348462947917/Music-Theory-Worksheet-15-Ties-Slurs.pdf?token=CakCUnzLTjg7iTFOJHhUeiMJAIc%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Rhythmic-and-Rest-Values-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Rhythmic-and-Rest-Values-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Rhythmic-and-Rest-Values-2-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Rhythmic-and-Rest-Values-2-1.docx",
           "alt": null,
           "rights": "not_individually_audited",
           "distribution": "reference_only"

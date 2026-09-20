@@ -14,8 +14,9 @@ John Peterson совместно с авторами отдельных глав
 
 Пилот основан на адаптации **Open Music Theory — Fall 2023**, размещённой на
 Pressbooks Университета Небраски (уведомление Copyright © 2021, CC BY-SA 4.0).
-В её метаданных введения указан Brian Moore; пять переводимых глав Fundamentals
-написаны Chelsey Hamm. Перевод выполнен участниками Open Music Theory RU с
+В её метаданных введения указан Brian Moore; главы 1–5 Fundamentals
+написаны Chelsey Hamm. Авторы главы 6 — Chelsey Hamm и Bryn Hughes;
+главы 7 — Chelsey Hamm и Mark Gotham; главы 8 — Chelsey Hamm, Mark Gotham и Bryn Hughes. Перевод выполнен участниками Open Music Theory RU с
 помощью ИИ и ещё не прошёл независимую рецензию.
 
 Нотные рисунки сохранены с атрибуцией OMT; пример 17 дополнительно получен через

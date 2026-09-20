@@ -4,7 +4,7 @@
 
 ## Объём и текущее состояние
 
-Состояние при введении процесса: 20 сентября 2026 года, после слияния PR #3 (`bde2d57a9a8bf6a0996e1db28f61efb29c573ee4`). Оглавление содержит **136 элементов: 116 ссылок на главы, 6 вводных страниц, 13 разделов и приложение**. Есть 7 английских снимков и 6 русских черновиков: введение и главы 1–5. Остальные тела страниц не импортированы; их доступность, объём и медиа не оценены. Само наличие URL этого не подтверждает.
+Состояние при введении процесса: 20 сентября 2026 года, после слияния PR #3 (`bde2d57a9a8bf6a0996e1db28f61efb29c573ee4`). Оглавление содержит **136 элементов: 116 ссылок на главы, 6 вводных страниц, 13 разделов и приложение**. В той исходной точке было 7 английских снимков и 6 русских черновиков: введение и главы 1–5. Пилот пакетного процесса добавляет главы 6–8: теперь **10 английских снимков и 9 русских черновиков**, 54 локальные иллюстрации. Для трёх новых глав выполнена отдельная сверка ИИ; человеческая рецензия и просмотр собранных страниц не выполнены. Остальные тела страниц не импортированы; их доступность, объём и медиа не оценены. Само наличие URL этого не подтверждает.
 
 Основная очередь — введение и все 116 ссылок на главы, включая Anthology и Workbook. Для вспомогательных страниц и вступлений разделов сначала определить содержимое и нужную форму русской адаптации; их нельзя молча исключить из итогового отчёта. Workbook может оказаться страницами-ссылками: до чтения их содержимого объём неизвестен. Сверка с текущим VIVA и полная локализация сторонних ресурсов остаются отдельными задачами.
 
@@ -22,8 +22,8 @@
 
 | Пакет | Состав | Зависимость / следующий шаг | Исполнитель / PR |
 |---|---|---|---|
-| Процесс | Политика, трекер, шаблоны, восстановление Workbook в каталоге | Применить процесс к следующему пакету, затем оценить его полезность | ИИ / ветка `docs/translation-workflow` |
-| Следующий перевод | 6. ASPN; 7. Other Aspects of Notation; 8. Rhythmic and Rest Values | Импортировать тела, заполнить инвентарь, согласовать октавы и длительности | Не назначен |
+| Процесс | [Пакетная работа ИИ-агентов](batch-translation.md) | Пилот 6–8; по результатам уточнить задания и размер пакета | Координатор ИИ / [PR #6](https://github.com/dissonance-ltd/open-music-theory-ru/pull/6) |
+| Пилот: черновики к рассмотрению | 6. ASPN; 7. Other Aspects of Notation; 8. Rhythmic and Rest Values | Полные черновики сохранившегося текста; отдельная сверка ИИ и локальные проверки выполнены; CI в PR | ИИ: translate_aspn, translate_notation, translate_rhythm; проверяющие review_pitch_rhythm, review_notation / [PR #6](https://github.com/dissonance-ltd/open-music-theory-ru/pull/6) |
 | Следующий тематический блок | 9–11. Simple Meter; Compound Meter; Other Rhythmic Essentials | Уточнить различия русской и американской метрической терминологии | Не назначен |
 | Редакционный долг | Введение и главы 1–5 | Постепенно оформить поэлементные записи, записанную сверку и человеческую рецензию | Не назначен |
 
@@ -39,6 +39,9 @@
 | [3. Чтение ключей](../src/fundamentals/03-reading-clefs.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 10 рисунков, подписи/alt RU; задания EN |
 | [4. Клавиатура](../src/fundamentals/04-keyboard-grand-staff.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 10 изображений, подписи/alt RU; видео и задания EN |
 | [5. Полутоны и тоны](../src/fundamentals/05-half-whole-steps.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 5 рисунков, подписи/alt RU; видео и задания EN |
+| [6. ASPN](../src/fundamentals/06-aspn.md) | [Полный инвентарь снимка](reviews/aspn.md); внешнее содержимое не оценено | [CI пройден, 99dc067](https://github.com/dissonance-ltd/open-music-theory-ru/actions/runs/35542464054); итоговые SHA в записи | Выполнена отдельным `review_pitch_rhythm` | Не выполнена / не выполнена | Частично: 3 рисунка; пример 4 и задания внешние EN |
+| [7. Другие элементы нотации](../src/fundamentals/07-other-notation.md) | [Полный инвентарь снимка](reviews/other-notation.md); внешнее содержимое не оценено | [CI пройден, 99dc067](https://github.com/dissonance-ltd/open-music-theory-ru/actions/runs/35542464054); итоговые SHA в записи | Выполнена отдельным `review_notation` | Не выполнена / не выполнена | Частично: 4 рисунка; примеры 3–7, 9–11 отсутствуют в источнике; 12–13 и задания внешние EN |
+| [8. Длительности нот и пауз](../src/fundamentals/08-rhythmic-rest-values.md) | [Полный инвентарь снимка](reviews/rhythmic-rest-values.md); внешнее содержимое не оценено | [CI пройден, 99dc067](https://github.com/dissonance-ltd/open-music-theory-ru/actions/runs/35542464054); итоговые SHA в записи | Выполнена отдельным `review_pitch_rhythm` | Не выполнена / не выполнена | Частично: 6 рисунков; таблица 74 отсутствует; пример 7 и задания внешние EN |
 
 Свидетельства ранних пакетов: [PR #2](https://github.com/dissonance-ltd/open-music-theory-ru/pull/2), [PR #3](https://github.com/dissonance-ltd/open-music-theory-ru/pull/3), [реестр изображений](../upstream/assets.json). Отдельный проход сравнения и независимая рецензия не присваиваются задним числом. У всех неначатых строк каталога проверки и локализация также не начаты; после начала работы вынесите их сюда.
 
@@ -60,9 +63,9 @@
 | `toc-chapter-77` | [3. Reading Clefs](https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/) | Chelsey Hamm | [Снимок](../upstream/en/reading-clefs.html) | [Черновик](../src/fundamentals/03-reading-clefs.md) |
 | `toc-chapter-96` | [4. The Keyboard and the Grand Staff](https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/) | Chelsey Hamm | [Снимок](../upstream/en/keyboard-grand-staff.html) | [Черновик](../src/fundamentals/04-keyboard-grand-staff.md) |
 | `toc-chapter-114` | [5. Half Steps, Whole Steps, and Accidentals](https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/) | Chelsey Hamm | [Снимок](../upstream/en/half-whole-steps.html) | [Черновик](../src/fundamentals/05-half-whole-steps.md) |
-| `toc-chapter-120` | [6. American Standard Pitch Notation (ASPN)](https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/) | Chelsey Hamm and Bryn Hughes | Не импортировано; не оценено | Не начат |
-| `toc-chapter-126` | [7. Other Aspects of Notation](https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/) | Chelsey Hamm and Mark Gotham | Не импортировано; не оценено | Не начат |
-| `toc-chapter-136` | [8. Rhythmic and Rest Values](https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/) | Chelsey Hamm; Mark Gotham; and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-120` | [6. American Standard Pitch Notation (ASPN)](https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/) | Chelsey Hamm and Bryn Hughes | [Снимок](../upstream/en/aspn.html); [инвентарь](reviews/aspn.md) | [Черновик](../src/fundamentals/06-aspn.md) |
+| `toc-chapter-126` | [7. Other Aspects of Notation](https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/) | Chelsey Hamm and Mark Gotham | [Снимок](../upstream/en/other-notation.html); [инвентарь](reviews/other-notation.md) | [Черновик](../src/fundamentals/07-other-notation.md) |
+| `toc-chapter-136` | [8. Rhythmic and Rest Values](https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/) | Chelsey Hamm; Mark Gotham; and Bryn Hughes | [Снимок](../upstream/en/rhythmic-rest-values.html); [инвентарь](reviews/rhythmic-rest-values.md) | [Черновик](../src/fundamentals/08-rhythmic-rest-values.md) |
 | `toc-chapter-149` | [9. Simple Meter and Time Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/) | Chelsey Hamm; Kris Shaffer; and Mark Gotham | Не импортировано; не оценено | Не начат |
 | `toc-chapter-155` | [10. Compound Meter and Time Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/) | Chelsey Hamm and Mark Gotham | Не импортировано; не оценено | Не начат |
 | `toc-chapter-158` | [11. Other Rhythmic Essentials](https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/) | Bryn Hughes; Mark Gotham; and Chelsey Hamm | Не импортировано; не оценено | Не начат |

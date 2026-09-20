@@ -26,6 +26,10 @@ For a limited documentation or code change, read the portions relevant to it.
   changes, verify affected links and records; do not add tests that merely mirror
   prose. Add regression coverage when fixing an actual importer defect.
 
+For batch translation with sub-agents, follow `docs/batch-translation.md`.
+The coordinator owns shared registries and GitHub writes; translators own assigned
+chapters, and a different agent reviews each chapter against its pinned source.
+
 These are repository contribution instructions, not an installable skill.
 
 For Python changes, read `scripts/README.md`, run `uv sync --locked`, and use

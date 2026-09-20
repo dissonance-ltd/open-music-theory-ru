@@ -39,6 +39,21 @@
       "id": "half-whole-steps",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/",
       "translation": "src/fundamentals/05-half-whole-steps.md"
+    },
+    {
+      "id": "aspn",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/",
+      "translation": "src/fundamentals/06-aspn.md"
+    },
+    {
+      "id": "other-notation",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/",
+      "translation": "src/fundamentals/07-other-notation.md"
+    },
+    {
+      "id": "rhythmic-rest-values",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/",
+      "translation": "src/fundamentals/08-rhythmic-rest-values.md"
     }
   ]
 }

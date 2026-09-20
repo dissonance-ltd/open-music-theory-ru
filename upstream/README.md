@@ -15,20 +15,21 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: seven normalized English chapter bodies: introduction, first five
+- `en/*.html`: ten normalized English chapter bodies: introduction, first eight
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
   Other chapter bodies have **not** been downloaded or translated.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 41 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 54 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
 The introduction's adaptation byline says **Brian Moore**. This is retained as
-source metadata, not substituted for the seven original OMT2 authors. The five
-Fundamentals chapters credit **Chelsey Hamm**.
+source metadata, not substituted for the seven original OMT2 authors. Fundamentals chapters 1–5 credit **Chelsey Hamm**; chapter 6 credits
+**Chelsey Hamm and Bryn Hughes**, chapter 7 **Chelsey Hamm and Mark Gotham**,
+and chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**.
 
 ## Import and compare
 
@@ -97,3 +98,25 @@ history. Never relabel the 2023 snapshot as current.
   and their availability remains unverified.
 - New external videos retain accessible titles and direct YouTube links. No
   external video, application or worksheet availability audit is claimed.
+
+## Third batch: parallel translation pilot
+
+Only chapters 6–8 were fetched for this batch, at
+`2026-09-20T22:26:27.379624+00:00`. The seven previously accepted snapshots and
+the catalog are unchanged; the newly fetched catalog compared equal. The combined
+manifest uses the common actual UTC retrieval day, `2026-09-20`, instead of
+applying the previous batch's precise timestamp to new downloads. Exact pilot
+retrieval times and source hashes are recorded in the three chapter review records.
+No existing translation source binding is advanced.
+
+Thirteen original figures were retained locally. Internal image text is unchanged;
+Russian captions and alt text are supplied. Other Notation examples 3–7 and 9–11
+have explanatory text but no corresponding media in either the raw response or
+the normalized snapshot. Rhythm contains a missing-table-74 message. These source
+defects remain in the English archive and are visibly disclosed in the Russian
+drafts, together with limited corrections to misleading definitions. External
+MuseScore examples and worksheets remain links, not localized or verified content.
+
+See the [batch workflow](../docs/batch-translation.md) and chapter records for
+[ASPN](../docs/reviews/aspn.md), [Other Notation](../docs/reviews/other-notation.md),
+and [Rhythmic Values](../docs/reviews/rhythmic-rest-values.md).
