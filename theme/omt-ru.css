@@ -1,0 +1,18 @@
+:root {
+  --omt-accent: #7c3aed;
+}
+
+.content main a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+.content main h1,
+.content main h2 {
+  letter-spacing: -0.015em;
+}
+
+blockquote {
+  border-inline-start-color: var(--omt-accent);
+}
+
