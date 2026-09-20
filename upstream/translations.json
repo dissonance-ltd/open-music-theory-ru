@@ -64,6 +64,55 @@
         "Russian translation; translated captions and alt text; explicitly marked translator notes; external English exercises retained",
         "Added translator notes limiting enharmonic equality to the described tuning and explaining accidental reference pitch and octave-boundary spelling"
       ]
+    },
+    {
+      "id": "aspn",
+      "path": "src/fundamentals/06-aspn.md",
+      "status": "draft",
+      "source_content_sha256": "391b8beeca72883751a4144dbd5e7b0429fa7db8117d3c618178285a813368ff",
+      "reviewed_by": null,
+      "modifications": [
+        "Translated full body, all five takeaways and six popup definitions; popups regrouped into visible definitions section.",
+        "Reading Clefs crosslink made local; figures1–3 use local unchanged images and translated captions/alt.",
+        "Example1 alt corrected after image inspection: ten C notes C0–C9 separated by nine octaves.",
+        "Source above C4 corrected to inclusive C4 bound with explicit translator note; ASPN4 versus Russian first octave and B♯3=C4 clarified.",
+        "Example4 MuseScore remains source external link with RU caption and explicit EN/unlocalized/content-playback-unverified notice.",
+        "All5 online resources,2 external worksheet entries and1 assignment PDF/DOCX retained with translated labels and explicit EN/unverified status."
+      ]
+    },
+    {
+      "id": "other-notation",
+      "path": "src/fundamentals/07-other-notation.md",
+      "status": "draft",
+      "source_content_sha256": "4b35c7eff61e83cbda4ef21fdc582554a9c43ab2c8a42d6c265a801267e093a2",
+      "reviewed_by": null,
+      "modifications": [
+        "Author text preserved with translator clarification of tenuto/full duration vs legato.",
+        "Volta numbering clarified as ordinal traversal including first performance.",
+        "Post-tonal period scope clarified; source date ranges preserved.",
+        "26 popup definitions translated to visible table;1empty and1CSS-corrupt entry explicitly noted, not reproduced as prose.",
+        "Missing examples3–7and9–11 explicitly disclosed; no invented music.",
+        "English internal image labels explained in captions and adjacent Russian text, not redrawn.",
+        "Source lists for dynamics and periodization rendered as tables; example8 caption/alt added after image inspection."
+      ]
+    },
+    {
+      "id": "rhythmic-rest-values",
+      "path": "src/fundamentals/08-rhythmic-rest-values.md",
+      "status": "draft",
+      "source_content_sha256": "47c67a0adcd454cb210e1a71053782bd87b98306959349061b88dfe1e15104c9",
+      "reviewed_by": null,
+      "modifications": [
+        "Всплывающие определения перенесены в две видимые таблицы; 26 определений сохранены.",
+        "Таблица 74 отсутствует в источнике; видимая отметка, без выдуманного восстановления.",
+        "Slur: источник ошибочно называет связное исполнение tenuto; передано легато с явным пояснением и сохранением исходного определения в таблице.",
+        "Во всплывающем определении half rest заменён ошибочный 𝄻 на 𝄼 с видимым примечанием.",
+        "Начальная фраза о продлении уточнена: точки относятся к нотам и паузам, лиги — к нотам; пояснение явно отмечено.",
+        "Изображения локальные, переведены подписи/alt; пример6 alt расширен после визуальной проверки.",
+        "Внешний MuseScore сохранён ссылкой; содержимое/воспроизведение не проверены, видимая отметка.",
+        "Все дополнительные материалы и задания сохранены ссылками с русскими названиями и явным указанием непроверенного/нелокализованного содержимого.",
+        "Прежние chapter-ссылки заменены локальными; A–G упражнений заменены нумерацией1–7."
+      ]
     }
   ]
 }

@@ -9,8 +9,7 @@ terms:
   status: candidate
   alternatives:
   - звуковысотность
-  note: Требуется согласовать употребление термина как свойства звука и как отдельной
-    высоты.
+  note: Требуется согласовать употребление термина как свойства звука и как отдельной высоты.
 - en: pitch class
   ru: высотный класс
   status: candidate
@@ -38,8 +37,8 @@ terms:
 - en: note
   ru: нота
   status: candidate
-  note: В этой главе — знак, обозначающий высоту и длительность звука; в других контекстах
-    слово может обозначать сам звук.
+  note: В этой главе — знак, обозначающий высоту и длительность звука; в других контекстах слово
+    может обозначать сам звук.
 - en: staff
   ru: нотный стан
   status: candidate
@@ -99,8 +98,8 @@ terms:
 - en: compound meter
   ru: метр с трёхчастным делением доли
   status: candidate
-  note: Рабочее описательное соответствие. Английское compound относится к делению
-    основной доли на три; не равно безусловно русскому «сложный размер».
+  note: Рабочее описательное соответствие. Английское compound относится к делению основной
+    доли на три; не равно безусловно русскому «сложный размер».
 - en: simple meter
   ru: метр с двухчастным делением доли
   status: candidate
@@ -124,8 +123,8 @@ terms:
 - en: grand staff
   ru: объединённый нотный стан
   status: candidate
-  note: 'Рабочее соответствие: два нотоносца, объединённых для записи одной партии,
-    например фортепианной.'
+  note: 'Рабочее соответствие: два нотоносца, объединённых для записи одной партии, например
+    фортепианной.'
 - en: milieu
   ru: социально-культурная среда
   status: candidate
@@ -133,13 +132,13 @@ terms:
 - en: range
   ru: диапазон
   status: candidate
-  note: Совокупность высот, доступных голосу или инструменту; также расстояние между
-    крайними высотами.
+  note: Совокупность высот, доступных голосу или инструменту; также расстояние между крайними
+    высотами.
 - en: octave
   ru: октава
   status: candidate
-  note: Интервал между одноимёнными звуками с отношением частот 2:1; также название
-    участка звукоряда.
+  note: Интервал между одноимёнными звуками с отношением частот 2:1; также название участка
+    звукоряда.
 - en: octave equivalence
   ru: октавная эквивалентность
   status: candidate
@@ -159,8 +158,7 @@ terms:
 - en: interval
   ru: интервал
   status: candidate
-  note: Соотношение двух звуков по высоте; в начальном изложении — расстояние между
-    ними.
+  note: Соотношение двух звуков по высоте; в начальном изложении — расстояние между ними.
 - en: generic interval
   ru: ступеневая величина интервала
   status: candidate
@@ -168,8 +166,8 @@ terms:
 - en: half step
   ru: полутон
   status: candidate
-  note: На описанной клавиатуре — расстояние до ближайшей клавиши любого цвета; 1/12
-    равномерно темперированной октавы.
+  note: На описанной клавиатуре — расстояние до ближайшей клавиши любого цвета; 1/12 равномерно
+    темперированной октавы.
 - en: whole step
   ru: тон
   status: candidate
@@ -203,3 +201,236 @@ terms:
   status: candidate
   note: Разное написание одного звучания в рассматриваемом строе; в этой главе — равномерная
     темперация.
+- en: American Standard Pitch Notation (ASPN)
+  ru: американская стандартная система обозначения высоты звука (ASPN)
+  status: candidate
+  note: 'Обозначение конкретной высоты буквенным названием ноты и номером октавы. Номер меняется
+    на C; C4 — до первой октавы. Альтерация не меняет номер буквенной записи: B♯3 = C4 по звучанию.
+    Основание: пилот глав 6–8, docs/reviews/aspn.md; статус candidate.'
+- en: dynamics
+  ru: динамика
+  status: candidate
+  note: 'Громкость и её изменения. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: crescendo
+  ru: крещендо
+  status: candidate
+  note: 'Постепенное усиление громкости. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: decrescendo
+  ru: декрещендо
+  status: candidate
+  note: 'Постепенное ослабление громкости. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: diminuendo
+  ru: диминуэндо
+  status: candidate
+  note: 'Постепенное ослабление громкости; в данной главе синоним decrescendo. Основание: пилот
+    глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: hairpin
+  ru: вилочка
+  status: candidate
+  note: 'Знак крещендо или декрещендо. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: articulation
+  ru: артикуляция
+  status: candidate
+  note: 'Характер соединения/разделения звуков, их произнесения и атаки. Основание: пилот глав
+    6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: attack
+  ru: атака
+  status: candidate
+  note: 'Начало звука, в отличие от поддержания или затухания. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: legato
+  ru: легато
+  status: candidate
+  note: 'Связное исполнение. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус
+    candidate.'
+- en: slur
+  ru: лига легато
+  status: candidate
+  note: 'Артикуляционная лига; не смешивать с соединительной лигой tie или вязкой beam. Согласовано
+    между главами 7–8. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: tenuto
+  ru: тенуто
+  status: candidate
+  note: 'Выдерживание полной длительности, контекстно подчёркивание; не синоним legato. В главах
+    7–8 отмечено упрощение оригинала. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: staccato
+  ru: стаккато
+  status: candidate
+  note: 'Раздельное исполнение с промежутками между звуками. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: accent
+  ru: акцент
+  status: candidate
+  note: 'Дополнительное выделение звука; исходный popup повреждён, определение из основного
+    текста. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: marcato
+  ru: маркато
+  status: candidate
+  note: 'В данной главе более сильный акцент; знак в форме перевёрнутой V. Основание: пилот
+    глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: tempo
+  ru: темп
+  status: candidate
+  note: 'Скорость исполнения. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус
+    candidate.'
+- en: metronome marking
+  ru: метрономическое обозначение
+  status: candidate
+  note: 'Задаёт длительность единицы пульса и её число в минуту. Основание: пилот глав 6–8,
+    docs/reviews/other-notation.md; статус candidate.'
+- en: ritardando
+  ru: ритардандо
+  status: candidate
+  note: 'Постепенное замедление. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: accelerando
+  ru: аччелерандо
+  status: candidate
+  note: 'Постепенное ускорение. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус
+    candidate.'
+- en: structural features
+  ru: структурные особенности
+  status: candidate
+  note: 'Особенности членения на разделы и формы; structural markers — структурные обозначения.
+    Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: fermata
+  ru: фермата
+  status: candidate
+  note: 'Продление записанной длительности; в источнике рассмотрена нота. Основание: пилот глав
+    6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: caesura
+  ru: цезура
+  status: candidate
+  note: 'Перерыв или прекращение звучания. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: breath mark
+  ru: знак дыхания
+  status: candidate
+  note: 'Место вдоха или соответствующей паузы. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: repeat signs
+  ru: знаки репризы
+  status: candidate
+  note: 'Обозначают повторение раздела. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: first and second endings
+  ru: первая и вторая вольты
+  status: candidate
+  note: 'Разные окончания при первом и втором проведении повторяемого раздела. Основание: пилот
+    глав 6–8, docs/reviews/other-notation.md; статус candidate.'
+- en: periodize
+  ru: периодизировать
+  status: candidate
+  note: 'Делить историю на периоды; их границы в главе условны. Основание: пилот глав 6–8, docs/reviews/other-notation.md;
+    статус candidate.'
+- en: musicologist
+  ru: музыковед
+  status: candidate
+  note: 'Исследователь музыки. Основание: пилот глав 6–8, docs/reviews/other-notation.md; статус
+    candidate.'
+- en: post-tonal
+  ru: посттональный
+  status: candidate
+  note: 'Не означает, что вся музыка после 1900 года посттональная. Основание: пилот глав 6–8,
+    docs/reviews/other-notation.md; статус candidate.'
+- en: note value
+  ru: длительность ноты
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: whole note
+  ru: целая нота
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: half note
+  ru: половинная нота
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: quarter note
+  ru: четвертная нота
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: eighth note
+  ru: восьмая нота
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: sixteenth note
+  ru: шестнадцатая нота
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: double whole note
+  ru: двойная целая нота (бревис)
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: rest
+  ru: пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: whole rest
+  ru: целая пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: half rest
+  ru: половинная пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: quarter rest
+  ru: четвертная пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: eighth rest
+  ru: восьмая пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: sixteenth rest
+  ru: шестнадцатая пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: breve rest
+  ru: двойная целая пауза
+  status: candidate
+  note: 'Рабочее соответствие главы «Длительности нот и пауз»; человеческая терминологическая
+    рецензия не выполнена. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
+- en: dot
+  ru: точка продления длительности
+  status: candidate
+  note: 'Rhythmic and Rest Values; рабочее соответствие; Точка прибавляет половину исходной
+    длительности; каждая следующая — половину прибавки предыдущей. Основание: пилот глав 6–8,
+    docs/reviews/rhythmic-rest-values.md; статус candidate.'
+- en: tie
+  ru: соединительная лига
+  status: candidate
+  note: 'Rhythmic and Rest Values; рабочее соответствие; Не путать с лигой легато: соединяет
+    ноты одной высоты без повторного извлечения. Основание: пилот глав 6–8, docs/reviews/rhythmic-rest-values.md;
+    статус candidate.'
