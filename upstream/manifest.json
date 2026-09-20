@@ -5,7 +5,7 @@
   "format": "Pressbooks HTML adaptation",
   "license": "CC-BY-SA-4.0",
   "current_viva_equivalence": "not_verified",
-  "retrieved_at": "2026-09-20",
+  "retrieved_at": "2026-09-20T15:56:57.984800+00:00",
   "normalizer_version": 1,
   "chapters": [
     {
@@ -16,7 +16,7 @@
       "source_byline": [
         "Brian Moore"
       ],
-      "raw_sha256": "1794cc3af310122dfbf44c6c6299ee3eb6d4f467f40375a001794e71a5d8e244",
+      "raw_sha256": "e33bdc7fc0edc52fb7d1b48e8881831773cf14fa7f1679117fc10899b68c6184",
       "content_sha256": "0fe92cbe8445edfe4bcb087703be9043a9560ef3ad6361283b58bbc00646d44c",
       "snapshot": "en/introduction.html",
       "translation": "src/introduction.md",
@@ -65,7 +65,7 @@
       "source_byline": [
         "Chelsey Hamm"
       ],
-      "raw_sha256": "7eb492b8a2539cff34c48fed4c36e36587d7d445829b5c005c9de4840b540fca",
+      "raw_sha256": "abc620ac486670d7abb57177c9adf141fb70b28a43fd285f188ea1656c503e6d",
       "content_sha256": "055d08a9841bf33b2bc5e929fa5b73f4c44a652744a599db9ed3642d3b26305e",
       "snapshot": "en/western-notation.html",
       "translation": "src/fundamentals/01-western-notation.md",
@@ -109,7 +109,7 @@
       "source_byline": [
         "Chelsey Hamm"
       ],
-      "raw_sha256": "aeaa3adf88e723710d3d1f4e254b0d3d40c6db64096d351a406b4eb2820dd98b",
+      "raw_sha256": "afc2c0756dd420df6fe93c3b29487960b5a430823f0adcd0fc6d6141dca51995",
       "content_sha256": "a238a4474febc4aac82dc82d4ce09525b722d694e3eb695a8628269fd4b3b18b",
       "snapshot": "en/notes-clefs.html",
       "translation": "src/fundamentals/02-notes-clefs.md",
@@ -272,11 +272,647 @@
       "source_byline": [
         "Brian Moore"
       ],
-      "raw_sha256": "3dfa5d957ca2e4ae7758dfe13b2f609358062ae8fac97e35d2373eb86d00a8d9",
+      "raw_sha256": "0329a894643d628a8d1fcfe2958ae8a8adaed799068d38c1d0ef732661f3e6c8",
       "content_sha256": "fad329636f6f670e4b6b50c8e438daf6d6f3ad2ca61599cd16832bd71630e57e",
       "snapshot": "en/acknowledgments.html",
       "translation": null,
       "media": [],
+      "excluded_media": []
+    },
+    {
+      "id": "reading-clefs",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/",
+      "title": "3 Reading Clefs",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "5e505f6ff9aefc3d80f47aa80fb95de3f92012e4644f92ac34df897d8c76c2d5",
+      "content_sha256": "098b259f6c62afcda9c56b2016575df135a36a9c021851427f12da553a31e524",
+      "snapshot": "en/reading-clefs.html",
+      "translation": "src/fundamentals/03-reading-clefs.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-10.28.19-AM-300x82.png",
+          "alt": "A treble clef is on the left of a staff. The letter names of the lines are labeled. Bottom to top these are: E, G, B, D, and F.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-10.28.23-AM-300x83.png",
+          "alt": "A treble clef is to the left of a staff. The letter names of the spaces are labeled. From bottom to top these are: F, A, C, and E.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.00.29-AM-300x66.png",
+          "alt": "A staff with a bass clef to its left. The letter names of the lines are labeled. Bottom to top these are: G, B, D, F, A.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.00.34-AM-300x79.png",
+          "alt": "A staff with a bass clef to the left. The letter names of the spaces are labeled. They are (bottom to top): A, C, E, and G.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.10.40-AM-300x69.png",
+          "alt": "A staff with an alto clef to the left. The lines are labeled with letter names. These are (bottom to top): F, A, C, E, and G.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.10.45-AM-300x69.png",
+          "alt": "A staff with an alto clef on the left side. The letter names of the spaces are labeled. These are (bottom to top): G, B, D, F.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.27.17-AM-300x72.png",
+          "alt": "A staff with a tenor clef to the left. Letter names for the lines are labeled. These are (bottom to top): D, F, A, C, E.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-11.27.22-AM-300x78.png",
+          "alt": "A staff with a tenor clef to the left. The spaces are labeled. These are (bottom to top): E, G, B, D.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-12.05.34-PM-300x71.png",
+          "alt": "A staff with a treble clef. Ledger lines are used to extend the staff, with the letter names G, A, B, and C.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-05-29-at-12.14.51-PM-300x81.png",
+          "alt": "A staff with a bass clef. Ledger lines extend the staff down with the letter names F, E, D, and C.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.samuelstokesmusic.com/flashcards/Bass-and-treble-flashcards.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.samuelstokesmusic.com/flashcards/Bass-and-treble-flashcards.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.samuelstokesmusic.com/flashcards/Alto-clef-flashcards.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.samuelstokesmusic.com/flashcards/Tenor-clef-flashcards.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.musicfun.net.au/pdf_files/note_names.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.musicfun.net.au/pdf_files/treble_nn_letter.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.musicfun.net.au/pdf_files/bass_nn_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.musicfun.net.au/pdf_files/alto_nn_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://cdn.shopify.com/s/files/1/2308/9201/files/Naming_Tenor_Clef_Notes.pdf?951452119379613733",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.conejousd.org/Portals/36/TEACHERS/apayne/Treble%20Clef%20Note%20Reading%20Packet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.masoncoschools.com/userfiles/90/Classes/1028/vln_worksheet_2.pdf?id=541114",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://mcfarlandakchoral.weebly.com/uploads/3/8/3/1/38313119/bass_clef_note_reading_packet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.masoncoschools.com/userfiles/90/Classes/1028/vc_dbl_worksheet_1.pdf?id=541115",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.d11.org/site/handlers/filedownload.ashx?moduleinstanceid=20010&dataid=31986&FileName=0006%20Bass%20Clef%20Ledger%20Lines.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.masoncoschools.com/userfiles/90/Classes/1028/alto_clef_worksheet_2015.pdf?id=541109",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://static1.squarespace.com/static/5b1f56848ab722d5e4f7b305/t/5d49d7b42400100001377fee/1565120436475/Adv+Alto+Clef+Note+Identification.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://static1.squarespace.com/static/5b1f56848ab722d5e4f7b305/t/5d49d8b809ff9b000132f662/1565120696482/Adv+Tenor+Clef+Note+Identification.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws01-pitch_notation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Reading-Clefs-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-1.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Reading-Clefs-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "keyboard-grand-staff",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+      "title": "4 The Keyboard and the Grand Staff",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "8c98a3b0d7cf81b7af96d7219e242c0b00b983525441f37097835066fe5d4a13",
+      "content_sha256": "842603ef38dffe358c09fe772c7ba40abcb4cae3bc2f7a0b9638f094c4ad9108",
+      "snapshot": "en/keyboard-grand-staff.html",
+      "translation": "src/fundamentals/04-keyboard-grand-staff.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Piano-Keyboard-300x211.jpg",
+          "alt": "A photograph of a piano keyboard. There are both white keys and black keys.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Piano-Keyboard-Full-scaled-1.jpg",
+          "alt": "An extended piano keyboard. Both black and white keys can be seen.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/93k3JolSjF8?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch4-ex4-white_keys_labeled-300x98.jpg",
+          "alt": "A blank piano keyboard is shown and letter names have been placed on the white keys.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/brace_line-1-300x149.jpg",
+          "alt": "A grand staff; the line and brace have been labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch4-ex6-grand_staff-labeled-300x116.jpg",
+          "alt": "A grand staff is shown along with a piano keyboard above the staff. The notes are labelled on the piano keyboard, and lines are drawn to their corresponding note on the grade staff.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2019-11-23-at-11.48.12-AM-300x180.png",
+          "alt": "Pitches are shown above the bass clef staff and below the treble clef staff. They are labelled with the letter names D, C, B, A, G.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch4-ex9-middle_c-1-300x124.jpg",
+          "alt": "A staff has been vertically condensed. The note C (middle C) is boxed, in between the treble and bass clef staves.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/vertically_expanded_example_9-revised-300x109.jpg",
+          "alt": "A grand staff has been vertically expanded; middle C (in both the treble and bass clefs) have been boxed",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch4-ex11-fifth-300x148.jpg",
+          "alt": "A generic fifth is shown with the notes F and C, on a staff with a treble clef.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Blank-Keyboards-for-Class.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/15097456/1321143277083/Music-Theory-Worksheet-8-Grand-Staff.pdf?token=oxqaNRlQqGdWlNPTT23YPiu%2BGHI%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/NSGS/ns.grand.staff/midc1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/NSGS/ns.grand.staff/midc2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/NSGS/ns.grand.staff/gs3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/NSGS/ns.grand.staff/gs4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/NSGS/ns.grand.staff/gs5.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.myfunpianostudio.com/worksheets/piano_worksheets_names_of_keys_cowboy.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.myfunpianostudio.com/worksheets/piano_worksheets_names_of_piano_keys_cowgirl.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-2.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-3-11.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-3-11.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-4-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-The-Keyboard-and-the-Grand-Staff-4-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "half-whole-steps",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/",
+      "title": "5 Half Steps, Whole Steps, and Accidentals",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "a85c4ef9308e6acb58225d0f7acb0bf2c1855d45854b5a94a9370cea7e32f0e2",
+      "content_sha256": "78cd2faff54e36c5066f295b3b5a627bc979b96b3fc398cb8c599956ef09ead2",
+      "snapshot": "en/half-whole-steps.html",
+      "translation": "src/fundamentals/05-half-whole-steps.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch5-ex1-piano-half_steps-300x191.jpg",
+          "alt": "A piano keyboard is shown with the white keys labeled. Half steps between B/C, E/F, G and G sharp and A and A flat are shown.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch5-ex2-piano-whole_steps-300x205.jpg",
+          "alt": "A piano keyboard is shown and white keys are labeled. Whole steps between A and B, E and F sharp, and D flat and E flat show also labeled.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/a2q0xBYo4Z0?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch5-ex4-accidental_placement-300x76.jpg",
+          "alt": "Correct and incorrect ways of drawing accidentals are shown. The correct accidentals appear to the left of a note, on the same line or space as the note. Incorrect accidentals are too large, too small, or are on a different line or space than the note.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch5-ex5-piano-black_keys-300x227.jpg",
+          "alt": "A piano keyboard is shown. The white and black keys are labeled. Each black key note has both a sharp and a flat name.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ch5-ex6-double_accidentals-300x226.jpg",
+          "alt": "A piano keyboard is shown with white and black keys labeled. Additionally, double accidentals are shown on some of the white keys.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/23104230/1373756418073/Music-Theory-Worksheet-18-Whole-Half-Stepsv2.pdf?token=GZEUx18WdVeYh2GuEgy70sWCvzI%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://people.wku.edu/michael.kallstrom/4.%20half%20and%20whole%20steps%20worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://jkornfeld.net/complete_exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.mypiano.com.au/uploads/1/5/5/7/15579660/theory_worksheets_complete.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://colorinmypiano.com/wp-content/files/Staff_to_Keyboard_Matching_-_digital_worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://jkornfeld.net/complete_exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://mymission.lamission.edu/userdata/wentzj/docs/Enharmonics%20Worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-1-11.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-1-11.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-2-1-v2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-2-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-3-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-3-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Accidentals-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Accidentals-2.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-5-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-5.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-6-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Half-and-Whole-Steps-and-Accidentals-6-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
       "excluded_media": []
     }
   ]

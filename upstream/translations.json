@@ -30,6 +30,40 @@
       "modifications": [
         "Russian translation; translated captions and alt text; explicitly marked translator notes"
       ]
+    },
+    {
+      "id": "reading-clefs",
+      "path": "src/fundamentals/03-reading-clefs.md",
+      "status": "draft",
+      "source_content_sha256": "098b259f6c62afcda9c56b2016575df135a36a9c021851427f12da553a31e524",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes; external English exercises retained",
+        "English mnemonic phrases retained and explained; Russian note names added; MuseScore link labels corrected to MSCZ to match original URLs"
+      ]
+    },
+    {
+      "id": "keyboard-grand-staff",
+      "path": "src/fundamentals/04-keyboard-grand-staff.md",
+      "status": "draft",
+      "source_content_sha256": "842603ef38dffe358c09fe772c7ba40abcb4cae3bc2f7a0b9638f094c4ad9108",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes; external English exercises retained",
+        "Example 8 restored from malformed escaped image markup; corrected multiplication sign to x in source filename; source snapshot remains unchanged",
+        "Clarified inclusive counting for generic intervals and Russian octave names"
+      ]
+    },
+    {
+      "id": "half-whole-steps",
+      "path": "src/fundamentals/05-half-whole-steps.md",
+      "status": "draft",
+      "source_content_sha256": "78cd2faff54e36c5066f295b3b5a627bc979b96b3fc398cb8c599956ef09ead2",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes; external English exercises retained",
+        "Added translator notes limiting enharmonic equality to the described tuning and explaining accidental reference pitch and octave-boundary spelling"
+      ]
     }
   ]
 }
