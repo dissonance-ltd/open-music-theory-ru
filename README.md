@@ -48,6 +48,10 @@ mdbook serve --open
 Для изменения терминологии редактируйте `glossary/terminology.yml`, затем выполните
 `python scripts/render_glossary.py`. Новые соответствия сначала помечаются `candidate`.
 
+Для изменения Python-скриптов см. [устройство инструментов и зависимости](scripts/README.md).
+Установите `scripts/requirements-dev.txt`; форматирование Ruff и строгая проверка
+типов mypy входят в CI наряду с тестами.
+
 ## Обновления источника
 
 ```bash

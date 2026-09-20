@@ -1,25 +1,26 @@
 #!/usr/bin/env python3
-"""Compare imported chapter hashes without modifying translations."""
+"""Compare source manifests: exit 0 if unchanged, 1 if changed, 2 on input errors."""
+
 import argparse
-import json
 from pathlib import Path
 
-def compare(old, new):
-    a = {c['id']: c for c in old['chapters']}
-    b = {c['id']: c for c in new['chapters']}
-    return {
-        'added': sorted(b.keys() - a.keys()),
-        'removed': sorted(a.keys() - b.keys()),
-        'changed': sorted(k for k in a.keys() & b.keys() if a[k]['content_sha256'] != b[k]['content_sha256']),
-        'metadata_changed': sorted(k for k in a.keys() & b.keys() if any(a[k].get(f) != b[k].get(f) for f in ('url', 'source_byline', 'title'))),
-        'edition_changed': old.get('edition') != new.get('edition'),
-    }
+from omt.cli import run
+from omt.comparison import compare
+from omt.files import encode_json, read_json
+from omt.models import SourceManifest
 
-if __name__ == '__main__':
-    p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument('old', type=Path)
-    p.add_argument('new', type=Path)
-    args = p.parse_args()
-    result = compare(json.loads(args.old.read_text()), json.loads(args.new.read_text()))
-    print(json.dumps(result, ensure_ascii=False, indent=2))
-    raise SystemExit(int(any(result.values())))
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("old", type=Path)
+    parser.add_argument("new", type=Path)
+    args = parser.parse_args()
+    previous = read_json(args.old, SourceManifest)
+    current = read_json(args.new, SourceManifest)
+    changes = compare(previous, current)
+    print(encode_json(changes).decode("utf-8"), end="")
+    return int(changes.has_changes)
+
+
+if __name__ == "__main__":
+    raise SystemExit(run(main))

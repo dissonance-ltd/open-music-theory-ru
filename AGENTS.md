@@ -27,3 +27,8 @@ For a limited documentation or code change, read the portions relevant to it.
   prose. Add regression coverage when fixing an actual importer defect.
 
 These are repository contribution instructions, not an installable skill.
+
+For Python changes, read `scripts/README.md`, install
+`scripts/requirements-dev.txt`, and run Ruff lint/format checks, strict mypy and
+the tests. Keep dependency and behavior changes explicit in the PR. Preserve
+normalizer output unless an intentional source-format migration is in scope.
