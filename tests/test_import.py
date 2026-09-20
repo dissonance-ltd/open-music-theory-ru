@@ -5,12 +5,29 @@ import sys
 import tempfile
 import unittest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from import_upstream import extract, import_book
+from import_upstream import catalog, extract, import_book
 from diff_upstream import compare
 
 PAGE = b'''<html><nav><ol class="toc"><li id="c1"><div class="toc__title__container"><a href="https://example.org/c1/">One</a></div></li></ol></nav><div id="content"><section><header><h1>Chapter</h1><p data-type="author">An Author</p></header><p id="claim">A note.</p><img src="../fig.png" alt="Notes"><img src="OMT-cover.png"><iframe src="https://www.youtube.com/embed/example" title="Example"></iframe><script>unsafe()</script><template id="term"><p>Definition.</p><button>Close</button></template></section></div><a href="https://creativecommons.org/licenses/by-sa/4.0/">License</a></html>'''
 
 class ImportTests(unittest.TestCase):
+    def test_unlinked_part_preserves_nested_chapters_and_order(self):
+        raw = b'''<ol class="toc">
+          <li id="before"><div class="toc__title__container"><a href="/before/">Before</a></div></li>
+          <li id="workbook"><div class="toc__title__container"><span>XII. </span>Workbook</div>
+            <ol><li id="digital"><div class="toc__title__container">
+              <p><a href="/digital/">Digital Workbook</a></p><p class="toc__author">Kyle Gullings</p>
+            </div></li><li id="pdf"><div class="toc__title__container"><a href="/pdf/">PDF Workbook</a></div></li></ol>
+          </li><li id="after"><div class="toc__title__container"><a href="/after/">After</a></div></li>
+        </ol>'''
+        items = catalog(raw)
+        self.assertEqual([i['id'] for i in items], ['before', 'workbook', 'after'])
+        self.assertEqual(items[1]['title'], 'XII. Workbook')
+        self.assertIsNone(items[1]['url'])
+        self.assertEqual([i['id'] for i in items[1]['children']], ['digital', 'pdf'])
+        self.assertEqual(items[1]['children'][0]['url'], '/digital/')
+        self.assertEqual(items[1]['children'][0]['source_byline'], ['Kyle Gullings'])
+
     def test_text_media_definitions_and_rights_survive_normalization(self):
         content, meta, media, excluded = extract(PAGE, 'https://example.org/c1/')
         self.assertIn(b'A note.', content)

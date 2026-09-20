@@ -10,6 +10,11 @@ HTTP 403 during preparation, so no official XML export was obtained.
 
 - `catalog.json`: complete table of contents exposed by the Nebraska edition,
   in its own order, including per-entry bylines. It is not the current VIVA TOC.
+  There are 136 entries including 116 chapter links. Unlinked section headings
+  use `url: null` and retain their children; this preserves the Workbook heading
+  and its Digital/PDF Workbook links, previously skipped by the importer.
+  Catalog membership does not establish body availability or media completeness.
+  Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
 - `en/*.html`: seven normalized English chapter bodies: introduction, first five
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
   Other chapter bodies have **not** been downloaded or translated.
