@@ -1164,6 +1164,32 @@
       ]
     },
     {
+      "id": "toc-part-639",
+      "title": "XII. Workbook",
+      "url": null,
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-640",
+          "title": "115. Digital Workbook",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/digital-workbook/",
+          "source_byline": [
+            "Kyle Gullings"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-642",
+          "title": "116. PDF Workbook",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/pdf-workbook/",
+          "source_byline": [
+            "Kyle Gullings"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
       "id": "toc-part-644",
       "title": "XIII. Chapters in Development",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/part/chapters-in-development/",

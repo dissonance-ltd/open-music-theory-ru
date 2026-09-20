@@ -1,0 +1,186 @@
+# Трекер перевода
+
+Рабочая редакция: **Open Music Theory — Fall 2023, Nebraska**. Исходное оглавление — [catalog.json](../upstream/catalog.json); английские снимки — [manifest.json](../upstream/manifest.json); привязки и редакционные статусы — [translations.json](../upstream/translations.json).
+
+## Объём и текущее состояние
+
+Состояние при введении процесса: 20 сентября 2026 года, после слияния PR #3 (`bde2d57a9a8bf6a0996e1db28f61efb29c573ee4`). Оглавление содержит **136 элементов: 116 ссылок на главы, 6 вводных страниц, 13 разделов и приложение**. Есть 7 английских снимков и 6 русских черновиков: введение и главы 1–5. Остальные тела страниц не импортированы; их доступность, объём и медиа не оценены. Само наличие URL этого не подтверждает.
+
+Основная очередь — введение и все 116 ссылок на главы, включая Anthology и Workbook. Для вспомогательных страниц и вступлений разделов сначала определить содержимое и нужную форму русской адаптации; их нельзя молча исключить из итогового отчёта. Workbook может оказаться страницами-ссылками: до чтения их содержимого объём неизвестен. Сверка с текущим VIVA и полная локализация сторонних ресурсов остаются отдельными задачами.
+
+При создании трекера исправлен пропуск в импортёре оглавления: у заголовка Workbook нет ссылки, но есть две дочерние страницы. Ранее каталог содержал 133 элемента и 114 ссылок на главы. Восстановлены исходные ID, порядок, названия и авторские строки из кеша той же редакции; новые тела страниц при этом не скачивались. Это исправление учёта, а не переход на другую редакцию.
+
+## Как обновлять
+
+Это вручную поддерживаемый редакционный трекер. Обновляйте затронутые строки в каждом содержательном PR. Поля источника и перевода должны соответствовать JSON-реестрам; при расхождении сначала проверьте их, не перезаписывайте редакционные свидетельства автоматически. Для новых начатых глав добавляйте строку в таблицу отдельных проверок и ссылку на запись в `docs/reviews/`.
+
+В таблице каталога «не начат» относится к русскому тексту, «не оценено» — к отсутствию инвентаря источника. Неизвестность не означает нулевое количество примеров. Статус «в работе» сопровождайте исполнителем и веткой/PR в очереди. Для готового черновика указывайте локальный путь. Исходные названия и авторские строки сохранены без попытки исправить их по памяти.
+
+Отдельно фиксируйте: полный черновик; технический результат со ссылкой на проверенный коммит; сверку ИИ; человеческую проверку терминологии и содержания; полноту инвентаря; локализацию материалов. «Нет записи» означает отсутствие документированного свидетельства, а не утверждение, что текст вообще никто не читал. После существенной правки затронутые проверки становятся «устарело».
+
+## Ближайшая очередь
+
+| Пакет | Состав | Зависимость / следующий шаг | Исполнитель / PR |
+|---|---|---|---|
+| Процесс | Политика, трекер, шаблоны, восстановление Workbook в каталоге | Применить процесс к следующему пакету, затем оценить его полезность | ИИ / ветка `docs/translation-workflow` |
+| Следующий перевод | 6. ASPN; 7. Other Aspects of Notation; 8. Rhythmic and Rest Values | Импортировать тела, заполнить инвентарь, согласовать октавы и длительности | Не назначен |
+| Следующий тематический блок | 9–11. Simple Meter; Compound Meter; Other Rhythmic Essentials | Уточнить различия русской и американской метрической терминологии | Не назначен |
+| Редакционный долг | Введение и главы 1–5 | Постепенно оформить поэлементные записи, записанную сверку и человеческую рецензию | Не назначен |
+
+## Отдельные проверки начатых переводов
+
+Техническое свидетельство для шести исходных черновиков: [Test на базовом коммите](https://github.com/dissonance-ltd/open-music-theory-ru/actions/runs/35522802547). Эти проверки не подтверждают смысловую точность, визуальное качество или работу внешнего видео. Деплой также прошёл, но не изменяет редакционный статус. У всех шести в JSON остаются `draft` и `reviewed_by: null`.
+
+| Перевод | Инвентарь / запись главы | Технические проверки | Сверка ИИ | Человек: термины / содержание | Материалы |
+|---|---|---|---|---|---|
+| [Введение](../src/introduction.md) | Формальная запись не создана | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Иллюстрации опущены с видимой отметкой; остальное не оценено по новому шаблону |
+| [1. Западная нотация](../src/fundamentals/01-western-notation.md) | Формальная запись не создана | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Полная оценка локализации не записана |
+| [2. Запись нот](../src/fundamentals/02-notes-clefs.md) | Формальная запись не создана; сведения в PR #2 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 16 рисунков, подписи/alt RU; видео и задания EN |
+| [3. Чтение ключей](../src/fundamentals/03-reading-clefs.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 10 рисунков, подписи/alt RU; задания EN |
+| [4. Клавиатура](../src/fundamentals/04-keyboard-grand-staff.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 10 изображений, подписи/alt RU; видео и задания EN |
+| [5. Полутоны и тоны](../src/fundamentals/05-half-whole-steps.md) | Формальная запись не создана; сведения в PR #3 и реестрах | Пройдены на базовом коммите | Отдельной записи нет | Нет записи / нет записи | Частично: 5 рисунков, подписи/alt RU; видео и задания EN |
+
+Свидетельства ранних пакетов: [PR #2](https://github.com/dissonance-ltd/open-music-theory-ru/pull/2), [PR #3](https://github.com/dissonance-ltd/open-music-theory-ru/pull/3), [реестр изображений](../upstream/assets.json). Отдельный проход сравнения и независимая рецензия не присваиваются задним числом. У всех неначатых строк каталога проверки и локализация также не начаты; после начала работы вынесите их сюда.
+
+## Полный каталог рабочей редакции
+
+Каждая строка соответствует одному ID исходного каталога. «Снимок» подтверждает только импорт тела, а не завершённую инвентаризацию. Для раздела без URL отмечена навигационная роль; у других разделов содержимое ещё предстоит оценить.
+
+| ID | Материал / источник | Авторская строка адаптации | Английское тело | Русский текст |
+|---|---|---|---|---|
+| `toc-front-matter-26` | [Introduction](https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/) | Brian Moore | [Снимок](../upstream/en/introduction.html) | [Черновик](../src/introduction.md) |
+| `toc-front-matter-27` | [Acknowledgments](https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/) | Brian Moore | [Снимок](../upstream/en/acknowledgments.html) | Не начат |
+| `toc-front-matter-28` | [Statement on Spotify Usage](https://pressbooks.nebraska.edu/openmusictheory/front-matter/statement-on-spotify-usage/) | Glenn Korff School of Music | Не импортировано; не оценено | Не начат |
+| `toc-front-matter-29` | [Instructor Resources](https://pressbooks.nebraska.edu/openmusictheory/front-matter/instructor-resources/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-front-matter-30` | [Changelog](https://pressbooks.nebraska.edu/openmusictheory/front-matter/changelog/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-front-matter-38` | [Helpful documents](https://pressbooks.nebraska.edu/openmusictheory/front-matter/helpful-documents/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-part-39` | [I. I. Fundamentals](https://pressbooks.nebraska.edu/openmusictheory/part/fundamentals/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-44` | [1. Introduction to Western Musical Notation](https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/) | Chelsey Hamm | [Снимок](../upstream/en/western-notation.html) | [Черновик](../src/fundamentals/01-western-notation.md) |
+| `toc-chapter-64` | [2. Notation of Notes, Clefs, and Ledger Lines](https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/) | Chelsey Hamm | [Снимок](../upstream/en/notes-clefs.html) | [Черновик](../src/fundamentals/02-notes-clefs.md) |
+| `toc-chapter-77` | [3. Reading Clefs](https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/) | Chelsey Hamm | [Снимок](../upstream/en/reading-clefs.html) | [Черновик](../src/fundamentals/03-reading-clefs.md) |
+| `toc-chapter-96` | [4. The Keyboard and the Grand Staff](https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/) | Chelsey Hamm | [Снимок](../upstream/en/keyboard-grand-staff.html) | [Черновик](../src/fundamentals/04-keyboard-grand-staff.md) |
+| `toc-chapter-114` | [5. Half Steps, Whole Steps, and Accidentals](https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/) | Chelsey Hamm | [Снимок](../upstream/en/half-whole-steps.html) | [Черновик](../src/fundamentals/05-half-whole-steps.md) |
+| `toc-chapter-120` | [6. American Standard Pitch Notation (ASPN)](https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/) | Chelsey Hamm and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-126` | [7. Other Aspects of Notation](https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/) | Chelsey Hamm and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-136` | [8. Rhythmic and Rest Values](https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/) | Chelsey Hamm; Mark Gotham; and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-149` | [9. Simple Meter and Time Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/) | Chelsey Hamm; Kris Shaffer; and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-155` | [10. Compound Meter and Time Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/) | Chelsey Hamm and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-158` | [11. Other Rhythmic Essentials](https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/) | Bryn Hughes; Mark Gotham; and Chelsey Hamm | Не импортировано; не оценено | Не начат |
+| `toc-chapter-171` | [12. Major Scales, Scale Degrees, and Key Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/major-scales/) | Chelsey Hamm and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-178` | [13. Minor Scales, Scale Degrees, and Key Signatures](https://pressbooks.nebraska.edu/openmusictheory/chapter/minor-scales/) | Chelsey Hamm and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-184` | [14. Introduction to Diatonic Modes and the Chromatic "Scale"](https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/) | Chelsey Hamm | Не импортировано; не оценено | Не начат |
+| `toc-chapter-194` | [15. The Basics of Sight-Singing and Dictation](https://pressbooks.nebraska.edu/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/) | Kris Shaffer; Chelsey Hamm; and Samuel Brady | Не импортировано; не оценено | Не начат |
+| `toc-chapter-203` | [16. Intervals](https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals/) | Chelsey Hamm and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-211` | [17. Triads](https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/) | Chelsey Hamm | Не импортировано; не оценено | Не начат |
+| `toc-chapter-218` | [18. Seventh Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/) | Chelsey Hamm | Не импортировано; не оценено | Не начат |
+| `toc-chapter-222` | [19. Inversion and Figured Bass](https://pressbooks.nebraska.edu/openmusictheory/chapter/inversion-and-figured-bass/) | Chelsey Hamm and Samuel Brady | Не импортировано; не оценено | Не начат |
+| `toc-chapter-237` | [20. Roman Numerals and SATB Chord Construction](https://pressbooks.nebraska.edu/openmusictheory/chapter/roman-numerals/) | Samuel Brady and Kris Shaffer | Не импортировано; не оценено | Не начат |
+| `toc-chapter-240` | [21. Texture](https://pressbooks.nebraska.edu/openmusictheory/chapter/texture/) | Samuel Brady and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-241` | [II. II. Counterpoint and Galant Schemas](https://pressbooks.nebraska.edu/openmusictheory/part/counterpoint/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-247` | [22. Introduction to Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-249` | [23. First-Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/first-species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-251` | [24. Second-Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/second-species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-253` | [25. Third-Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/third-species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-255` | [26. Fourth-Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/fourth-species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-257` | [27. Fifth-Species Counterpoint](https://pressbooks.nebraska.edu/openmusictheory/chapter/fifth-species-counterpoint/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-266` | [28. Gradus ad Parnassum Exercises](https://pressbooks.nebraska.edu/openmusictheory/chapter/gradus-ad-parnassum-exercises/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-271` | [29. 16th-Century Contrapuntal Style](https://pressbooks.nebraska.edu/openmusictheory/chapter/16th-century-contrapuntal-style/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-273` | [30. High Baroque Fugal Exposition](https://pressbooks.nebraska.edu/openmusictheory/chapter/high-baroque-fugal-exposition/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-275` | [31. Ground Bass](https://pressbooks.nebraska.edu/openmusictheory/chapter/ground-bass/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-276` | [32. Galant Schemas](https://pressbooks.nebraska.edu/openmusictheory/chapter/galant-schemas/) | Kris Shaffer and Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-277` | [33. Galant Schemas – Summary](https://pressbooks.nebraska.edu/openmusictheory/chapter/galant-schemas-summary/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-278` | [34. Galant schemas – The Rule of the Octave and Harmonizing the Scale with Sequences](https://pressbooks.nebraska.edu/openmusictheory/chapter/rule-of-the-octave/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-279` | [III. III. Form](https://pressbooks.nebraska.edu/openmusictheory/part/form/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-282` | [35. Foundational Concepts for Phrase-Level Forms](https://pressbooks.nebraska.edu/openmusictheory/chapter/foundational-concepts/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-296` | [36. The Phrase, Archetypes, and Unique Forms](https://pressbooks.nebraska.edu/openmusictheory/chapter/phrase-archetypes-unique-forms/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-301` | [37. Hybrid Phrase-Level Forms](https://pressbooks.nebraska.edu/openmusictheory/chapter/hybrid-phrase-level-forms/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-310` | [38. Expansion and Contraction at the Phrase Level](https://pressbooks.nebraska.edu/openmusictheory/chapter/expansion-and-contraction/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-312` | [39. Formal Sections in General](https://pressbooks.nebraska.edu/openmusictheory/chapter/formal-sections-in-general/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-327` | [40. Binary Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/binary-form/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-336` | [41. Ternary Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/ternary-form/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-345` | [42. Sonata Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/sonata-form/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-352` | [43. Rondo](https://pressbooks.nebraska.edu/openmusictheory/chapter/rondo/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-part-353` | [IV. IV. Diatonic Harmony, Tonicization, and Modulation](https://pressbooks.nebraska.edu/openmusictheory/part/diatonic-harmony/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-358` | [44. Introduction to Harmony, Cadences, and Phrase Endings](https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-harmony/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-361` | [45. Strengthening Endings with V7](https://pressbooks.nebraska.edu/openmusictheory/chapter/strengthening-endings-with-v7/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-364` | [46. Strengthening Endings with Strong Predominants](https://pressbooks.nebraska.edu/openmusictheory/chapter/strong-predominants/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-368` | [47. Embellishing Tones](https://pressbooks.nebraska.edu/openmusictheory/chapter/embellishing-tones/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-371` | [48. Strengthening Endings with Cadential 6/4](https://pressbooks.nebraska.edu/openmusictheory/chapter/cadential-64/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-375` | [49. Prolonging Tonic at Phrase Beginnings with V6 and Inverted V7s](https://pressbooks.nebraska.edu/openmusictheory/chapter/inverted-v7s/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-378` | [50. Performing Harmonic Analysis Using the Phrase Model](https://pressbooks.nebraska.edu/openmusictheory/chapter/performing-harmonic-analysis-using-the-phrase-model/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-381` | [51. Prolongation at Phrase Beginnings using the Leading-Tone Chord](https://pressbooks.nebraska.edu/openmusictheory/chapter/leading-tone-chord/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-384` | [52. 6/4 Chords as Forms of Prolongation](https://pressbooks.nebraska.edu/openmusictheory/chapter/64-chords-as-prolongations/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-387` | [53. Plagal Motion as a Form of Prolongation](https://pressbooks.nebraska.edu/openmusictheory/chapter/plagal-motion/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-390` | [54. La (Scale Degree 6) in the Bass at Beginnings, Middles, and Endings](https://pressbooks.nebraska.edu/openmusictheory/chapter/la-in-the-bass/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-393` | [55. The Mediant Harmonizing Mi (Scale Degree 3) in the Bass](https://pressbooks.nebraska.edu/openmusictheory/chapter/the-mediant/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-396` | [56. Predominant Seventh Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/predominant-seventh-chords/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-chapter-403` | [57. Tonicization](https://pressbooks.nebraska.edu/openmusictheory/chapter/tonicization/) | John Peterson and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-408` | [58. Extended Tonicization and Modulation to Closely Related Keys](https://pressbooks.nebraska.edu/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys/) | John Peterson | Не импортировано; не оценено | Не начат |
+| `toc-part-409` | [V. V. Chromaticism](https://pressbooks.nebraska.edu/openmusictheory/part/chromaticism/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-412` | [59. Modal Mixture](https://pressbooks.nebraska.edu/openmusictheory/chapter/modal-mixture/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-415` | [60. Neapolitan 6th (♭II6)](https://pressbooks.nebraska.edu/openmusictheory/chapter/bii6/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-419` | [61. Augmented Sixth Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/augmented-sixth-chords/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-422` | [62. Common-Tone Chords (CTº7 & CT+6)](https://pressbooks.nebraska.edu/openmusictheory/chapter/common-tone-chords/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-425` | [63. Harmonic Elision](https://pressbooks.nebraska.edu/openmusictheory/chapter/harmonic-elision/) | Brian Jarvis | Не импортировано; не оценено | Не начат |
+| `toc-chapter-429` | [64. Chromatic Modulation](https://pressbooks.nebraska.edu/openmusictheory/chapter/reinterpreting-augmented-sixth-chords/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-430` | [65. Reinterpreting Diminished Seventh Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/reinterpreting-diminished-seventh-chords/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-434` | [66. Augmented Options](https://pressbooks.nebraska.edu/openmusictheory/chapter/augmented-options/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-435` | [67. Equal Divisions of the Octave](https://pressbooks.nebraska.edu/openmusictheory/chapter/equal-divisions-of-the-octave/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-436` | [68. Chromatic Sequences](https://pressbooks.nebraska.edu/openmusictheory/chapter/chromatic-sequences/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-437` | [69. Parallel Chromatic Sequences](https://pressbooks.nebraska.edu/openmusictheory/chapter/parallel-chromatic-sequences/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-438` | [70. The Omnibus Progression](https://pressbooks.nebraska.edu/openmusictheory/chapter/the-omnibus-progression/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-439` | [71. Altered and Extended Dominant Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/altered-and-extended-dominant-chords/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-461` | [72. Neo-Riemannian Triadic Progressions](https://pressbooks.nebraska.edu/openmusictheory/chapter/neo-riemannian-triadic-progressions/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-part-462` | [VI. VI. Jazz](https://pressbooks.nebraska.edu/openmusictheory/part/jazz/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-473` | [73. Swing Rhythms](https://pressbooks.nebraska.edu/openmusictheory/chapter/swing-rhythms/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-482` | [74. Chord Symbols](https://pressbooks.nebraska.edu/openmusictheory/chapter/chord-symbols/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-488` | [75. Jazz Voicings](https://pressbooks.nebraska.edu/openmusictheory/chapter/jazz-voicings/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-495` | [76. ii–V–I](https://pressbooks.nebraska.edu/openmusictheory/chapter/ii-v-i/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-499` | [77. Embellishing Chords](https://pressbooks.nebraska.edu/openmusictheory/chapter/jazz-embellishing-chords/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-503` | [78. Substitutions](https://pressbooks.nebraska.edu/openmusictheory/chapter/substitutions/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-504` | [79. Chord-Scale Theory](https://pressbooks.nebraska.edu/openmusictheory/chapter/chord-scale-theory/) | John Kocur | Не импортировано; не оценено | Не начат |
+| `toc-chapter-508` | [80. Blues Harmony](https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-harmony/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-514` | [81. Blues Melodies and the Blues Scale](https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-melodies-and-the-blues-scale/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-part-515` | [VII. VII. Popular Music](https://pressbooks.nebraska.edu/openmusictheory/part/popular-music/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-517` | [82. Rhythm and Meter in Pop Music](https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythm-and-meter-in-pop-music/) | Bryn Hughes; Kris Shaffer; and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-520` | [83. Melody and Phrasing](https://pressbooks.nebraska.edu/openmusictheory/chapter/melody-and-phrasing/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-521` | [84. Introduction to Form in Popular Music](https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-form-in-popular-music/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-524` | [85. AABA Form and Strophic Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/aaba-and-strophic-form/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-529` | [86. Verse-Chorus Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/verse-chorus-form/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-530` | [87. Introduction to Harmonic Schemas in Pop Music](https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-pop-schemas/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-533` | [88. Blues-Based Schemas](https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-based-schemas/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-538` | [89. Four-Chord Schemas](https://pressbooks.nebraska.edu/openmusictheory/chapter/4-chord-schemas/) | Megan Lavengood and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-540` | [90. Classical Schemas (in a Pop Context)](https://pressbooks.nebraska.edu/openmusictheory/chapter/classical-schemas/) | Bryn Hughes and Kris Shaffer | Не импортировано; не оценено | Не начат |
+| `toc-chapter-543` | [91. Puff Schemas](https://pressbooks.nebraska.edu/openmusictheory/chapter/puff-schemas/) | Megan Lavengood and Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-558` | [92. Modal Schemas](https://pressbooks.nebraska.edu/openmusictheory/chapter/modal-schemas/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-559` | [93. Pentatonic Harmony](https://pressbooks.nebraska.edu/openmusictheory/chapter/pentatonic-harmony/) | Bryn Hughes | Не импортировано; не оценено | Не начат |
+| `toc-chapter-561` | [94. Fragile, Absent, and Emergent Tonics](https://pressbooks.nebraska.edu/openmusictheory/chapter/fragile-absent-and-emergent-tonics/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-part-562` | [VIII. VIII. 20th- and 21st-Century Techniques](https://pressbooks.nebraska.edu/openmusictheory/part/20th-and-21st-century-techniques/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-567` | [95. Pitch and Pitch Class](https://pressbooks.nebraska.edu/openmusictheory/chapter/pitch-and-pitch-class/) | Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-573` | [96. Intervals in Integer Notation](https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals-in-integer-notation/) | Brian Moseley and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-581` | [97. Pitch-Class Sets, Normal Order, and Transformations](https://pressbooks.nebraska.edu/openmusictheory/chapter/pc-sets-normal-order-and-transformations/) | Brian Moseley and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-584` | [98. Set Class and Prime Form](https://pressbooks.nebraska.edu/openmusictheory/chapter/set-class-and-prime-form/) | Brian Moseley and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-587` | [99. Interval-Class Vectors](https://pressbooks.nebraska.edu/openmusictheory/chapter/interval-class-vectors/) | Bryn Hughes and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-593` | [100. Analyzing with Set Theory (or not!)](https://pressbooks.nebraska.edu/openmusictheory/chapter/analyzing-with-set-theory/) | Mark Gotham and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-596` | [101. Diatonic Modes](https://pressbooks.nebraska.edu/openmusictheory/chapter/diatonic-modes/) | Mark Gotham and Megan Lavengood | Не импортировано; не оценено | Не начат |
+| `toc-chapter-598` | [102. Collections](https://pressbooks.nebraska.edu/openmusictheory/chapter/collections/) | Mark Gotham; Megan Lavengood; Brian Moseley; and Kris Shaffer | Не импортировано; не оценено | Не начат |
+| `toc-chapter-602` | [103. Analyzing with Modes, Scales, and Collections](https://pressbooks.nebraska.edu/openmusictheory/chapter/analyzing-with-collections-scales-and-modes/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-603` | [IX. IX. Twelve-Tone Music](https://pressbooks.nebraska.edu/openmusictheory/part/twelve-tone-music/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-604` | [104. Basics of Twelve-Tone Theory](https://pressbooks.nebraska.edu/openmusictheory/chapter/basics-of-twelve-tone-theory/) | Mark Gotham and Brian Moseley | Не импортировано; не оценено | Не начат |
+| `toc-chapter-605` | [105. Naming Conventions for Rows](https://pressbooks.nebraska.edu/openmusictheory/chapter/naming-conventions-for-rows/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-606` | [106. Row Properties](https://pressbooks.nebraska.edu/openmusictheory/chapter/row-properties/) | Mark Gotham and Brian Moseley | Не импортировано; не оценено | Не начат |
+| `toc-chapter-608` | [107. Analysis Examples - Webern Op. 21 and 24](https://pressbooks.nebraska.edu/openmusictheory/chapter/twelve-tone-analysis-examples-webern-op-21-and-24/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-609` | [108. History and Context of Serialism](https://pressbooks.nebraska.edu/openmusictheory/chapter/history-and-context-of-serialism/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-610` | [X. X. Orchestration](https://pressbooks.nebraska.edu/openmusictheory/part/orchestration/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-619` | [109. Core Principles of Orchestration](https://pressbooks.nebraska.edu/openmusictheory/chapter/core-principles-of-orchestration/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-628` | [110. Subtle Color Changes](https://pressbooks.nebraska.edu/openmusictheory/chapter/subtle-color-changes/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-634` | [111. Transcription from Piano](https://pressbooks.nebraska.edu/openmusictheory/chapter/transcription-from-piano/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-635` | [XI. Anthology](https://pressbooks.nebraska.edu/openmusictheory/part/anthology/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-chapter-636` | [112. Harmony Anthology](https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-harmony/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-637` | [113. Meter Anthology](https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-meter/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-chapter-638` | [114. Twelve-Tone Anthology](https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-twelve-tone/) | Mark Gotham | Не импортировано; не оценено | Не начат |
+| `toc-part-639` | XII. Workbook (заголовок без ссылки) | Не указана | Неприменимо: заголовок | Навигационный заголовок |
+| `toc-chapter-640` | [115. Digital Workbook](https://pressbooks.nebraska.edu/openmusictheory/chapter/digital-workbook/) | Kyle Gullings | Не импортировано; не оценено | Не начат |
+| `toc-chapter-642` | [116. PDF Workbook](https://pressbooks.nebraska.edu/openmusictheory/chapter/pdf-workbook/) | Kyle Gullings | Не импортировано; не оценено | Не начат |
+| `toc-part-644` | [XIII. Chapters in Development](https://pressbooks.nebraska.edu/openmusictheory/part/chapters-in-development/) | Не указана | Не импортировано; не оценено | Не начат |
+| `toc-back-matter-6` | [Appendix](https://pressbooks.nebraska.edu/openmusictheory/back-matter/appendix/) | Не указана | Не импортировано; не оценено | Не начат |

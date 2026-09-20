@@ -88,12 +88,15 @@ def catalog(raw):
     def entries(ol):
         result = []
         for li in ol.xpath('./li'):
-            anchors = li.xpath('./div[contains(@class,"toc__title__container")]//a[@href]')
-            if not anchors:
-                continue
-            a = anchors[0]
+            headings = li.xpath('./div[contains(@class,"toc__title__container")]')
+            if not headings:
+                raise ValueError('Missing Pressbooks TOC heading')
+            anchors = headings[0].xpath('.//a[@href]')
+            a = anchors[0] if anchors else None
             authors = li.xpath('./div/p[contains(@class,"toc__author")]')
-            item = {'id': li.get('id'), 'title': text(a), 'url': a.get('href'),
+            # Unlinked part headings still contain chapters (e.g. Workbook).
+            item = {'id': li.get('id'), 'title': text(a if a is not None else headings[0]),
+                    'url': a.get('href') if a is not None else None,
                     'source_byline': [text(e) for e in authors], 'children': []}
             for child in li.xpath('./ol'):
                 item['children'].extend(entries(child))
