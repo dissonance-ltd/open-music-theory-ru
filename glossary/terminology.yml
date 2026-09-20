@@ -1,0 +1,38 @@
+version: 1
+status_values:
+  - candidate
+  - accepted
+  - deprecated
+
+terms:
+  - en: pitch
+    ru: высота звука
+    status: candidate
+    alternatives:
+      - звуковысотность
+    note: Требуется согласовать употребление термина как свойства звука и как отдельной высоты.
+
+  - en: pitch class
+    ru: высотный класс
+    status: candidate
+    alternatives:
+      - класс высот
+    note: Особенно важно согласовать с терминологией теории множеств.
+
+  - en: scale degree
+    ru: ступень гаммы
+    status: candidate
+    alternatives:
+      - ступень звукоряда
+
+  - en: voice leading
+    ru: голосоведение
+    status: candidate
+
+  - en: tonicization
+    ru: тоникализация
+    status: candidate
+    alternatives:
+      - временная тонизация
+    note: Выбор зависит от принятой терминологии функциональной гармонии.
+
