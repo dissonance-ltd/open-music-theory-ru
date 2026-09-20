@@ -1,5 +1,8 @@
 # Open Music Theory RU
 
+[![GitHub Pages](https://github.com/dissonance-ltd/open-music-theory-ru/actions/workflows/deploy.yml/badge.svg?branch=main)](https://dissonance-ltd.github.io/open-music-theory-ru/)
+[![Tests](https://github.com/dissonance-ltd/open-music-theory-ru/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/dissonance-ltd/open-music-theory-ru/actions/workflows/test.yml)
+
 Неофициальный русский перевод и адаптация [Open Music Theory, Version 2](https://viva.pressbooks.pub/openmusictheory/).
 
 ## Текущий пилот
