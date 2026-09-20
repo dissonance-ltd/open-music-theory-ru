@@ -5,9 +5,40 @@
   "license": "CC-BY-SA-4.0",
   "current_viva_equivalence": "not_verified",
   "pages": [
-    {"id": "introduction", "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/", "translation": "src/introduction.md"},
-    {"id": "western-notation", "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/", "translation": "src/fundamentals/01-western-notation.md"},
-    {"id": "notes-clefs", "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/", "translation": "src/fundamentals/02-notes-clefs.md"},
-    {"id": "acknowledgments", "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/", "translation": null}
+    {
+      "id": "introduction",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/",
+      "translation": "src/introduction.md"
+    },
+    {
+      "id": "western-notation",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/",
+      "translation": "src/fundamentals/01-western-notation.md"
+    },
+    {
+      "id": "notes-clefs",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+      "translation": "src/fundamentals/02-notes-clefs.md"
+    },
+    {
+      "id": "acknowledgments",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/",
+      "translation": null
+    },
+    {
+      "id": "reading-clefs",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/",
+      "translation": "src/fundamentals/03-reading-clefs.md"
+    },
+    {
+      "id": "keyboard-grand-staff",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+      "translation": "src/fundamentals/04-keyboard-grand-staff.md"
+    },
+    {
+      "id": "half-whole-steps",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/",
+      "translation": "src/fundamentals/05-half-whole-steps.md"
+    }
   ]
 }
