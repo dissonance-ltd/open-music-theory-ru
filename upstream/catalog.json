@@ -1,0 +1,1181 @@
+{
+  "edition": "Open Music Theory — Fall 2023 (University of Nebraska Pressbooks adaptation)",
+  "items": [
+    {
+      "id": "toc-front-matter-26",
+      "title": "Introduction",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/",
+      "source_byline": [
+        "Brian Moore"
+      ],
+      "children": []
+    },
+    {
+      "id": "toc-front-matter-27",
+      "title": "Acknowledgments",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/",
+      "source_byline": [
+        "Brian Moore"
+      ],
+      "children": []
+    },
+    {
+      "id": "toc-front-matter-28",
+      "title": "Statement on Spotify Usage",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/statement-on-spotify-usage/",
+      "source_byline": [
+        "Glenn Korff School of Music"
+      ],
+      "children": []
+    },
+    {
+      "id": "toc-front-matter-29",
+      "title": "Instructor Resources",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/instructor-resources/",
+      "source_byline": [],
+      "children": []
+    },
+    {
+      "id": "toc-front-matter-30",
+      "title": "Changelog",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/changelog/",
+      "source_byline": [],
+      "children": []
+    },
+    {
+      "id": "toc-front-matter-38",
+      "title": "Helpful documents",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/helpful-documents/",
+      "source_byline": [],
+      "children": []
+    },
+    {
+      "id": "toc-part-39",
+      "title": "I. I. Fundamentals",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/fundamentals/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-44",
+          "title": "1. Introduction to Western Musical Notation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-64",
+          "title": "2. Notation of Notes, Clefs, and Ledger Lines",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-77",
+          "title": "3. Reading Clefs",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/clefs/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-96",
+          "title": "4. The Keyboard and the Grand Staff",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-114",
+          "title": "5. Half Steps, Whole Steps, and Accidentals",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/half-and-whole-steps/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-120",
+          "title": "6. American Standard Pitch Notation (ASPN)",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/aspn/",
+          "source_byline": [
+            "Chelsey Hamm and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-126",
+          "title": "7. Other Aspects of Notation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-aspects-of-notation/",
+          "source_byline": [
+            "Chelsey Hamm and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-136",
+          "title": "8. Rhythmic and Rest Values",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/",
+          "source_byline": [
+            "Chelsey Hamm; Mark Gotham; and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-149",
+          "title": "9. Simple Meter and Time Signatures",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/",
+          "source_byline": [
+            "Chelsey Hamm; Kris Shaffer; and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-155",
+          "title": "10. Compound Meter and Time Signatures",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/",
+          "source_byline": [
+            "Chelsey Hamm and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-158",
+          "title": "11. Other Rhythmic Essentials",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/",
+          "source_byline": [
+            "Bryn Hughes; Mark Gotham; and Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-171",
+          "title": "12. Major Scales, Scale Degrees, and Key Signatures",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/major-scales/",
+          "source_byline": [
+            "Chelsey Hamm and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-178",
+          "title": "13. Minor Scales, Scale Degrees, and Key Signatures",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/minor-scales/",
+          "source_byline": [
+            "Chelsey Hamm and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-184",
+          "title": "14. Introduction to Diatonic Modes and the Chromatic \"Scale\"",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-194",
+          "title": "15. The Basics of Sight-Singing and Dictation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+          "source_byline": [
+            "Kris Shaffer; Chelsey Hamm; and Samuel Brady"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-203",
+          "title": "16. Intervals",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals/",
+          "source_byline": [
+            "Chelsey Hamm and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-211",
+          "title": "17. Triads",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-218",
+          "title": "18. Seventh Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/",
+          "source_byline": [
+            "Chelsey Hamm"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-222",
+          "title": "19. Inversion and Figured Bass",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/inversion-and-figured-bass/",
+          "source_byline": [
+            "Chelsey Hamm and Samuel Brady"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-237",
+          "title": "20. Roman Numerals and SATB Chord Construction",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/roman-numerals/",
+          "source_byline": [
+            "Samuel Brady and Kris Shaffer"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-240",
+          "title": "21. Texture",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/texture/",
+          "source_byline": [
+            "Samuel Brady and Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-241",
+      "title": "II. II. Counterpoint and Galant Schemas",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/counterpoint/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-247",
+          "title": "22. Introduction to Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-249",
+          "title": "23. First-Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/first-species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-251",
+          "title": "24. Second-Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/second-species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-253",
+          "title": "25. Third-Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/third-species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-255",
+          "title": "26. Fourth-Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/fourth-species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-257",
+          "title": "27. Fifth-Species Counterpoint",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/fifth-species-counterpoint/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-266",
+          "title": "28. Gradus ad Parnassum Exercises",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/gradus-ad-parnassum-exercises/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-271",
+          "title": "29. 16th-Century Contrapuntal Style",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/16th-century-contrapuntal-style/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-273",
+          "title": "30. High Baroque Fugal Exposition",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/high-baroque-fugal-exposition/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-275",
+          "title": "31. Ground Bass",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/ground-bass/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-276",
+          "title": "32. Galant Schemas",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/galant-schemas/",
+          "source_byline": [
+            "Kris Shaffer and Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-277",
+          "title": "33. Galant Schemas – Summary",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/galant-schemas-summary/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-278",
+          "title": "34. Galant schemas – The Rule of the Octave and Harmonizing the Scale with Sequences",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rule-of-the-octave/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-279",
+      "title": "III. III. Form",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/form/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-282",
+          "title": "35. Foundational Concepts for Phrase-Level Forms",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/foundational-concepts/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-296",
+          "title": "36. The Phrase, Archetypes, and Unique Forms",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/phrase-archetypes-unique-forms/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-301",
+          "title": "37. Hybrid Phrase-Level Forms",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/hybrid-phrase-level-forms/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-310",
+          "title": "38. Expansion and Contraction at the Phrase Level",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/expansion-and-contraction/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-312",
+          "title": "39. Formal Sections in General",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/formal-sections-in-general/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-327",
+          "title": "40. Binary Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/binary-form/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-336",
+          "title": "41. Ternary Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/ternary-form/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-345",
+          "title": "42. Sonata Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/sonata-form/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-352",
+          "title": "43. Rondo",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rondo/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-353",
+      "title": "IV. IV. Diatonic Harmony, Tonicization, and Modulation",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/diatonic-harmony/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-358",
+          "title": "44. Introduction to Harmony, Cadences, and Phrase Endings",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-harmony/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-361",
+          "title": "45. Strengthening Endings with V7",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/strengthening-endings-with-v7/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-364",
+          "title": "46. Strengthening Endings with Strong Predominants",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/strong-predominants/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-368",
+          "title": "47. Embellishing Tones",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/embellishing-tones/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-371",
+          "title": "48. Strengthening Endings with Cadential 6/4",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/cadential-64/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-375",
+          "title": "49. Prolonging Tonic at Phrase Beginnings with V6 and Inverted V7s",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/inverted-v7s/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-378",
+          "title": "50. Performing Harmonic Analysis Using the Phrase Model",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/performing-harmonic-analysis-using-the-phrase-model/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-381",
+          "title": "51. Prolongation at Phrase Beginnings using the Leading-Tone Chord",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/leading-tone-chord/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-384",
+          "title": "52. 6/4 Chords as Forms of Prolongation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/64-chords-as-prolongations/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-387",
+          "title": "53. Plagal Motion as a Form of Prolongation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/plagal-motion/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-390",
+          "title": "54. La (Scale Degree 6) in the Bass at Beginnings, Middles, and Endings",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/la-in-the-bass/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-393",
+          "title": "55. The Mediant Harmonizing Mi (Scale Degree 3) in the Bass",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-mediant/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-396",
+          "title": "56. Predominant Seventh Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/predominant-seventh-chords/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-403",
+          "title": "57. Tonicization",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/tonicization/",
+          "source_byline": [
+            "John Peterson and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-408",
+          "title": "58. Extended Tonicization and Modulation to Closely Related Keys",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys/",
+          "source_byline": [
+            "John Peterson"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-409",
+      "title": "V. V. Chromaticism",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/chromaticism/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-412",
+          "title": "59. Modal Mixture",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/modal-mixture/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-415",
+          "title": "60. Neapolitan 6th (♭II6)",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/bii6/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-419",
+          "title": "61. Augmented Sixth Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/augmented-sixth-chords/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-422",
+          "title": "62. Common-Tone Chords (CTº7 & CT+6)",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/common-tone-chords/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-425",
+          "title": "63. Harmonic Elision",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/harmonic-elision/",
+          "source_byline": [
+            "Brian Jarvis"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-429",
+          "title": "64. Chromatic Modulation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/reinterpreting-augmented-sixth-chords/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-430",
+          "title": "65. Reinterpreting Diminished Seventh Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/reinterpreting-diminished-seventh-chords/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-434",
+          "title": "66. Augmented Options",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/augmented-options/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-435",
+          "title": "67. Equal Divisions of the Octave",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/equal-divisions-of-the-octave/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-436",
+          "title": "68. Chromatic Sequences",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/chromatic-sequences/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-437",
+          "title": "69. Parallel Chromatic Sequences",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/parallel-chromatic-sequences/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-438",
+          "title": "70. The Omnibus Progression",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-omnibus-progression/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-439",
+          "title": "71. Altered and Extended Dominant Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/altered-and-extended-dominant-chords/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-461",
+          "title": "72. Neo-Riemannian Triadic Progressions",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/neo-riemannian-triadic-progressions/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-462",
+      "title": "VI. VI. Jazz",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/jazz/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-473",
+          "title": "73. Swing Rhythms",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/swing-rhythms/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-482",
+          "title": "74. Chord Symbols",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/chord-symbols/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-488",
+          "title": "75. Jazz Voicings",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/jazz-voicings/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-495",
+          "title": "76. ii–V–I",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/ii-v-i/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-499",
+          "title": "77. Embellishing Chords",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/jazz-embellishing-chords/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-503",
+          "title": "78. Substitutions",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/substitutions/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-504",
+          "title": "79. Chord-Scale Theory",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/chord-scale-theory/",
+          "source_byline": [
+            "John Kocur"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-508",
+          "title": "80. Blues Harmony",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-harmony/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-514",
+          "title": "81. Blues Melodies and the Blues Scale",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-melodies-and-the-blues-scale/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-515",
+      "title": "VII. VII. Popular Music",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/popular-music/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-517",
+          "title": "82. Rhythm and Meter in Pop Music",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythm-and-meter-in-pop-music/",
+          "source_byline": [
+            "Bryn Hughes; Kris Shaffer; and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-520",
+          "title": "83. Melody and Phrasing",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/melody-and-phrasing/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-521",
+          "title": "84. Introduction to Form in Popular Music",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-form-in-popular-music/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-524",
+          "title": "85. AABA Form and Strophic Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/aaba-and-strophic-form/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-529",
+          "title": "86. Verse-Chorus Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/verse-chorus-form/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-530",
+          "title": "87. Introduction to Harmonic Schemas in Pop Music",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-pop-schemas/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-533",
+          "title": "88. Blues-Based Schemas",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/blues-based-schemas/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-538",
+          "title": "89. Four-Chord Schemas",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/4-chord-schemas/",
+          "source_byline": [
+            "Megan Lavengood and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-540",
+          "title": "90. Classical Schemas (in a Pop Context)",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/classical-schemas/",
+          "source_byline": [
+            "Bryn Hughes and Kris Shaffer"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-543",
+          "title": "91. Puff Schemas",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/puff-schemas/",
+          "source_byline": [
+            "Megan Lavengood and Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-558",
+          "title": "92. Modal Schemas",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/modal-schemas/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-559",
+          "title": "93. Pentatonic Harmony",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/pentatonic-harmony/",
+          "source_byline": [
+            "Bryn Hughes"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-561",
+          "title": "94. Fragile, Absent, and Emergent Tonics",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/fragile-absent-and-emergent-tonics/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-562",
+      "title": "VIII. VIII. 20th- and 21st-Century Techniques",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/20th-and-21st-century-techniques/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-567",
+          "title": "95. Pitch and Pitch Class",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/pitch-and-pitch-class/",
+          "source_byline": [
+            "Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-573",
+          "title": "96. Intervals in Integer Notation",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals-in-integer-notation/",
+          "source_byline": [
+            "Brian Moseley and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-581",
+          "title": "97. Pitch-Class Sets, Normal Order, and Transformations",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/pc-sets-normal-order-and-transformations/",
+          "source_byline": [
+            "Brian Moseley and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-584",
+          "title": "98. Set Class and Prime Form",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/set-class-and-prime-form/",
+          "source_byline": [
+            "Brian Moseley and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-587",
+          "title": "99. Interval-Class Vectors",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/interval-class-vectors/",
+          "source_byline": [
+            "Bryn Hughes and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-593",
+          "title": "100. Analyzing with Set Theory (or not!)",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/analyzing-with-set-theory/",
+          "source_byline": [
+            "Mark Gotham and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-596",
+          "title": "101. Diatonic Modes",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/diatonic-modes/",
+          "source_byline": [
+            "Mark Gotham and Megan Lavengood"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-598",
+          "title": "102. Collections",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/collections/",
+          "source_byline": [
+            "Mark Gotham; Megan Lavengood; Brian Moseley; and Kris Shaffer"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-602",
+          "title": "103. Analyzing with Modes, Scales, and Collections",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/analyzing-with-collections-scales-and-modes/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-603",
+      "title": "IX. IX. Twelve-Tone Music",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/twelve-tone-music/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-604",
+          "title": "104. Basics of Twelve-Tone Theory",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/basics-of-twelve-tone-theory/",
+          "source_byline": [
+            "Mark Gotham and Brian Moseley"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-605",
+          "title": "105. Naming Conventions for Rows",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/naming-conventions-for-rows/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-606",
+          "title": "106. Row Properties",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/row-properties/",
+          "source_byline": [
+            "Mark Gotham and Brian Moseley"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-608",
+          "title": "107. Analysis Examples - Webern Op. 21 and 24",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/twelve-tone-analysis-examples-webern-op-21-and-24/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-609",
+          "title": "108. History and Context of Serialism",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/history-and-context-of-serialism/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-610",
+      "title": "X. X. Orchestration",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/orchestration/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-619",
+          "title": "109. Core Principles of Orchestration",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/core-principles-of-orchestration/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-628",
+          "title": "110. Subtle Color Changes",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/subtle-color-changes/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-634",
+          "title": "111. Transcription from Piano",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/transcription-from-piano/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-635",
+      "title": "XI. Anthology",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/anthology/",
+      "source_byline": [],
+      "children": [
+        {
+          "id": "toc-chapter-636",
+          "title": "112. Harmony Anthology",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-harmony/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-637",
+          "title": "113. Meter Anthology",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-meter/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        },
+        {
+          "id": "toc-chapter-638",
+          "title": "114. Twelve-Tone Anthology",
+          "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/anthology-twelve-tone/",
+          "source_byline": [
+            "Mark Gotham"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "toc-part-644",
+      "title": "XIII. Chapters in Development",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/part/chapters-in-development/",
+      "source_byline": [],
+      "children": []
+    },
+    {
+      "id": "toc-back-matter-6",
+      "title": "Appendix",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/back-matter/appendix/",
+      "source_byline": [],
+      "children": []
+    }
+  ]
+}

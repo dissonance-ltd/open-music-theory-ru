@@ -1,38 +1,132 @@
 version: 1
 status_values:
-  - candidate
-  - accepted
-  - deprecated
-
+- candidate
+- accepted
+- deprecated
 terms:
-  - en: pitch
-    ru: высота звука
-    status: candidate
-    alternatives:
-      - звуковысотность
-    note: Требуется согласовать употребление термина как свойства звука и как отдельной высоты.
-
-  - en: pitch class
-    ru: высотный класс
-    status: candidate
-    alternatives:
-      - класс высот
-    note: Особенно важно согласовать с терминологией теории множеств.
-
-  - en: scale degree
-    ru: ступень гаммы
-    status: candidate
-    alternatives:
-      - ступень звукоряда
-
-  - en: voice leading
-    ru: голосоведение
-    status: candidate
-
-  - en: tonicization
-    ru: тоникализация
-    status: candidate
-    alternatives:
-      - временная тонизация
-    note: Выбор зависит от принятой терминологии функциональной гармонии.
-
+- en: pitch
+  ru: высота звука
+  status: candidate
+  alternatives:
+  - звуковысотность
+  note: Требуется согласовать употребление термина как свойства звука и как отдельной
+    высоты.
+- en: pitch class
+  ru: высотный класс
+  status: candidate
+  alternatives:
+  - класс высот
+  note: Особенно важно согласовать с терминологией теории множеств.
+- en: scale degree
+  ru: ступень гаммы
+  status: candidate
+  alternatives:
+  - ступень звукоряда
+- en: voice leading
+  ru: голосоведение
+  status: candidate
+- en: tonicization
+  ru: тоникализация
+  status: candidate
+  alternatives:
+  - временная тонизация
+  note: Выбор зависит от принятой терминологии функциональной гармонии.
+- en: musical notation
+  ru: музыкальная нотация
+  status: candidate
+  note: Система записи музыки; не только привычная пятилинейная запись.
+- en: note
+  ru: нота
+  status: candidate
+  note: В этой главе — знак, обозначающий высоту и длительность звука; в других контекстах
+    слово может обозначать сам звук.
+- en: staff
+  ru: нотный стан
+  status: candidate
+  note: 'Допустимый синоним: нотоносец.'
+- en: notehead
+  ru: головка ноты
+  status: candidate
+  note: ''
+- en: stem
+  ru: штиль
+  status: candidate
+  note: ''
+- en: beam
+  ru: вязка
+  status: candidate
+  note: Горизонтальная или наклонная линия, соединяющая штили; не путать с лигой.
+- en: flag
+  ru: флажок
+  status: candidate
+  note: ''
+- en: clef
+  ru: ключ
+  status: candidate
+  note: ''
+- en: treble clef
+  ru: скрипичный ключ
+  status: candidate
+  note: Ключ соль на второй линейке снизу.
+- en: bass clef
+  ru: басовый ключ
+  status: candidate
+  note: Ключ фа на четвёртой линейке снизу.
+- en: alto clef
+  ru: альтовый ключ
+  status: candidate
+  note: Ключ до на третьей линейке снизу.
+- en: tenor clef
+  ru: теноровый ключ
+  status: candidate
+  note: Ключ до на четвёртой линейке снизу.
+- en: ledger line
+  ru: добавочная линейка
+  status: candidate
+  note: ''
+- en: rhythm
+  ru: ритм
+  status: candidate
+  note: ''
+- en: meter
+  ru: метр
+  status: candidate
+  note: Не смешивать с графическим обозначением размера.
+- en: time signature
+  ru: тактовый размер (обозначение)
+  status: candidate
+  note: 'В зависимости от контекста: размер или обозначение размера.'
+- en: compound meter
+  ru: метр с трёхчастным делением доли
+  status: candidate
+  note: Рабочее описательное соответствие. Английское compound относится к делению
+    основной доли на три; не равно безусловно русскому «сложный размер».
+- en: simple meter
+  ru: метр с двухчастным делением доли
+  status: candidate
+  note: Рабочее описательное соответствие; не равно безусловно русскому «простой размер».
+- en: second
+  ru: секунда
+  status: candidate
+  note: Интервал, не единица времени.
+- en: middle C
+  ru: до первой октавы
+  status: candidate
+  note: C4 в научной нумерации октав; номер октавы в DAW может отличаться.
+- en: relative keys
+  ru: параллельные тональности
+  status: candidate
+  note: Например, до мажор и ля минор.
+- en: parallel keys
+  ru: одноимённые тональности
+  status: candidate
+  note: Например, до мажор и до минор; не переводить как «параллельные».
+- en: grand staff
+  ru: объединённый нотный стан
+  status: candidate
+  note: 'Рабочее соответствие: два нотоносца, объединённых для записи одной партии,
+    например фортепианной.'
+- en: milieu
+  ru: социально-культурная среда
+  status: candidate
+  note: Контекст создания и употребления системы записи.
