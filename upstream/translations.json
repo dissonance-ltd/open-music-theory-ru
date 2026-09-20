@@ -1,0 +1,35 @@
+{
+  "chapters": [
+    {
+      "id": "introduction",
+      "path": "src/introduction.md",
+      "status": "draft",
+      "source_content_sha256": "0fe92cbe8445edfe4bcb087703be9043a9560ef3ad6361283b58bbc00646d44c",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes",
+        "Introduction: cover and interface illustrations omitted"
+      ]
+    },
+    {
+      "id": "western-notation",
+      "path": "src/fundamentals/01-western-notation.md",
+      "status": "draft",
+      "source_content_sha256": "055d08a9841bf33b2bc5e929fa5b73f4c44a652744a599db9ed3642d3b26305e",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes"
+      ]
+    },
+    {
+      "id": "notes-clefs",
+      "path": "src/fundamentals/02-notes-clefs.md",
+      "status": "draft",
+      "source_content_sha256": "a238a4474febc4aac82dc82d4ce09525b722d694e3eb695a8628269fd4b3b18b",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text; explicitly marked translator notes"
+      ]
+    }
+  ]
+}

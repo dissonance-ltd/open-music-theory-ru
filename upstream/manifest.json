@@ -1,10 +1,283 @@
 {
-  "project": "Open Music Theory, Version 2",
+  "schema_version": 1,
+  "edition": "Open Music Theory — Fall 2023 (University of Nebraska Pressbooks adaptation)",
   "canonical_url": "https://viva.pressbooks.pub/openmusictheory/",
-  "format": "Pressbooks XML",
-  "retrieved_at": null,
-  "source_url": null,
-  "source_sha256": null,
-  "chapters": []
+  "format": "Pressbooks HTML adaptation",
+  "license": "CC-BY-SA-4.0",
+  "current_viva_equivalence": "not_verified",
+  "retrieved_at": "2026-09-20",
+  "normalizer_version": 1,
+  "chapters": [
+    {
+      "id": "introduction",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/",
+      "title": "Introduction",
+      "source_byline": [
+        "Brian Moore"
+      ],
+      "raw_sha256": "1794cc3af310122dfbf44c6c6299ee3eb6d4f467f40375a001794e71a5d8e244",
+      "content_sha256": "0fe92cbe8445edfe4bcb087703be9043a9560ef3ad6361283b58bbc00646d44c",
+      "snapshot": "en/introduction.html",
+      "translation": "src/introduction.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/musescore-embed-150x150.png",
+          "alt": "screenshot of musescore embed",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/table-of-contents-150x150.png",
+          "alt": "screenshot of table of contents",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/interactive-content-150x150.png",
+          "alt": "screenshot of quiz",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/workbook-150x150.png",
+          "alt": "screenshot of assignments",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": [
+        {
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/OMT-cover-lower-res-1-683x1024.png",
+          "reason": "Reserved cover/logo artwork by Bethany Nistler"
+        }
+      ]
+    },
+    {
+      "id": "western-notation",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/",
+      "title": "1 Introduction to Western Musical Notation",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "7eb492b8a2539cff34c48fed4c36e36587d7d445829b5c005c9de4840b540fca",
+      "content_sha256": "055d08a9841bf33b2bc5e929fa5b73f4c44a652744a599db9ed3642d3b26305e",
+      "snapshot": "en/western-notation.html",
+      "translation": "src/fundamentals/01-western-notation.md",
+      "media": [
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Introduction-to-Western-Musical-Notation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Introduction-to-Western-Musical-Notation.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Inventing-a-Notation-System-Essay-Assignment-Rubric.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Inventing-a-Notation-System-Essay-Assignment-Rubric.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "notes-clefs",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+      "title": "2 Notation of Notes, Clefs, and Ledger Lines",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "aeaa3adf88e723710d3d1f4e254b0d3d40c6db64096d351a406b4eb2820dd98b",
+      "content_sha256": "a238a4474febc4aac82dc82d4ce09525b722d694e3eb695a8628269fd4b3b18b",
+      "snapshot": "en/notes-clefs.html",
+      "translation": "src/fundamentals/02-notes-clefs.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/noteillustration-1-300x132.png",
+          "alt": "A picture of elliptical noteheads, some filled in as solid black and one left open. Vertical stems, horizonal beams, and curved flags are also depicted.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Staff-300x111.png",
+          "alt": "Five horizontal lines spaced evenly.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Correct-Noteheads-300x58.jpg",
+          "alt": "Provides an illustration of correct noteheads, both open (white) and filled in (black). The noteheads are drawn on both lines and spaces.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Incorrect-Noteheads.jpeg",
+          "alt": "Shows incorrect examples of noteheads. Some of the noteheads are too small, some are too big, and some are the wrong shapes. Noteheads on both lines and spaces are depicted, and there are both open and filled in noteheads.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming-Directions-300x46.jpg",
+          "alt": "Notes with stems are shown. Above the middle line, their stem points down, on the left side of the note. Below the middle note, their stem points up, on the right side of the note.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Correct-Seconds-1-e1657554954232.jpg",
+          "alt": "Three seconds are shown. The lower note is always on the left.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Incorrect-Seconds-1-e1657554935562.jpg",
+          "alt": "Three incorrect seconds are shown. One stacks two notes directly on top of each other. The right note is on the bottom in the other two pairs of notes.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/N0SznGRFHSg?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/clefs-300x100.png",
+          "alt": "Four notes (C4) are placed after four different clefs: a treble, bass, alto, and tenor clef.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/DrawTrebleClef-300x69.png",
+          "alt": "A treble clef is drawn in three steps.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/DrawBassClef-300x63.png",
+          "alt": "A bass clef is drawn in three steps.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/DrawAltoClef-300x51.png",
+          "alt": "An alto clef is drawn in four steps.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/DrawTenorClef-300x53.png",
+          "alt": "A tenor clef is drawn in four steps.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/K-Clefs-300x76.jpg",
+          "alt": "A hand-drawn alto and tenor clef, in which the clefs are shaped like the letter K.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ledger-lines-for-chelsey_0006-300x248.png",
+          "alt": "Depicts a staff with a bass clef. Above and below the staff are ledger lines. No noteheads are present.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/LedgerLineswithNotes-300x59.png",
+          "alt": "A treble clef is on the left side of a staff. Notes (with beams and stems) are placed above and below the staff, on ledger lines.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch2-ex13-ledger_lines-300x89.jpg#fixme",
+          "alt": "To the left, a picture of correctly drawn ledger lines and notes is shown. To the right, incorrectly drawn ledger lines are shown. There should be no extra ledger line above or below notes.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/0001_The_Staff.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/0002_The_Staff_High_Low.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Notation-of-Notes-Clefs-and-Ledger-Lines-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Notation-of-Notes-Clefs-and-Ledger-Lines-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "acknowledgments",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/",
+      "title": "Acknowledgments",
+      "source_byline": [
+        "Brian Moore"
+      ],
+      "raw_sha256": "3dfa5d957ca2e4ae7758dfe13b2f609358062ae8fac97e35d2373eb86d00a8d9",
+      "content_sha256": "fad329636f6f670e4b6b50c8e438daf6d6f3ad2ca61599cd16832bd71630e57e",
+      "snapshot": "en/acknowledgments.html",
+      "translation": null,
+      "media": [],
+      "excluded_media": []
+    }
+  ]
 }
-

@@ -16,3 +16,31 @@ blockquote {
   border-inline-start-color: var(--omt-accent);
 }
 
+
+.content figure {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #fff;
+  color: #202020;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.content figure img {
+  display: block;
+  max-width: 100%;
+  max-height: 320px;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+}
+.content figcaption {
+  margin-top: .75rem;
+  font-size: .9em;
+  line-height: 1.5;
+}
+.video-example iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}

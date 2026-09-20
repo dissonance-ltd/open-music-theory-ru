@@ -1,0 +1,13 @@
+{
+  "edition": "Open Music Theory — Fall 2023 (University of Nebraska Pressbooks adaptation)",
+  "canonical_url": "https://viva.pressbooks.pub/openmusictheory/",
+  "source_base": "https://pressbooks.nebraska.edu/openmusictheory/",
+  "license": "CC-BY-SA-4.0",
+  "current_viva_equivalence": "not_verified",
+  "pages": [
+    {"id": "introduction", "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/introduction-2/", "translation": "src/introduction.md"},
+    {"id": "western-notation", "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/introduction-to-western-musical-notation/", "translation": "src/fundamentals/01-western-notation.md"},
+    {"id": "notes-clefs", "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/", "translation": "src/fundamentals/02-notes-clefs.md"},
+    {"id": "acknowledgments", "url": "https://pressbooks.nebraska.edu/openmusictheory/front-matter/acknowledgments/", "translation": null}
+  ]
+}
