@@ -18,9 +18,9 @@
 Добавьте выбранные страницы в `upstream/sources.json`; импортируйте сначала в отдельный каталог и сравните:
 
 ```bash
-python -m pip install -r scripts/requirements.txt
-python scripts/import_upstream.py --output /tmp/omt-candidate
-python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
+uv sync --locked
+uv run --locked python scripts/import_upstream.py --output /tmp/omt-candidate
+uv run --locked python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
 ```
 
 Код завершения `1` у сравнения означает обнаруженные изменения, добавления или удаления; это результат для анализа, а не разрешение автоматически принять источник. Проверьте также изменение `catalog.json`: скрипт сравнения манифестов не проверяет оглавление. После сверки перенесите принятые снимки и манифест. Не меняйте хеш привязки существующего перевода, пока не сверите его с изменившимся текстом.
@@ -50,22 +50,22 @@ python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manife
 Для содержательных изменений запускайте существующие проверки из корня репозитория:
 
 ```bash
-python -m unittest discover -s tests -v
-python scripts/render_glossary.py --check
-python scripts/check_book.py
+uv run --locked python -m unittest discover -s tests -v
+uv run --locked python scripts/render_glossary.py --check
+uv run --locked python scripts/check_book.py
 mdbook build
-python scripts/check_book.py --built
+uv run --locked python scripts/check_book.py --built
 ```
 
-Используется mdBook 0.4.52. После правки YAML-глоссария сначала выполните `python scripts/render_glossary.py`. Проверки подтверждают техническую согласованность, но не точность перевода, работоспособность внешних ресурсов или доступность всех интерактивных заданий. Для изменений только служебной документации достаточно проверить соответствующие ссылки и согласованность записей; CI всё равно выполняет общий набор проверок.
+Используется mdBook 0.4.52. После правки YAML-глоссария сначала выполните `uv run --locked python scripts/render_glossary.py`. Проверки подтверждают техническую согласованность, но не точность перевода, работоспособность внешних ресурсов или доступность всех интерактивных заданий. Для изменений только служебной документации достаточно проверить соответствующие ссылки и согласованность записей; CI всё равно выполняет общий набор проверок.
 
 Обновите трекер, запись проверки главы, сведения об атрибуции и видимый статус книги. В PR кратко укажите пакет, новые термины, отличия от источника, результаты проверок и конкретные вопросы рецензенту. Используйте [шаблон PR](.github/PULL_REQUEST_TEMPLATE.md). Не заставляйте рецензента восстанавливать решения из истории чата.
 
 ## Изменение Python-инструментов
 
 Архитектура, обоснование зависимостей и совместимость описаны в [scripts/README.md](scripts/README.md).
-Для кода установите `python -m pip install -r scripts/requirements-dev.txt`, затем
-запустите `ruff check scripts tests`, `ruff format --check scripts tests`, `mypy`
+Для кода установите `uv sync --locked`, затем
+запустите `uv run --locked ruff check scripts tests`, `uv run --locked ruff format --check scripts tests`, `uv run --locked mypy`
 и тесты. Изменение нормализатора проверяйте отдельно: незаметная смена HTML меняет
 хеши источников и может потребовать повторной сверки переводов. Новое поведение
 и изменения схем перечисляйте в PR отдельно от перестановки кода.

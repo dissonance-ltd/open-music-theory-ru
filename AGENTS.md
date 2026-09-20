@@ -28,7 +28,8 @@ For a limited documentation or code change, read the portions relevant to it.
 
 These are repository contribution instructions, not an installable skill.
 
-For Python changes, read `scripts/README.md`, install
-`scripts/requirements-dev.txt`, and run Ruff lint/format checks, strict mypy and
-the tests. Keep dependency and behavior changes explicit in the PR. Preserve
+For Python changes, read `scripts/README.md`, run `uv sync --locked`, and use
+`uv run --locked` for Ruff lint/format checks, strict mypy and the tests. Keep
+dependencies in `pyproject.toml` and commit `uv.lock` with dependency changes.
+Keep dependency and behavior changes explicit in the PR. Preserve
 normalizer output unless an intentional source-format migration is in scope.

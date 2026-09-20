@@ -34,29 +34,32 @@
 
 ## Локальная работа
 
+Установите [uv](https://docs.astral.sh/uv/getting-started/installation/).
+Python 3.12 выбран в `.python-version`; uv управляет зависимостями в `.venv`.
+
 ```bash
 cargo install mdbook --version 0.4.52 --locked
-python -m pip install -r scripts/requirements.txt
-python -m unittest discover -s tests -v
-python scripts/render_glossary.py --check
-python scripts/check_book.py
+uv sync --locked
+uv run --locked python -m unittest discover -s tests -v
+uv run --locked python scripts/render_glossary.py --check
+uv run --locked python scripts/check_book.py
 mdbook build
-python scripts/check_book.py --built
+uv run --locked python scripts/check_book.py --built
 mdbook serve --open
 ```
 
 Для изменения терминологии редактируйте `glossary/terminology.yml`, затем выполните
-`python scripts/render_glossary.py`. Новые соответствия сначала помечаются `candidate`.
+`uv run --locked python scripts/render_glossary.py`. Новые соответствия сначала помечаются `candidate`.
 
 Для изменения Python-скриптов см. [устройство инструментов и зависимости](scripts/README.md).
-Установите `scripts/requirements-dev.txt`; форматирование Ruff и строгая проверка
+Выполните `uv sync --locked` (включая группу `dev`); форматирование Ruff и строгая проверка
 типов mypy входят в CI наряду с тестами.
 
 ## Обновления источника
 
 ```bash
-python scripts/import_upstream.py --output /tmp/omt-candidate
-python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
+uv run --locked python scripts/import_upstream.py --output /tmp/omt-candidate
+uv run --locked python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
 ```
 
 Импортёр сохраняет английские тексты отдельно. Русские главы и их хеши привязки

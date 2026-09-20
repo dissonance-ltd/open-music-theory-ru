@@ -18,7 +18,7 @@ def main() -> int:
     path = REPOSITORY_ROOT / "src/glossary.md"
     if args.check:
         if not path.is_file() or path.read_text(encoding="utf-8") != expected:
-            print("Regenerate glossary: python scripts/render_glossary.py")
+            print("Regenerate glossary: uv run --locked python scripts/render_glossary.py")
             return 1
     else:
         write_bytes(path, expected.encode("utf-8"))

@@ -1,17 +1,21 @@
 # Python tooling
 
-Requires **Python 3.12+**. The four existing commands and their arguments remain:
+Requires **uv** and **Python 3.12+**. The project pins Python 3.12 in
+`.python-version`; CI uses uv 0.12.15. Install uv using the
+[official instructions](https://docs.astral.sh/uv/getting-started/installation/).
+Run these commands from the repository root:
 
 ```bash
-python -m pip install -r scripts/requirements.txt
-python scripts/import_upstream.py --output /tmp/omt-candidate
-python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
-python scripts/render_glossary.py --check
-python scripts/check_book.py --built
+uv sync --locked
+uv run --locked python scripts/import_upstream.py --output /tmp/omt-candidate
+uv run --locked python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
+uv run --locked python scripts/render_glossary.py --check
+uv run --locked python scripts/check_book.py --built
 ```
 
 The entry files parse arguments and report results. Typed processing lives in the
-local `omt` package; no package installation, server or framework is required.
+local `omt` package. uv manages `.venv`; `tool.uv.package = false` means the
+repository itself is not built or installed as a distribution.
 Russian text and editorial review status are never automatically rewritten.
 
 ## Where to read or change the code
@@ -48,13 +52,26 @@ only expressions selecting HTML elements, never scalar XPath expressions.
 | Keep lxml 6.1.1 | Already handles Pressbooks HTML and XPath. Replacing the parser could change snapshot bytes and hashes. |
 | Keep PyYAML 6.0.3 | `safe_load` remains the YAML parser; its result is validated as a `Glossary`. |
 | Keep argparse and urllib | Existing small CLI and synchronous downloads need no additional CLI or HTTP framework. The downloader has a 45-second timeout and is isolated for tests. |
-| Add Ruff and mypy to development requirements | Formatting, lint and strict type checks are reproducible CI gates. The Pydantic mypy plugin checks model construction. |
-| Add types-PyYAML and types-lxml to development requirements | Check third-party API usage without global missing-import suppression. The lxml stub package brings additional development dependencies, including Beautiful Soup and cssselect; they are not runtime choices for our code. |
+| Add Ruff and mypy to the `dev` dependency group | Formatting, lint and strict type checks are reproducible CI gates. The Pydantic mypy plugin checks model construction. |
+| Add types-PyYAML and types-lxml to the `dev` dependency group | Check third-party API usage without global missing-import suppression. The lxml stub package brings additional development dependencies, including Beautiful Soup and cssselect; they are not runtime choices for our code. |
 | Keep unittest | Existing tests need no new runner; mocks and subprocess tests cover the relevant boundaries. |
 
-Direct dependencies are pinned in the two requirements files. They are not a full
-transitive lockfile. Deploy installs runtime requirements only; PR/push Test CI
-installs development requirements. No dependency is loaded from an unpinned Git branch.
+Direct dependencies live in `pyproject.toml`; `uv.lock` records their complete
+transitive resolution. The `dev` group contains lint/type-check tools and stubs.
+`uv sync --locked` includes that group by default. Deploy uses
+`uv sync --locked --no-dev` and `uv run --locked --no-dev`; PR/push Test CI includes
+`dev`. Both workflows use the official setup-uv action pinned to a commit and
+cache uv downloads using the lockfile. Locked commands fail if the lockfile is
+out of date rather than silently updating it.
+
+For intentional dependency changes, use `uv add PACKAGE` or `uv add --dev PACKAGE`;
+if editing TOML directly, run `uv lock`. Commit both `pyproject.toml` and `uv.lock`.
+The current direct versions stay pinned during this migration. Update their
+constraints deliberately when upgrading, then run the checks below. The lockfile
+uses the public PyPI index and is portable across supported platforms.
+
+See [uv projects](https://docs.astral.sh/uv/guides/projects/) and
+[uv in GitHub Actions](https://docs.astral.sh/uv/guides/integration/github/).
 
 References: [Pydantic models](https://docs.pydantic.dev/latest/concepts/models/),
 [Pydantic strict mode](https://docs.pydantic.dev/latest/concepts/strict_mode/),
@@ -104,18 +121,18 @@ human-review evidence. Those remain in the documented editorial workflow.
 From the repository root:
 
 ```bash
-python -m pip install -r scripts/requirements-dev.txt
-ruff check scripts tests
-ruff format --check scripts tests
-mypy
-python -m unittest discover -s tests -v
-python scripts/render_glossary.py --check
-python scripts/check_book.py
+uv sync --locked
+uv run --locked ruff check scripts tests
+uv run --locked ruff format --check scripts tests
+uv run --locked mypy
+uv run --locked python -m unittest discover -s tests -v
+uv run --locked python scripts/render_glossary.py --check
+uv run --locked python scripts/check_book.py
 mdbook build
-python scripts/check_book.py --built
+uv run --locked python scripts/check_book.py --built
 ```
 
-Use `ruff format scripts tests` to format changes before checking. mypy is strict
+Use `uv run --locked ruff format scripts tests` to format changes before checking. mypy is strict
 for both production scripts and tests. The same formatting, lint, type and test
 commands run in Test CI.
 

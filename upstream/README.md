@@ -32,12 +32,12 @@ Fundamentals chapters credit **Chelsey Hamm**.
 
 ## Import and compare
 
-From the repository root (Python 3.12+):
+From the repository root with uv (Python 3.12 is selected in `.python-version`):
 
 ```bash
-python -m pip install -r scripts/requirements.txt
-python scripts/import_upstream.py --output /tmp/omt-candidate
-python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
+uv sync --locked
+uv run --locked python scripts/import_upstream.py --output /tmp/omt-candidate
+uv run --locked python scripts/diff_upstream.py upstream/manifest.json /tmp/omt-candidate/manifest.json
 ```
 
 A diff exits 1 for changed/added/removed content, attribution metadata or edition,
@@ -49,7 +49,7 @@ Downloads are cached under `.cache/omt/` (ignored by Git). To normalize an exist
 cache, supply its **actual retrieval date**, not today's date unless fetched today:
 
 ```bash
-python scripts/import_upstream.py --offline --retrieved-at 2026-09-20 --output /tmp/omt-candidate
+uv run --locked python scripts/import_upstream.py --offline --retrieved-at 2026-09-20 --output /tmp/omt-candidate
 ```
 
 The normalizer removes site navigation, headers (bylines are retained in the
