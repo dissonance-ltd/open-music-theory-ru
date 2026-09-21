@@ -113,6 +113,58 @@
         "Все дополнительные материалы и задания сохранены ссылками с русскими названиями и явным указанием непроверенного/нелокализованного содержимого.",
         "Прежние chapter-ссылки заменены локальными; A–G упражнений заменены нумерацией1–7."
       ]
+    },
+    {
+      "id": "simple-meter",
+      "path": "src/fundamentals/09-simple-meter.md",
+      "status": "draft",
+      "source_content_sha256": "0bd8491dbc51c21612057e178453f0469fb400569a90100deaae9ee7dc34f05f",
+      "reviewed_by": null,
+      "modifications": [
+        "Title uses descriptive simple meter working term",
+        "All popup definitions rendered as explicit table",
+        "Corrected compound typo in simple triple/quadruple definitions with translator note",
+        "Corrected facing-left flag claim using example20 image, explicit translator note",
+        "Preserved count syllables and added marked pronunciation explanation",
+        "Iframe replaced by exact linked source with external EN/unverified label",
+        "Missing conducting diagrams5–7 marked explicitly",
+        "K2 date1774 retained as attributed unverified source statement",
+        "musx/mscz mismatch preserved and marked",
+        "Уточнён alt примера 19: единое направление штилей группы; нейтральный ключ и авторские E5/E4 объяснены в примечании."
+      ]
+    },
+    {
+      "id": "compound-meter",
+      "path": "src/fundamentals/10-compound-meter.md",
+      "status": "draft",
+      "source_content_sha256": "9c1fc456c86ea113ba6aa119cb0bfd928cdba50c127baceb815943f7153668de",
+      "reviewed_by": null,
+      "modifications": [
+        "Полный перевод текста, 5 выводов и 9 определений; определения представлены видимой таблицей.",
+        "Ссылки на главу 9 локализованы; два PNG сохранены из Nebraska с русскими подписями/alt; исходная обёртка VIVA рисунка8 заменена локальным рисунком Nebraska.",
+        "Отсутствующая таблица36 помечена; 6 MuseScore, Spotify,6 ресурсов и17 ссылок заданий оставлены внешними с явным статусом непроверенного содержимого/доступности/воспроизведения/локализации.",
+        "Нижнее число=единица деления, не доля: ошибка источника исправлена явно.",
+        "Ошибка о стороне флажков исправлена явно с опорой на рисунок20 главы9; согласовано с переводчиком главы9.",
+        "Схема номер–la–li и номер–ta–la–ta–li–ta добавлена как примечание переводчиков для прояснения двусмысленных first/second division.",
+        "Явно пояснена точка у длительности одной доли против точки, захватывающей следующую долю.",
+        "Видимо раскрыты t=140s против1:49, GIF подписанPDF, страницы Shed названыPDF, .mscz#fixme подписан.musx. Сохранены исходные URL.",
+        "Алфавитные группы внешних заданий заменены цифровым списком."
+      ]
+    },
+    {
+      "id": "rhythmic-essentials",
+      "path": "src/fundamentals/11-rhythmic-essentials.md",
+      "status": "draft",
+      "source_content_sha256": "f722dc6d1c284e2e51788fc694868cd3f15d2d2b5b77b9d1057824e56335f741",
+      "reviewed_by": null,
+      "modifications": [
+        "Русский перевод Nebraska Fall 2023 с сохранением 4 примеров, счёта, оговорок и всех ссылок.",
+        "Все 6 всплывающих определений вынесены в таблицу.",
+        "Добавлены примечания переводчиков о счётных слогах, непроверенных внешних материалах и несоответствии имени DOCX.",
+        "Ссылки на главы 9–10 заменены локальными; внешняя глава о поп-музыке сохранена по точному URL с пометкой англ.",
+        "Внешние задания A–D перенумерованы 1–4.",
+        "Счёт «раз-и, два-и» явно обозначен как русская адаптация."
+      ]
     }
   ]
 }
