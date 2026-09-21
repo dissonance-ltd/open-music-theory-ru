@@ -69,6 +69,21 @@
       "id": "rhythmic-essentials",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/",
       "translation": "src/fundamentals/11-rhythmic-essentials.md"
+    },
+    {
+      "id": "major-scales",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/major-scales/",
+      "translation": "src/fundamentals/12-major-scales.md"
+    },
+    {
+      "id": "minor-scales",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/minor-scales/",
+      "translation": "src/fundamentals/13-minor-scales.md"
+    },
+    {
+      "id": "modes",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+      "translation": "src/fundamentals/14-modes.md"
     }
   ]
 }
