@@ -54,6 +54,21 @@
       "id": "rhythmic-rest-values",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/rhythmic-rest-values/",
       "translation": "src/fundamentals/08-rhythmic-rest-values.md"
+    },
+    {
+      "id": "simple-meter",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/",
+      "translation": "src/fundamentals/09-simple-meter.md"
+    },
+    {
+      "id": "compound-meter",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/",
+      "translation": "src/fundamentals/10-compound-meter.md"
+    },
+    {
+      "id": "rhythmic-essentials",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/",
+      "translation": "src/fundamentals/11-rhythmic-essentials.md"
     }
   ]
 }

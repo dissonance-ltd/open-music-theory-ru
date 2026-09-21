@@ -1221,6 +1221,369 @@
         }
       ],
       "excluded_media": []
+    },
+    {
+      "id": "simple-meter",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/simple-meter-and-time-signatures/",
+      "title": "9 Simple Meter and Time Signatures",
+      "source_byline": [
+        "Chelsey Hamm; Kris Shaffer; and Mark Gotham"
+      ],
+      "raw_sha256": "3a1f2426a31390a854ca0cfcd411f781d47758d0fec7fec0923bb4c4314178a5",
+      "content_sha256": "0bd8491dbc51c21612057e178453f0469fb400569a90100deaae9ee7dc34f05f",
+      "snapshot": "en/simple-meter.html",
+      "translation": "src/fundamentals/09-simple-meter.md",
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/u9jGGiqjwf4?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/TvWWXv59apY?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/7b9OMt6D1TA?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/rmuudxyM0t4?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "compound-meter",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/compound-meters-and-time-signatures/",
+      "title": "10 Compound Meter and Time Signatures",
+      "source_byline": [
+        "Chelsey Hamm and Mark Gotham"
+      ],
+      "raw_sha256": "148c4aba106e10c6d186fe0414188907338d686da45b43c8e645896c38269c9c",
+      "content_sha256": "9c1fc456c86ea113ba6aa119cb0bfd928cdba50c127baceb815943f7153668de",
+      "snapshot": "en/compound-meter.html",
+      "translation": "src/fundamentals/10-compound-meter.md",
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/playlist/38gepJH1X5U19PF3Vsudgv?si=0069b65dc4e542d8&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Compound-Meter-Time-Signature-300x101.png",
+          "alt": "A percussion clef, compound meter time signature (6/8) and six eighth notes",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/3-4_6-8-1024x86.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws05-meter_id_i.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws06-meter_id_ii.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws04-meter_drills.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws03-meter_sig_table.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://s3.amazonaws.com/graceimmanuel.gracemusic/theory/worksheets/2.13.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Compound-Meters-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Compound-Meters-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Compound-Meters-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "rhythmic-essentials",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/other-rhythmic-essentials/",
+      "title": "11 Other Rhythmic Essentials",
+      "source_byline": [
+        "Bryn Hughes; Mark Gotham; and Chelsey Hamm"
+      ],
+      "raw_sha256": "268b8a995aba50e3df8c48063a6575cd494a52b6f96fbf4972d0b2c155fffe2e",
+      "content_sha256": "f722dc6d1c284e2e51788fc694868cd3f15d2d2b5b77b9d1057824e56335f741",
+      "snapshot": "en/rhythmic-essentials.html",
+      "translation": "src/fundamentals/11-rhythmic-essentials.md",
+      "media": [
+        {
+          "kind": "a",
+          "url": "https://secureservercdn.net/198.71.233.41/b97.3f2.myftpupload.com/wp-content/uploads/2017/12/Music-Rhythm-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://docshare02.docshare.tips/files/28962/289627797.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/c/13088/files/2016/03/Week-1-Thursday-Worksheet-2bahvqe.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Other-Rhythmic-Essentials-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Other-Aspects-of-Notation-13.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
     }
   ]
 }

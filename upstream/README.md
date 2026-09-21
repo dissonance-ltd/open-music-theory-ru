@@ -15,21 +15,24 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: ten normalized English chapter bodies: introduction, first eight
+- `en/*.html`: thirteen normalized English chapter bodies: introduction, first eleven
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
-  Other chapter bodies have **not** been downloaded or translated.
+  Chapters 12–14 are being prepared in a concurrent batch; their snapshots and drafts
+  are not yet included in this branch. Remaining chapter bodies have not been assessed.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 54 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 65 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
 The introduction's adaptation byline says **Brian Moore**. This is retained as
 source metadata, not substituted for the seven original OMT2 authors. Fundamentals chapters 1–5 credit **Chelsey Hamm**; chapter 6 credits
 **Chelsey Hamm and Bryn Hughes**, chapter 7 **Chelsey Hamm and Mark Gotham**,
-and chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**.
+chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**, chapter 9
+**Chelsey Hamm, Kris Shaffer and Mark Gotham**, chapter 10 **Chelsey Hamm and Mark Gotham**,
+and chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**.
 
 ## Import and compare
 
@@ -120,3 +123,27 @@ MuseScore examples and worksheets remain links, not localized or verified conten
 See the [batch workflow](../docs/batch-translation.md) and chapter records for
 [ASPN](../docs/reviews/aspn.md), [Other Notation](../docs/reviews/other-notation.md),
 and [Rhythmic Values](../docs/reviews/rhythmic-rest-values.md).
+
+## Fourth batch: meter and other rhythmic essentials
+
+Chapters 9–11 were retrieved at `2026-09-20T23:02:37.155996+00:00`.
+The ten previously accepted snapshots and existing source bindings are retained.
+The combined manifest continues to use the actual shared UTC retrieval day,
+`2026-09-20`; exact chapter timestamps and hashes are recorded in the chapter reviews.
+
+Eleven source figures were added: nine for Simple Meter and two for Compound Meter.
+Other Rhythmic Essentials contains no embedded figures in either its raw HTML or
+normalized snapshot: all four examples are external MuseScore links. Simple Meter
+examples 5–7 and Compound Meter table 36 are absent from the source and explicitly
+marked in the translation. Misleading definitions and the flag-direction statement
+are addressed in visible translator notes, without editing the English snapshots.
+
+A separate AI comparison has been performed for all three chapters; findings and
+correction checks are retained in their records. Human review, rendered-page review,
+external-content inspection and playback checks remain pending. Technical results
+are recorded in the chapter records and batch PR. See [Simple Meter](../docs/reviews/simple-meter.md),
+[Compound Meter](../docs/reviews/compound-meter.md), and
+[Other Rhythmic Essentials](../docs/reviews/rhythmic-essentials.md).
+
+Batch 05 (chapters 12–14) is being prepared concurrently and will be integrated
+on top of batch 04; it is not counted in the totals for this branch.
