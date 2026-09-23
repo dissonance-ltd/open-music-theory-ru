@@ -19,7 +19,11 @@
 
 <div id="example-1"></div>
 
-[Открыть пример 1 в MuseScore](https://musescore.com/user/32728834/scores/8422541/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8422541/embed" title="Пример 1. Триоли на разных метрических уровнях — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8422541">Открыть пример 1 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 1. Триоли (a) на уровне доли, (b) на уровне части доли и (c) на уровне нескольких долей.*
 

@@ -77,7 +77,8 @@
         "Example1 alt corrected after image inspection: ten C notes C0–C9 separated by nine octaves.",
         "Source above C4 corrected to inclusive C4 bound with explicit translator note; ASPN4 versus Russian first octave and B♯3=C4 clarified.",
         "Example4 MuseScore remains source external link with RU caption and explicit EN/unlocalized/content-playback-unverified notice.",
-        "All5 online resources,2 external worksheet entries and1 assignment PDF/DOCX retained with translated labels and explicit EN/unverified status."
+        "All5 online resources,2 external worksheet entries and1 assignment PDF/DOCX retained with translated labels and explicit EN/unverified status.",
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
       ]
     },
     {
@@ -148,7 +149,8 @@
         "Схема номер–la–li и номер–ta–la–ta–li–ta добавлена как примечание переводчиков для прояснения двусмысленных first/second division.",
         "Явно пояснена точка у длительности одной доли против точки, захватывающей следующую долю.",
         "Видимо раскрыты t=140s против1:49, GIF подписанPDF, страницы Shed названыPDF, .mscz#fixme подписан.musx. Сохранены исходные URL.",
-        "Алфавитные группы внешних заданий заменены цифровым списком."
+        "Алфавитные группы внешних заданий заменены цифровым списком.",
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
       ]
     },
     {
@@ -163,7 +165,8 @@
         "Добавлены примечания переводчиков о счётных слогах, непроверенных внешних материалах и несоответствии имени DOCX.",
         "Ссылки на главы 9–10 заменены локальными; внешняя глава о поп-музыке сохранена по точному URL с пометкой англ.",
         "Внешние задания A–D перенумерованы 1–4.",
-        "Счёт «раз-и, два-и» явно обозначен как русская адаптация."
+        "Счёт «раз-и, два-и» явно обозначен как русская адаптация.",
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
       ]
     }
   ]
