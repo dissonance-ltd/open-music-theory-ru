@@ -1584,6 +1584,383 @@
         }
       ],
       "excluded_media": []
+    },
+    {
+      "id": "major-scales",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/major-scales/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/major-scales/",
+      "title": "12 Major Scales, Scale Degrees, and Key Signatures",
+      "source_byline": [
+        "Chelsey Hamm and Bryn Hughes"
+      ],
+      "raw_sha256": "875607fd5790a9f2358cce2b12efc177b717f9b4ade632f675c0fa616cb03018",
+      "content_sha256": "4198e30481c101cc9e7b882244b1ab8a57b566b469adf1c3c6f4ed727b0c7f18",
+      "snapshot": "en/major-scales.html",
+      "translation": "src/fundamentals/12-major-scales.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/sd_names_deriv-e1661879638423-1024x267.png",
+          "alt": "Lines show that a fifth relates D♭–A♭ and A♭–E♭; a third relates F–A♭ and A♭–C, and a second relates G–A♭ and A♭–B♭.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-08-at-12.17.31-PM-300x121.png",
+          "alt": "A bass clef is shown on a staff, followed by a three-flat key signature, and a 4/4 time signature.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-08-at-12.28.24-PM-300x99.png",
+          "alt": "There are 2 Bbs in different octaves, Bb2 and Bb3",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+          "alt": "The order of sharps and flats in treble, bass, alto, and tenor clefs.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/sharp-sigs-300x63.png",
+          "alt": "1. A one-sharp key signature in treble clef, 2. a three-sharp key signature in bass clef, and 3. a six-sharp key signature in Alto Clef",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/flat-sigs-300x63.png",
+          "alt": "1. A two-flat key signature after a bass clef, 2. a four-flat key signature after a treble clef, and 3. a six-flat key signature after a tenor clef.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/cmajfmaj-e1659817325208-150x150.png",
+          "alt": "A treble clef is shown with a blank key signature, and a one-flat key signature is shown after a bass clef.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Sharp-Key-Signatures-300x245.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-08-at-1.57.09-PM-300x225-1.png",
+          "alt": "All of the flat key signatures, first in treble, bass, alto, and tenor clefs.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Circle-of-Fifths-294x300.png",
+          "alt": "Major key signatures are placed around a circle in order of the number of their accidentals",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws10-major_scales_i.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws12-major_scales-scale_degrs.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws11-key_sigs-major.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.wku.edu/music/documents/keysig.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.musicfun.net.au/pdf_files/keysign_n_scales.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws13-scale_degrs-major.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://people.carleton.edu/~jellinge/m101s12/Pages/12/Media12/12pdf/Worksheet12-4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Major-Scales-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Major-Scales-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "minor-scales",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/minor-scales/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/minor-scales/",
+      "title": "13 Minor Scales, Scale Degrees, and Key Signatures",
+      "source_byline": [
+        "Chelsey Hamm and Bryn Hughes"
+      ],
+      "raw_sha256": "1777c54d8401354a7fb20b4391b7f9c1a903431788082a26348a84c739a8b60e",
+      "content_sha256": "efa51f47d857fca0cb848194734afe3dee44f53ce4fd2daeb422f842bf963175",
+      "snapshot": "en/minor-scales.html",
+      "translation": "src/fundamentals/13-minor-scales.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png",
+          "alt": "A B melodic minor scale, ascending and descending in bass clef, with half and whole steps labeled as well as scale-degree names.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-06-08-at-1.11.04-PM-1.png",
+          "alt": "The order of the seven sharps and seven flats of key signatures are shown in treble, bass, alto, and tenor clefs.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Circle_of_fifths_deluxe_de-1024x863.jpg",
+          "alt": "keys arranged by fifth: C–G–D–A–E–B–F♯–D♭–A♭–E♭–B♭–F–C (repeating in a circle).",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/reichardt-300x92.png",
+          "alt": "Fs are circled on the score excerpt.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/23104413/1373760933937/Music-Theory-Worksheet-20-Natural-Minor-Scale.pdf?token=p5u%2FxM6nxDDUwdQRJcyLzXl%2FkE4%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/23104415/1373760934860/Music-Theory-Worksheet-21-Harmonic-Minor-Scale.pdf?token=4yKed27OpsAexv%2FR8ENxgwx%2FRzY%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://static1.1.sqspcdn.com/static/f/801966/23104411/1373760932463/Music-Theory-Worksheet-22-Melodic-Minor-Scale.pdf?token=Ee9AnqSriTJqWPX5kQJJKQVtDWc%3D",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws14-minor_scales_i.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws16-minor_scales_ii.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws15-key_sigs-minor.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://dsmusic.com.au/wp-content/uploads/2012/01/key_sig_worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://people.carleton.edu/~jellinge/m101s12/Pages/08/Media08/08pdf/Worksheet8-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws17-scale_degrees-minor.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Minor-Scales-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Minor-Scales-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "modes",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+      "title": "14 Introduction to Diatonic Modes and the Chromatic “Scale”",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "b19c28e1eaf571ef9c3ef3b4da727317fb7df31b675f3218b893f44822a302aa",
+      "content_sha256": "2f61550a1be73c96e9ee475f8b6cbc221f9afa04e3b4fecff2dcf2181f6ff091",
+      "snapshot": "en/modes.html",
+      "translation": "src/fundamentals/14-modes.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Examples-for-OMT-05-1024x152.png",
+          "alt": "A double-headed arrow points from \"Darkest\" to \"Brightest\"; modes are listed below: locrian, phrygian, aeolian, dorian, mixolydian, ionian, lydian. Altered scale-degrees are listed below each.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws43-modes_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws44-modes_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://funmusiccoimages.com/pdf/54_bk4_modal-scales-worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws45-modes_3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://dsmusic.com.au/wp-content/uploads/2012/01/vce_worksheets_11_to_16.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.scottlaird.net/files/TheoryWorksheets/Adv__2_student.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://dsmusic.com.au/wp-content/uploads/2012/01/vce_worksheets_17_to_22.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://teachers.wrdsb.ca/benderp/files/2011/08/chromatic-scales-worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Diatonic-Modes-and-the-Chromatic-Scale-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Diatonic-Modes-and-the-Chromatic-Scale-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Diatonic-Modes-and-the-Chromatic-Scale-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Diatonic-Modes-and-the-Chromatic-Scale-4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
     }
   ]
 }

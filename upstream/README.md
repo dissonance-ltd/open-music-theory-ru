@@ -15,15 +15,15 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: thirteen normalized English chapter bodies: introduction, first eleven
+- `en/*.html`: sixteen normalized English chapter bodies: introduction, first fourteen
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
-  Chapters 12–14 are being prepared in a concurrent batch; their snapshots and drafts
-  are not yet included in this branch. Remaining chapter bodies have not been assessed.
+  This branch includes batch 04 (chapters 9–11) and batch 05 (chapters 12–14).
+  Remaining chapter bodies have not been assessed.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 65 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 80 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
@@ -32,7 +32,8 @@ source metadata, not substituted for the seven original OMT2 authors. Fundamenta
 **Chelsey Hamm and Bryn Hughes**, chapter 7 **Chelsey Hamm and Mark Gotham**,
 chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**, chapter 9
 **Chelsey Hamm, Kris Shaffer and Mark Gotham**, chapter 10 **Chelsey Hamm and Mark Gotham**,
-and chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**.
+chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**, chapters 12–13
+**Chelsey Hamm and Bryn Hughes**, and chapter 14 **Chelsey Hamm**.
 
 ## Import and compare
 
@@ -145,5 +146,27 @@ are recorded in the chapter records and batch PR. See [Simple Meter](../docs/rev
 [Compound Meter](../docs/reviews/compound-meter.md), and
 [Other Rhythmic Essentials](../docs/reviews/rhythmic-essentials.md).
 
-Batch 05 (chapters 12–14) is being prepared concurrently and will be integrated
-on top of batch 04; it is not counted in the totals for this branch.
+Batch 05 (chapters 12–14) was prepared concurrently and is stacked on batch 04;
+merge batch 04 before batch 05. Both batches are included in this branch's totals.
+
+## Fifth batch: scales, key signatures and modes
+
+Chapters 12–14 were retrieved at `2026-09-20T23:02:37.621733+00:00`.
+The thirteen earlier snapshots and their translation source bindings are retained.
+Fifteen original figures were added: ten for Major Scales, four for Minor Scales
+and one for Modes. The full collection contains 79 Nebraska figures and the
+earlier LibreTexts copy of Notation example 17. Internal labels remain unchanged;
+Russian captions and alt descriptions are supplied.
+
+Major Scales table 37, Minor Scales tables 39/40 and examples 10/11 are absent
+from the source. Empty or corrupted popup definitions in Minor Scales and Modes
+are disclosed rather than reconstructed as source text. Marked translator notes
+explain corrections and terminology choices; the English archive is unchanged.
+External scores, worksheets, video and audio remain unverified, unlocalized links.
+
+Separate AI comparisons are complete for all three chapters; targeted corrections
+and their verification are recorded in [Major Scales](../docs/reviews/major-scales.md),
+[Minor Scales](../docs/reviews/minor-scales.md), and [Modes](../docs/reviews/modes.md).
+Technical results are recorded there and in the batch PR. Human review, rendered-page
+review and external-content/playback checks remain pending. All translations
+retain draft status; merging either batch does not certify editorial completion.

@@ -29,10 +29,11 @@ Brian Moore; это имя сохраняется отдельно от спис
 Chelsey Hamm и Bryn Hughes, главу 7 — Chelsey Hamm и Mark Gotham,
 главу 8 — Chelsey Hamm, Mark Gotham и Bryn Hughes;
 главу 9 — Chelsey Hamm, Kris Shaffer и Mark Gotham; главу 10 — Chelsey Hamm и Mark Gotham;
-главу 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm.
+главу 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm;
+главы 12–13 — Chelsey Hamm и Bryn Hughes; главу 14 — Chelsey Hamm.
 
 Пример 17 главы о записи нот дополнительно получен из LibreTexts OMT2;
-источник и хеш записаны в `upstream/assets.json`. Остальные 64 иллюстрации и фотографии клавиатуры —
+источник и хеш записаны в `upstream/assets.json`. Остальные 79 иллюстраций и фотографий клавиатуры —
 из адаптации Nebraska. Подписи и alt-текст переведены, сами рисунки не изменены.
 В главе о клавиатуре восстановлена повреждённая ссылка на рисунок 8; это
 исправление отмечено в тексте и реестре ресурсов. Обложка и иллюстрации интерфейса
