@@ -102,6 +102,21 @@
           "content_sha256": "aea13b350fc2be2cb4d7288781c336cc421fdd1fffa7e21196bba7b9f61a23ad"
         }
       ]
+    },
+    {
+      "retrieved_at": "2026-09-23T16:48:28.472774+00:00",
+      "precision": "timestamp",
+      "provenance": "Raw Nebraska responses captured in GitHub Actions run 35891273758, artifact 10764632374; normalized offline with v1 importer. Chapter-specific raw retrieval timestamps in reviews; catalog compared equal.",
+      "chapters": [
+        {
+          "id": "inversion-figured-bass",
+          "content_sha256": "b84165b9a81bd9757f1ef404fd8a611c14264154aacc2666b70384cf1c74c262"
+        },
+        {
+          "id": "roman-numerals",
+          "content_sha256": "03fb7f9ca272e8ac235f6a6d755b9f7f2e791347bdb9368a23797043a28243e6"
+        }
+      ]
     }
   ]
 }

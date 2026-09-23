@@ -104,6 +104,16 @@
       "id": "seventh-chords",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/",
       "translation": "src/fundamentals/18-seventh-chords.md"
+    },
+    {
+      "id": "inversion-figured-bass",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/inversion-and-figured-bass/",
+      "translation": "src/fundamentals/19-inversion-figured-bass.md"
+    },
+    {
+      "id": "roman-numerals",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/roman-numerals/",
+      "translation": "src/fundamentals/20-roman-numerals.md"
     }
   ]
 }

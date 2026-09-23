@@ -22,6 +22,8 @@
   - [Интервалы](fundamentals/16-intervals.md)
   - [Трезвучия](fundamentals/17-triads.md)
   - [Септаккорды](fundamentals/18-seventh-chords.md)
+  - [Обращения и цифровой бас](fundamentals/19-inversion-figured-bass.md)
+  - [Римские цифры и построение аккордов для SATB](fundamentals/20-roman-numerals.md)
   - [Статус перевода](fundamentals/status.md)
 - [Рабочий глоссарий](glossary.md)
 - [Авторы и лицензия](attribution.md)

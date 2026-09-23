@@ -289,6 +289,30 @@
         "Three original Nebraska notation figures retained locally at full source resolution, with Russian captions and descriptive alt; original image labels remain untranslated.",
         "Seven original MuseScore scores embedded with permanent direct links; external worksheets and media remain English and unverified."
       ]
+    },
+    {
+      "id": "inversion-figured-bass",
+      "path": "src/fundamentals/19-inversion-figured-bass.md",
+      "status": "draft",
+      "source_content_sha256": "b84165b9a81bd9757f1ef404fd8a611c14264154aacc2666b70384cf1c74c262",
+      "reviewed_by": null,
+      "modifications": [
+        "Full Russian draft of the preserved Nebraska chapter text and explicitly inventoried source gaps or damaged popup definitions.",
+        "Original notation figures retained locally with Russian captions/alt; original internal labels remain English.",
+        "Exact source MuseScore URLs embedded with fallback links; external scores, exercises and worksheets remain English and unverified."
+      ]
+    },
+    {
+      "id": "roman-numerals",
+      "path": "src/fundamentals/20-roman-numerals.md",
+      "status": "draft",
+      "source_content_sha256": "03fb7f9ca272e8ac235f6a6d755b9f7f2e791347bdb9368a23797043a28243e6",
+      "reviewed_by": null,
+      "modifications": [
+        "Full Russian draft of the preserved Nebraska chapter text and explicitly inventoried source gaps or damaged popup definitions.",
+        "Original notation figures retained locally with Russian captions/alt; original internal labels remain English.",
+        "Exact source MuseScore URLs embedded with fallback links; external scores, exercises and worksheets remain English and unverified."
+      ]
     }
   ]
 }

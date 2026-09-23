@@ -1068,3 +1068,41 @@ terms:
   alternatives:
   - уменьшённый септаккорд
   note: 'Уменьшённое трезвучие и уменьшённая септима; краткий вариант — уменьшённый септаккорд. Согласовать употребление в главах 18–20.'
+- en: figured bass
+  ru: цифровой бас
+  status: candidate
+  note: 'Цифры над басовым тоном обозначают интервалы до других тонов; основание: глава 19, docs/reviews/inversion-figured-bass.md.'
+- en: realize figured bass
+  ru: реализовать цифровой бас
+  status: candidate
+  note: 'Записать или сыграть голоса по обозначениям цифрового баса; основание: глава 19.'
+- en: first inversion
+  ru: первое обращение
+  status: candidate
+  note: 'Терцовый тон аккорда в басу; основание: глава 19.'
+- en: second inversion
+  ru: второе обращение
+  status: candidate
+  note: 'Квинтовый тон аккорда в басу; основание: глава 19.'
+- en: third inversion
+  ru: третье обращение
+  status: candidate
+  note: 'Септимовый тон септаккорда в басу; основание: глава 19.'
+- en: hanging accidental
+  ru: одиночный знак альтерации
+  status: candidate
+  alternatives:
+  - знак альтерации без цифры
+  note: 'В цифровом басе без явной цифры обычно относится к терции над басом; основание: глава 19.'
+- en: Roman numeral analysis
+  ru: анализ римскими цифрами
+  status: candidate
+  note: 'Обозначение аккордов по ступеням и виду в тональности; основание: глава 20, docs/reviews/roman-numerals.md.'
+- en: voice crossing
+  ru: перекрещивание голосов
+  status: candidate
+  note: 'Один голос оказывается выше или ниже другого вопреки обычному порядку; основание: глава 20.'
+- en: SATB
+  ru: SATB (сопрано, альт, тенор, бас)
+  status: candidate
+  note: 'Четыре голосовые партии; глава 20.'

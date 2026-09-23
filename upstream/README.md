@@ -15,15 +15,15 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: twenty normalized English chapter bodies: introduction, first eighteen
+- `en/*.html`: twenty-two normalized English chapter bodies: introduction, first twenty
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
-  This branch includes batches 04 (chapters 9–11), 05 (chapters 12–14), 06 (chapters 15–17), and 07 (chapter 18).
+  This branch includes batches 04 (chapters 9–11), 05 (chapters 12–14), 06 (chapters 15–17), 07 (chapter 18), and 08 (chapters 19–20).
   Remaining chapter bodies have not been assessed.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 95 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 104 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
@@ -35,7 +35,7 @@ chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**, chapter 9
 chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**, chapters 12–13
 **Chelsey Hamm and Bryn Hughes**, chapter 14 **Chelsey Hamm**, chapter 15
 **Kris Shaffer, Chelsey Hamm and Samuel Brady**, chapter 16 **Chelsey Hamm and Bryn Hughes**,
-and chapters 17–18 **Chelsey Hamm**.
+chapters 17–18 **Chelsey Hamm**, chapter 19 **Chelsey Hamm and Samuel Brady**, and chapter 20 **Samuel Brady and Kris Shaffer**.
 
 ## Import and compare
 
@@ -216,3 +216,7 @@ begins with chapter 18; no translator is assigned yet.
 ## Seventh batch: seventh chords
 
 Chapter 18 was retrieved from the Nebraska Fall 2023 page at `2026-09-23T16:48:26.033079+00:00` via GitHub Actions run 35891273758 (artifact 10764632374). The v1 importer normalized its raw response offline without changing the 19 existing snapshots; the source catalog compared equal. The legacy global manifest date remains the baseline date; the new per-cohort entry is in `retrievals.json`. Three original Nebraska images were fetched at full available resolution and indexed with source references and SHA-256 in `assets.json`. Table 73 is absent from the source; example numbering conflicts and damaged popup definitions are described in [the chapter record](../docs/reviews/seventh-chords.md). Third-party media and worksheets remain English and unverified.
+
+## Eighth batch: inversions, figured bass, Roman numerals and SATB
+
+Chapters 19–20 were retrieved from the explicitly dated Nebraska Fall 2023 adaptation at `2026-09-23T16:48:27.402621+00:00` and `2026-09-23T16:48:28.472774+00:00` respectively, in the same source artifact as chapter 18 (run 35891273758, artifact 10764632374). The v1 importer normalized the raw responses offline; the 20 earlier English snapshots and their hashes are unchanged. The newly fetched catalog compared equal. The combined manifest retains the original baseline date; the retrieval cohort and review records date these pages. Nine original Nebraska figures are indexed in `assets.json`. Source tables 69/70 in chapter 19 and table 68 in chapter 20 are missing; damaged popup definitions and other deviations are documented in [19](../docs/reviews/inversion-figured-bass.md) and [20](../docs/reviews/roman-numerals.md). All new material stays draft pending human review and external-media checks.
