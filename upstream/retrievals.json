@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "note": "Retrieval cohorts for the combined manifest. Its legacy global retrieved_at remains the original baseline date; it does not date later additions. Existing chapter-review records and upstream/README.md retain finer timestamps where recorded.",
+  "cohorts": [
+    {
+      "retrieved_at": "2026-09-20",
+      "precision": "day",
+      "provenance": "Preserved baseline and batch05; see per-chapter reviews and upstream/README.md for exact timestamps.",
+      "chapters": [
+        {
+          "id": "introduction",
+          "content_sha256": "0fe92cbe8445edfe4bcb087703be9043a9560ef3ad6361283b58bbc00646d44c"
+        },
+        {
+          "id": "western-notation",
+          "content_sha256": "055d08a9841bf33b2bc5e929fa5b73f4c44a652744a599db9ed3642d3b26305e"
+        },
+        {
+          "id": "notes-clefs",
+          "content_sha256": "a238a4474febc4aac82dc82d4ce09525b722d694e3eb695a8628269fd4b3b18b"
+        },
+        {
+          "id": "acknowledgments",
+          "content_sha256": "fad329636f6f670e4b6b50c8e438daf6d6f3ad2ca61599cd16832bd71630e57e"
+        },
+        {
+          "id": "reading-clefs",
+          "content_sha256": "098b259f6c62afcda9c56b2016575df135a36a9c021851427f12da553a31e524"
+        },
+        {
+          "id": "keyboard-grand-staff",
+          "content_sha256": "842603ef38dffe358c09fe772c7ba40abcb4cae3bc2f7a0b9638f094c4ad9108"
+        },
+        {
+          "id": "half-whole-steps",
+          "content_sha256": "78cd2faff54e36c5066f295b3b5a627bc979b96b3fc398cb8c599956ef09ead2"
+        },
+        {
+          "id": "aspn",
+          "content_sha256": "391b8beeca72883751a4144dbd5e7b0429fa7db8117d3c618178285a813368ff"
+        },
+        {
+          "id": "other-notation",
+          "content_sha256": "4b35c7eff61e83cbda4ef21fdc582554a9c43ab2c8a42d6c265a801267e093a2"
+        },
+        {
+          "id": "rhythmic-rest-values",
+          "content_sha256": "47c67a0adcd454cb210e1a71053782bd87b98306959349061b88dfe1e15104c9"
+        },
+        {
+          "id": "simple-meter",
+          "content_sha256": "0bd8491dbc51c21612057e178453f0469fb400569a90100deaae9ee7dc34f05f"
+        },
+        {
+          "id": "compound-meter",
+          "content_sha256": "9c1fc456c86ea113ba6aa119cb0bfd928cdba50c127baceb815943f7153668de"
+        },
+        {
+          "id": "rhythmic-essentials",
+          "content_sha256": "f722dc6d1c284e2e51788fc694868cd3f15d2d2b5b77b9d1057824e56335f741"
+        },
+        {
+          "id": "major-scales",
+          "content_sha256": "4198e30481c101cc9e7b882244b1ab8a57b566b469adf1c3c6f4ed727b0c7f18"
+        },
+        {
+          "id": "minor-scales",
+          "content_sha256": "efa51f47d857fca0cb848194734afe3dee44f53ce4fd2daeb422f842bf963175"
+        },
+        {
+          "id": "modes",
+          "content_sha256": "2f61550a1be73c96e9ee475f8b6cbc221f9afa04e3b4fecff2dcf2181f6ff091"
+        }
+      ]
+    },
+    {
+      "retrieved_at": "2026-09-23T10:21:40.881030+00:00",
+      "precision": "timestamp",
+      "provenance": "Batch06 candidate import; existing snapshots were not re-fetched.",
+      "chapters": [
+        {
+          "id": "sight-singing",
+          "content_sha256": "2235221311dbfdf6b885d461c9a34c7fbbff21fabcbb94a5aec43fcb65a75c6b"
+        },
+        {
+          "id": "intervals",
+          "content_sha256": "cdcca855aff9667ba39c8c79fa195f796830d94d230cfe0bd358cf73b0145385"
+        },
+        {
+          "id": "triads",
+          "content_sha256": "6ba520e7c75db02a3ec59ca9edf26f634c5a80131dae179156bea876127fb1d3"
+        }
+      ]
+    }
+  ]
+}
