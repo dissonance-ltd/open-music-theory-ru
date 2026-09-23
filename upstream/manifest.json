@@ -5131,6 +5131,470 @@
         }
       ],
       "excluded_media": []
+    },
+    {
+      "id": "seventh-chords",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/",
+      "title": "18 Seventh Chords",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "c219b31eebb8d11b068911d5623362455235512326c7bf1f4b7cc9df2f5439c7",
+      "content_sha256": "aea13b350fc2be2cb4d7288781c336cc421fdd1fffa7e21196bba7b9f61a23ad",
+      "snapshot": "en/seventh-chords.html",
+      "translation": "src/fundamentals/18-seventh-chords.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/chord-members-300x79.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/dmaj-300x45.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/abdim7-300x31.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://4.files.edl.io/5f5b/03/22/20/165827-6175c6ad-d3bd-4fa7-b88e-78f37f9934e4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/textbook/pdf/7th_chords_building_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://dsmusic.com.au/wp-content/uploads/2012/02/7th-Chords-Worksheet3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/textbook/pdf/7th_chords_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://global.oup.com/us/companion.websites/9780195386042/pdf/9_7th_Chds-Maj-Root_Invrsns.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://global.oup.com/us/companion.websites/9780195386042/pdf/10_7th_Cds-Mnr-Root_Invrsns.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Seventh-Chords-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-1.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Seventh-Chords-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Seventh-Chords-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-3.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Mi-in-the-Bass.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Mi-in-the-Bass.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/I-Exercises.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/I-Exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/I-Solutions.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/I-Solutions.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/I/I-Annotations.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/I/I-Annotations.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/I-Distinct.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/I-Distinct.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/II/II-Exercises.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/II-Exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/II-Solutions.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/II-Solutions.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/II/II-Annotations.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/II/II-Annotations.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/II-Distinct.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/II-Exercises.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/III-Exercises.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/III-Exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/III-Solutions.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/III-Solutions.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/III/III-Annotations.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/species/downloads/III/III-Annotations.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/III-Distinct.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/III-Distinct.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Partimenti_Prototypes_(With_Chords).mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Partimenti_Prototypes_(With_Chords).pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/downloads/Partimenti_Prototypes_(No_Chords).mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/downloads/Partimenti_Prototypes_(No_Chords).pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-From_63.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-From_63.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-Part_by_Part.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-Part_by_Part.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Open.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Open.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Short.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Short.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-From_63.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-From_63.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-Part_by_Part.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/ROTO-Part_by_Part.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Open.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Open.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Short.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Scale_Sequences_Short.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/chromatic-modulation-closely-related-keys-1024x491.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/distantly-related-keys-mixture-to-diatonic-1024x562.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/distantly-related-keys-diatonic-to-mixture-1024x540.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
     }
   ]
 }

@@ -1331,6 +1331,51 @@
       "retrieved_at": "2026-09-23T10:24:54.857625+00:00",
       "translated_alt": "Пять шагов: A♭4; над ним добавлены C5 и E5; ключевые знаки ля-бемоль мажора — четыре бемоля; мажорное трезвучие A♭4–C5–E♭5; минорное трезвучие A♭4–C♭5–E♭5.",
       "translated_caption": "Пример 9. Построение ля-бемоль-минорного трезвучия за пять шагов."
+    },
+    {
+      "chapter": "seventh-chords",
+      "example": 2,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/chord-members.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/chord-members-300x79.png",
+      "source_alt": "notation",
+      "path": "src/assets/seventh-chords/example-02.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Chelsey Hamm / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. Original image text retained.",
+      "sha256": "a0a6c3c07170f996250d4971203e9f592ec69c95ef18df1bd06e089009e4c7fb",
+      "retrieved_at": "2026-09-23T16:53:25.193694+00:00",
+      "translated_alt": "В басовом ключе четыре звука септаккорда записаны по терциям; цветные линии ведут от нот к английским подписям Root, Third, Fifth, Seventh.",
+      "translated_caption": "Пример 2. Основной, терцовый, квинтовый и септимовый тоны септаккорда."
+    },
+    {
+      "chapter": "seventh-chords",
+      "example": 8,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/dmaj.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/dmaj-300x45.png",
+      "source_alt": "notation",
+      "path": "src/assets/seventh-chords/example-08.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Chelsey Hamm / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. Original image text retained.",
+      "sha256": "941fee4bba5c575fa4a2216bd5e94466bd2c1a9fb21f9975893ac8620a80468a",
+      "retrieved_at": "2026-09-23T16:53:25.332977+00:00",
+      "translated_alt": "Четыре стадии построения ре-мажорного септаккорда с большой септимой: D; D–F–A–C; ключевые знаки ре мажора; D–F♯–A–C♯.",
+      "translated_caption": "Пример 8. Построение ре-мажорного септаккорда с большой септимой за четыре шага."
+    },
+    {
+      "chapter": "seventh-chords",
+      "example": 9,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/abdim7-2048x211.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/abdim7-300x31.png",
+      "source_alt": "notation",
+      "path": "src/assets/seventh-chords/example-09.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Chelsey Hamm / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. Original image text retained.",
+      "sha256": "6acdf7e00759fb56dd0d0f5709d5ce7816ae30213f5b441ca16c448fd15a3726",
+      "retrieved_at": "2026-09-23T16:53:25.496961+00:00",
+      "translated_alt": "Построение A♭o7: от A♭ добавлены C, E, G; затем E♭ из ключевых знаков ля-бемоль мажора; окончательные звуки A♭–C♭–E𝄫–G𝄫.",
+      "translated_caption": "Пример 9. Построение ля-бемоль-уменьшённого септаккорда; подпись оригинала указывает шесть шагов."
     }
   ]
 }
