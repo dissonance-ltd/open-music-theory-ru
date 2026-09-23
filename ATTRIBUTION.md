@@ -18,7 +18,7 @@ Bryn Hughes, Brian Jarvis, Megan Lavengood и John Peterson совместно �
 добавлять в репозиторий только после проверки их лицензии.
 
 
-## Пилот от 20 сентября 2026 года
+## Рабочие пакеты от 20 и 23 сентября 2026 года
 
 Английский источник: **Open Music Theory — Fall 2023**, адаптация на Pressbooks
 Университета Небраски: <https://pressbooks.nebraska.edu/openmusictheory/>.
@@ -30,11 +30,13 @@ Chelsey Hamm и Bryn Hughes, главу 7 — Chelsey Hamm и Mark Gotham,
 главу 8 — Chelsey Hamm, Mark Gotham и Bryn Hughes;
 главу 9 — Chelsey Hamm, Kris Shaffer и Mark Gotham; главу 10 — Chelsey Hamm и Mark Gotham;
 главу 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm;
-главы 12–13 — Chelsey Hamm и Bryn Hughes; главу 14 — Chelsey Hamm.
+главы 12–13 — Chelsey Hamm и Bryn Hughes; главу 14 — Chelsey Hamm;
+главу 15 — Kris Shaffer, Chelsey Hamm и Samuel Brady; главу 16 — Chelsey Hamm и Bryn Hughes;
+главу 17 — Chelsey Hamm.
 
 Пример 17 главы о записи нот дополнительно получен из LibreTexts OMT2;
-источник и хеш записаны в `upstream/assets.json`. Остальные 79 иллюстраций и фотографий клавиатуры —
-из адаптации Nebraska. Подписи и alt-текст переведены, сами рисунки не изменены.
+источник и хеш записаны в `upstream/assets.json`. Остальные 91 изображение, включая фотографии клавиатуры, —
+из адаптации Nebraska. Всего сохранено 92 локальных изображения. Подписи и alt-текст переведены, сами рисунки не изменены.
 В главе о клавиатуре восстановлена повреждённая ссылка на рисунок 8; это
 исправление отмечено в тексте и реестре ресурсов. Обложка и иллюстрации интерфейса
 из введения опущены. Видеозаписи Jacob Tews, Benjamin Corbin и Chelsey Hamm

@@ -15,15 +15,15 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: sixteen normalized English chapter bodies: introduction, first fourteen
+- `en/*.html`: nineteen normalized English chapter bodies: introduction, first seventeen
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
-  This branch includes batch 04 (chapters 9–11) and batch 05 (chapters 12–14).
+  This branch includes batches 04 (chapters 9–11), 05 (chapters 12–14), and 06 (chapters 15–17).
   Remaining chapter bodies have not been assessed.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 80 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 92 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
@@ -33,7 +33,9 @@ source metadata, not substituted for the seven original OMT2 authors. Fundamenta
 chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**, chapter 9
 **Chelsey Hamm, Kris Shaffer and Mark Gotham**, chapter 10 **Chelsey Hamm and Mark Gotham**,
 chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**, chapters 12–13
-**Chelsey Hamm and Bryn Hughes**, and chapter 14 **Chelsey Hamm**.
+**Chelsey Hamm and Bryn Hughes**, chapter 14 **Chelsey Hamm**, chapter 15
+**Kris Shaffer, Chelsey Hamm and Samuel Brady**, chapter 16 **Chelsey Hamm and Bryn Hughes**,
+and chapter 17 **Chelsey Hamm**.
 
 ## Import and compare
 
@@ -119,7 +121,7 @@ have explanatory text but no corresponding media in either the raw response or
 the normalized snapshot. Rhythm contains a missing-table-74 message. These source
 defects remain in the English archive and are visibly disclosed in the Russian
 drafts, together with limited corrections to misleading definitions. External
-MuseScore examples and worksheets remain links, not localized or verified content.
+MuseScore examples are now embedded with permanent source links; worksheets remain links. Neither is newly localized or certified by this presentation change.
 
 See the [batch workflow](../docs/batch-translation.md) and chapter records for
 [ASPN](../docs/reviews/aspn.md), [Other Notation](../docs/reviews/other-notation.md),
@@ -129,8 +131,9 @@ and [Rhythmic Values](../docs/reviews/rhythmic-rest-values.md).
 
 Chapters 9–11 were retrieved at `2026-09-20T23:02:37.155996+00:00`.
 The ten previously accepted snapshots and existing source bindings are retained.
-The combined manifest continues to use the actual shared UTC retrieval day,
-`2026-09-20`; exact chapter timestamps and hashes are recorded in the chapter reviews.
+At that stage, all snapshots shared the UTC retrieval day `2026-09-20`.
+Exact chapter timestamps and hashes remain recorded in the chapter reviews;
+see the batch 06 note below for the later retrieval cohort.
 
 Eleven source figures were added: nine for Simple Meter and two for Compound Meter.
 Other Rhythmic Essentials contains no embedded figures in either its raw HTML or
@@ -146,15 +149,17 @@ are recorded in the chapter records and batch PR. See [Simple Meter](../docs/rev
 [Compound Meter](../docs/reviews/compound-meter.md), and
 [Other Rhythmic Essentials](../docs/reviews/rhythmic-essentials.md).
 
-Batch 05 (chapters 12–14) was prepared concurrently and is stacked on batch 04;
-merge batch 04 before batch 05. Both batches are included in this branch's totals.
+Batch 05 (chapters 12–14) was originally prepared concurrently and stacked on batch 04.
+Its original PR #8 was merged into that branch after batch 04 had reached main,
+leaving chapters 12–14 absent from main. [PR #10](https://github.com/dissonance-ltd/open-music-theory-ru/pull/10)
+restores the unchanged chapter content and review evidence to main.
 
 ## Fifth batch: scales, key signatures and modes
 
 Chapters 12–14 were retrieved at `2026-09-20T23:02:37.621733+00:00`.
 The thirteen earlier snapshots and their translation source bindings are retained.
 Fifteen original figures were added: ten for Major Scales, four for Minor Scales
-and one for Modes. The full collection contains 79 Nebraska figures and the
+and one for Modes. At the end of batch 05, the collection contained 79 Nebraska figures and the
 earlier LibreTexts copy of Notation example 17. Internal labels remain unchanged;
 Russian captions and alt descriptions are supplied.
 
@@ -170,3 +175,40 @@ and their verification are recorded in [Major Scales](../docs/reviews/major-scal
 Technical results are recorded there and in the batch PR. Human review, rendered-page
 review and external-content/playback checks remain pending. All translations
 retain draft status; merging either batch does not certify editorial completion.
+
+
+## Sixth batch: sight-singing, intervals and triads
+
+Chapters 15–17 were retrieved at `2026-09-23T10:21:40.881030+00:00`.
+The sixteen earlier snapshots and source bindings remain unchanged. The new catalog
+compared equal to the retained catalog. Schema v1 has only a global `manifest.retrieved_at`: its retained value
+`2026-09-20` is the legacy baseline retrieval date, not the retrieval date of all
+chapters. The actual timestamp for chapters 15–17 is recorded in their review
+records and the per-cohort [retrieval ledger](retrievals.json). Earlier cohort
+timestamps remain as documented above; the new date does not relabel those downloads.
+This translation batch does not change the importer or manifest schema.
+
+Twelve original Nebraska figures were added: three for Sight-Singing, five for Intervals,
+and four for Triads. The collection now contains 19 English snapshots, 18 Russian drafts,
+and 92 local figures (91 from Nebraska and one from LibreTexts). Figure captions and
+alt descriptions are Russian; the original image content is unchanged.
+
+Sight-Singing examples 9–11 are missing and example number 4 is repeated. Intervals
+tables 61, 63, and 64 are absent. Broken popup definitions, including unrelated chapter
+content in Intervals and Triads, are inventoried and disclosed in the Russian drafts;
+missing definitions are not reconstructed by guesswork. The English snapshots are unchanged.
+See [Sight-Singing](../docs/reviews/sight-singing.md), [Intervals](../docs/reviews/intervals.md),
+and [Triads](../docs/reviews/triads.md) for exact inventories and deviations.
+
+Separate AI reviews are complete: `review_batch06_singing_triads` for chapters 15/17,
+`review_batch06_intervals` for chapter 16 and cross-chapter terminology. Their findings and rechecks are recorded per chapter, including the closed
+Intervals clarification and a review of all 47 new glossary entries. Technical results
+belong to the records and PR. Human review, rendered-page/mobile review, external-content inspection and
+per-score playback checks remain pending. On 2026-09-23 the user confirmed that the
+MuseScore pilot works and requested rollout. All 60 source scores in chapters 6–17
+are now embedded, with permanent direct links. See the [inventory and rules](../docs/musescore-embeds.md).
+
+PR #10 restored batch 05 into main. PR #11 was merged into the old restoration
+branch, so this MuseScore rollout PR brings the already-reviewed batch 06 into main
+as a separate prerequisite commit. This PR targets main directly. Subsequent work
+begins with chapter 18; no translator is assigned yet.

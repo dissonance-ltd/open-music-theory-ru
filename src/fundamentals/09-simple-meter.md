@@ -132,19 +132,37 @@
 
 <a id="example-11"></a>
 
-**Пример 11.** Ритм в размере 4/4. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/6293132/embed).
+**Пример 11.** Ритм в размере 4/4.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6293132/embed" title="Пример 11. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6293132">Открыть пример 11 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 В двухдольном метре всего две доли, а в трёхдольном — три, но части доли считаются точно так же ([пример 12](#example-12)).
 
 <a id="example-12"></a>
 
-**Пример 12.** В двухдольном метре с двухчастным делением — две доли в такте, в трёхдольном — три. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/6296048/embed).
+**Пример 12.** В двухдольном метре с двухчастным делением — две доли в такте, в трёхдольном — три.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296048/embed" title="Пример 12. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296048">Открыть пример 12 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 Как и у нот продолжительностью две доли или более, счёт не произносят заново на долях, где нет новой атаки из-за паузы, соединительной лиги или точки. Такие числа обычно записывают в скобках, как в [примере 13](#example-13).
 
 <a id="example-13"></a>
 
-**Пример 13.** Числа, которые не произносят вслух, заключают в скобки. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/6296065/embed).
+**Пример 13.** Числа, которые не произносят вслух, заключают в скобки.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296065/embed" title="Пример 13. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296065">Открыть пример 13 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 <figure id="example-14">
 <img src="../assets/simple-meter/example-14.png" alt="Нотный пример с затактом длительностью в четверть и заключительным тактом из трёх четвертных долей." loading="lazy">
@@ -159,7 +177,13 @@
 
 <a id="example-15"></a>
 
-**Пример 15.** Один и тот же ритм с одинаковым счётом, записанный при доле, равной: (a) четверти, (b) половинной, (c) восьмой, (d) шестнадцатой. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/8422379/embed).
+**Пример 15.** Один и тот же ритм с одинаковым счётом, записанный при доле, равной: (a) четверти, (b) половинной, (c) восьмой, (d) шестнадцатой.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8422379/embed" title="Пример 15. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8422379">Открыть пример 15 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 ## Вязки, штили, флажки и многотактовые паузы
 
@@ -167,7 +191,13 @@
 
 <a id="example-16"></a>
 
-**Пример 16.** Группировка вязками в двух разных размерах. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/6296072/embed).
+**Пример 16.** Группировка вязками в двух разных размерах.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296072/embed" title="Пример 16. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296072">Открыть пример 16 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 <figure id="example-17">
 <img src="../assets/simple-meter/example-17.png" alt="Два способа записать один ритм в размере 3/4: сверху восьмые без вязок, снизу ноты сгруппированы по долям." loading="lazy">
@@ -205,7 +235,13 @@
 
 <a id="example-21"></a>
 
-**Пример 21.** Неполные вязки в некоторых группах разных длительностей. [Партитура MuseScore — внешний англоязычный материал; нотное содержимое и воспроизведение не проверены](https://musescore.com/user/32728834/scores/8422418/embed).
+**Пример 21.** Неполные вязки в некоторых группах разных длительностей.
+
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8422418/embed" title="Пример 21. Метр с двухчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8422418">Открыть пример 21 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 <figure id="example-22">
 <img src="../assets/simple-meter/example-22.png" alt="Знак многотактовой паузы: горизонтальный закрашенный прямоугольник с числом 4 над ним." loading="lazy">

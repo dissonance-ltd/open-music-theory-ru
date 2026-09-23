@@ -78,7 +78,8 @@
         "Source above C4 corrected to inclusive C4 bound with explicit translator note; ASPN4 versus Russian first octave and B♯3=C4 clarified.",
         "Example4 MuseScore remains source external link with RU caption and explicit EN/unlocalized/content-playback-unverified notice.",
         "All5 online resources,2 external worksheet entries and1 assignment PDF/DOCX retained with translated labels and explicit EN/unverified status.",
-        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md.",
+        "MuseScore rollout 2026-09-23: 1 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -94,7 +95,8 @@
         "26 popup definitions translated to visible table;1empty and1CSS-corrupt entry explicitly noted, not reproduced as prose.",
         "Missing examples3–7and9–11 explicitly disclosed; no invented music.",
         "English internal image labels explained in captions and adjacent Russian text, not redrawn.",
-        "Source lists for dynamics and periodization rendered as tables; example8 caption/alt added after image inspection."
+        "Source lists for dynamics and periodization rendered as tables; example8 caption/alt added after image inspection.",
+        "MuseScore rollout 2026-09-23: 2 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -112,7 +114,8 @@
         "Изображения локальные, переведены подписи/alt; пример6 alt расширен после визуальной проверки.",
         "Внешний MuseScore сохранён ссылкой; содержимое/воспроизведение не проверены, видимая отметка.",
         "Все дополнительные материалы и задания сохранены ссылками с русскими названиями и явным указанием непроверенного/нелокализованного содержимого.",
-        "Прежние chapter-ссылки заменены локальными; A–G упражнений заменены нумерацией1–7."
+        "Прежние chapter-ссылки заменены локальными; A–G упражнений заменены нумерацией1–7.",
+        "MuseScore rollout 2026-09-23: 1 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -131,7 +134,8 @@
         "Missing conducting diagrams5–7 marked explicitly",
         "K2 date1774 retained as attributed unverified source statement",
         "musx/mscz mismatch preserved and marked",
-        "Уточнён alt примера 19: единое направление штилей группы; нейтральный ключ и авторские E5/E4 объяснены в примечании."
+        "Уточнён alt примера 19: единое направление штилей группы; нейтральный ключ и авторские E5/E4 объяснены в примечании.",
+        "MuseScore rollout 2026-09-23: 6 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -150,7 +154,8 @@
         "Явно пояснена точка у длительности одной доли против точки, захватывающей следующую долю.",
         "Видимо раскрыты t=140s против1:49, GIF подписанPDF, страницы Shed названыPDF, .mscz#fixme подписан.musx. Сохранены исходные URL.",
         "Алфавитные группы внешних заданий заменены цифровым списком.",
-        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md.",
+        "MuseScore rollout 2026-09-23: 6 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -166,7 +171,8 @@
         "Ссылки на главы 9–10 заменены локальными; внешняя глава о поп-музыке сохранена по точному URL с пометкой англ.",
         "Внешние задания A–D перенумерованы 1–4.",
         "Счёт «раз-и, два-и» явно обозначен как русская адаптация.",
-        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md."
+        "Пилот MuseScore: один исходный /embed URL встроен через iframe с русским title, loading=lazy и постоянной ссылкой; внешнее содержимое не локализовано и воспроизведение не подтверждено. См. docs/musescore-embed-pilot.md.",
+        "MuseScore rollout 2026-09-23: 4 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -182,7 +188,8 @@
         "10 исходных рисунков сохранены без изменения; alt примера13 добавлен по просмотренному изображению.",
         "Ссылки на главы13–14 добавлены отдельным примечанием переводчиков; источник полутонов заменён локальной ссылкой.",
         "Внешние материалы сохранены точными URL и отмечены EN/непроверенными; #fixme сохранены.",
-        "Супертоника согласована с главой 13; надтоника приведена как синоним."
+        "Супертоника согласована с главой 13; надтоника приведена как синоним.",
+        "MuseScore rollout 2026-09-23: 5 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -198,7 +205,8 @@
         "Добавлены помеченные пояснения о неизменном составе/обратном порядке интервалов натурального/гармонического минора; подвижном do и знаках понижения; вводном тоне/субтонике иB=си.",
         "Ссылка сноски на диатонические лады заменена локальной главой14; добавлена локальная ссылка на главу12.",
         "Четыре изображения использованы без изменений, alt/подписи переведены; исходные ссылки на крупныеVIVAизображения сохранены.",
-        "Термин супертоника согласован с главой 12."
+        "Термин супертоника согласован с главой 12.",
+        "MuseScore rollout 2026-09-23: 5 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     },
     {
@@ -216,7 +224,58 @@
         "Дорийский сравнивается с натуральным минором согласно попапу того же источника.",
         "Ссылка на клавиатуру заменена локальной, добавлены локальные ссылки на главы 12–13; нумерация внешних упражнений вместо A–G.",
         "В задании внешнего пункта D исходные .docx-подписи при .doc-URL заменены на «файл Word» с видимым пояснением; URL и #fixme сохранены.",
-        "Надписи Darker/Brighter сверены с изображением; ошибка исходного alt раскрыта; название caret согласовано как «крышка»."
+        "Надписи Darker/Brighter сверены с изображением; ошибка исходного alt раскрыта; название caret согласовано как «крышка».",
+        "MuseScore rollout 2026-09-23: 9 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
+      ]
+    },
+    {
+      "id": "sight-singing",
+      "path": "src/fundamentals/15-sight-singing.md",
+      "status": "draft",
+      "source_content_sha256": "2235221311dbfdf6b885d461c9a34c7fbbff21fabcbb94a5aec43fcb65a75c6b",
+      "reviewed_by": null,
+      "modifications": [
+        "Переведён весь сохранившийся основной текст, 6 выводов и 4 корректных popup; пять CSS-popup раскрыты как дефект.",
+        "Повтор номера 4 сохранён с различением аудио и отдельным якорем.",
+        "Отсутствие примеров 9–11 подтверждено также в сыром HTML и явно отмечено.",
+        "Три изображения локализованы на уровне alt/подписей, внутренние слоги сохранены; пустой alt примера 6 дополнен по осмотренному рисунку.",
+        "Видео/аудио оставлены прямыми внешними ссылками, пять MuseScore URL сохранены; содержимое и воспроизведение не проверены.",
+        "Перекрёстные ссылки заменены локальными главами 12–13; VIVA обёртки изображений заменены локальными Nebraska-копиями.",
+        "Расхождение Karpinski/Karpinsky сохранено с примечанием; библиографическая сверка не выполнена.",
+        "MuseScore rollout 2026-09-23: 5 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
+      ]
+    },
+    {
+      "id": "intervals",
+      "path": "src/fundamentals/16-intervals.md",
+      "status": "draft",
+      "source_content_sha256": "cdcca855aff9667ba39c8c79fa195f796830d94d230cfe0bd358cf73b0145385",
+      "reviewed_by": null,
+      "modifications": [
+        "Перевод полного доступного основного текста и всех6целых popup;11повреждённых popup видимо объявлены и не подменены посторонним текстом.",
+        "Локальные5рисунков, русские подписи/alt; пример15 alt исправлен по изображению.",
+        "Прима/unison и ограничения уменьшения примы пояснены обозначенными примечаниями.",
+        "Ошибочная ссылка10a исправлена на8a.",
+        "Граница простой октавы/составных интервалов пояснена.",
+        "Применение энгармонической замены ограничено сохранением исходной ступеневой величины.",
+        "MSCZ подписи исправлены, ссылки#fixme сохранены.",
+        "INT-11: отдельное примечание явно раскрывает уточнение исходного would not work применительно к воображаемой тональности; повторно проверено другим ИИ.",
+        "MuseScore rollout 2026-09-23: 8 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
+      ]
+    },
+    {
+      "id": "triads",
+      "path": "src/fundamentals/17-triads.md",
+      "status": "draft",
+      "source_content_sha256": "6ba520e7c75db02a3ec59ca9edf26f634c5a80131dae179156bea876127fb1d3",
+      "reviewed_by": null,
+      "modifications": [
+        "Полный перевод основного текста и 4 целых popup; 15 повреждённых контейнеров раскрыты, не восстановлены.",
+        "12 примеров: 4 локальные иллюстрации с русскими alt/подписями; 8 точных внешних MuseScore URL.",
+        "Различены основной тон и бас, основной вид и обращение, положение и расположение.",
+        "Перекрёстные ссылки на главы 12 и 16 локализованы.",
+        "Unicode ступени вместо LaTeX-шорткодов.",
+        "MuseScore rollout 2026-09-23: 8 source score embeds with Russian titles, lazy loading and permanent direct links. User confirmed the pilot works; individual scores are not newly certified or localized. See docs/musescore-embeds.md. Earlier link-only descriptions record the pre-rollout state."
       ]
     }
   ]

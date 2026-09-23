@@ -798,3 +798,251 @@ terms:
     внешних материалов. Основание: глава 14, docs/reviews/modes.md; человеческая рецензия не
     выполнена. Рабочий вариант пакета 05; отдельная ИИ-сверка — docs/reviews/modes.md, человеческая
     рецензия не выполнена.'
+- en: sight-singing
+  ru: пение с листа
+  status: candidate
+  note: 'Пение незнакомой по слуху и нотам музыки с листа. Основание: глава 15, docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена.'
+- en: sight-counting
+  ru: ритмическое чтение с листа
+  status: candidate
+  note: 'Произнесение счётных слогов незнакомого ритма; не обязательно пение высот. Основание:
+    глава 15, docs/reviews/sight-singing.md; человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена.'
+- en: dictation
+  ru: музыкальный диктант
+  status: candidate
+  note: 'Запись услышанной незнакомой музыки на нотном стане. Основание: глава 15, docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена.'
+- en: rhythmic dictation
+  ru: ритмический диктант
+  status: candidate
+  note: 'Слуховая запись ритма. Основание: глава 15, docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая рецензия не
+    выполнена.'
+- en: melodic dictation
+  ru: мелодический диктант
+  status: candidate
+  note: 'Запись ритма и высот услышанной мелодии. Основание: глава 15, docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена.'
+- en: dot grid
+  ru: сетка из точек
+  status: candidate
+  note: 'Точки обозначают доли, группы — такты. Основание: глава 15, docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена.'
+- en: slash notation
+  ru: запись косыми штрихами
+  status: candidate
+  note: 'В этой главе запись диктанта: косые штрихи — начала звуков, горизонтальные линии —
+    продолжения, кружки — паузы. Не обобщать на иные практики slash notation. Основание: глава
+    15, docs/reviews/sight-singing.md; человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена.'
+- en: contour lines
+  ru: линии мелодического контура
+  status: candidate
+  note: 'Направление движения мелодии вверх, вниз или на прежней высоте. Основание: глава 15,
+    docs/reviews/sight-singing.md; человеческая рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md;
+    человеческая рецензия не выполнена.'
+- en: protonotation
+  ru: протонотация
+  status: candidate
+  note: 'Упрощённая запись метра, ритма и ступеней по Karpinski; не фиксирует абсолютную тональность
+    или нотную длительность доли. Основание: глава 15, docs/reviews/sight-singing.md; человеческая
+    рецензия не выполнена. Пакет 06: docs/reviews/sight-singing.md; человеческая рецензия не
+    выполнена.'
+- en: interval size
+  ru: ступеневая величина интервала
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: interval quality
+  ru: качественная величина интервала
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: melodic interval
+  ru: мелодический интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: harmonic interval
+  ru: гармонический интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: unison
+  ru: прима; унисон
+  status: candidate
+  note: 'В классификации ступеневых величин — прима; при совпадении высот — чистая прима/унисон.
+    Не называть A1 унисоном. Пакет 06: docs/reviews/intervals.md; человеческая рецензия не выполнена.'
+- en: perfect interval
+  ru: чистый интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: major interval
+  ru: большой интервал
+  status: candidate
+  note: 'Большой/малый для интервала, в отличие от мажорного/минорного трезвучия. Пакет 06:
+    docs/reviews/intervals.md; человеческая рецензия не выполнена.'
+- en: minor interval
+  ru: малый интервал
+  status: candidate
+  note: 'Большой/малый для интервала, в отличие от мажорного/минорного трезвучия. Пакет 06:
+    docs/reviews/intervals.md; человеческая рецензия не выполнена.'
+- en: augmented interval
+  ru: увеличенный интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: diminished interval
+  ru: уменьшённый интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: simple interval
+  ru: простой интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: compound interval
+  ru: составной интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: intervallic inversion
+  ru: обращение интервала
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: consonance
+  ru: консонанс
+  status: candidate
+  note: 'Сохранить историческую и контекстную изменчивость классификаций; отсутствующие таблицы63/64
+    не восстановлены. Пакет 06: docs/reviews/intervals.md; человеческая рецензия не выполнена.'
+- en: dissonance
+  ru: диссонанс
+  status: candidate
+  note: 'Сохранить историческую и контекстную изменчивость классификаций; отсутствующие таблицы63/64
+    не восстановлены. Пакет 06: docs/reviews/intervals.md; человеческая рецензия не выполнена.'
+- en: doubly augmented interval
+  ru: дважды увеличенный интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: triply augmented interval
+  ru: трижды увеличенный интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: doubly diminished interval
+  ru: дважды уменьшённый интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: triply diminished interval
+  ru: трижды уменьшённый интервал
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: tritone
+  ru: тритон
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: white-key method
+  ru: метод белых клавиш
+  status: candidate
+  note: 'Рабочее соответствие пакета06, глава16; требует редакционного решения. Пакет 06: docs/reviews/intervals.md;
+    человеческая рецензия не выполнена.'
+- en: chord
+  ru: аккорд
+  status: candidate
+  note: 'Сочетание не менее трёх высотных классов в данной главе. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: triad
+  ru: трезвучие
+  status: candidate
+  note: 'Три звука, которые можно расположить по терциям. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: root
+  ru: основной тон аккорда
+  status: candidate
+  note: 'Не обязательно нижний звучащий звук; отличать от bass. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: third (chord member)
+  ru: терцовый тон
+  status: candidate
+  note: 'Член аккорда, не название интервала. Основание: docs/reviews/triads.md; пакет 06. Пакет
+    06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: fifth (chord member)
+  ru: квинтовый тон
+  status: candidate
+  note: 'Член аккорда, не название интервала. Основание: docs/reviews/triads.md; пакет 06. Пакет
+    06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: major triad
+  ru: мажорное трезвучие
+  status: candidate
+  note: 'Большая терция и чистая квинта от основного тона. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: minor triad
+  ru: минорное трезвучие
+  status: candidate
+  note: 'Малая терция и чистая квинта. Основание: docs/reviews/triads.md; пакет 06. Пакет 06:
+    docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: diminished triad
+  ru: уменьшённое трезвучие
+  status: candidate
+  note: 'Малая терция и уменьшённая квинта. Основание: docs/reviews/triads.md; пакет 06. Пакет
+    06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: augmented triad
+  ru: увеличенное трезвучие
+  status: candidate
+  note: 'Большая терция и увеличенная квинта. Основание: docs/reviews/triads.md; пакет 06. Пакет
+    06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: chord quality
+  ru: вид аккорда
+  status: candidate
+  note: 'Качественный состав интервалов от основного тона; не interval quality. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: root position
+  ru: основное положение
+  status: candidate
+  note: 'Основной тон в басу; не синоним тесного расположения. Источник содержит слишком узкое
+    определение, раскрыто в примечании. Основание: docs/reviews/triads.md; пакет 06. Пакет 06:
+    docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: bass
+  ru: бас
+  status: candidate
+  note: 'Нижний звучащий голос, а не основной тон и не обязательно инструмент. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: inversion (chord)
+  ru: обращение аккорда
+  status: candidate
+  note: 'Отличать от обращения интервала; повреждённое popup не восстановлено. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: doubling
+  ru: удвоение
+  status: candidate
+  note: 'Повторение звуков аккорда в нескольких голосах. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: spacing
+  ru: расположение голосов
+  status: candidate
+  note: 'Октавное размещение звуков; изменение басового тона может изменить обращение. Основание:
+    docs/reviews/triads.md; пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия
+    не выполнена.'
+- en: open spacing
+  ru: широкое расположение
+  status: candidate
+  note: 'Термин основного текста; popup содержит постороннюю главу. Основание: docs/reviews/triads.md;
+    пакет 06. Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: closed spacing
+  ru: тесное расположение
+  status: candidate
+  note: 'Термин основного текста; popup CSS-only. Основание: docs/reviews/triads.md; пакет 06.
+    Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
