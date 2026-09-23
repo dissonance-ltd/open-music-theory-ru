@@ -84,6 +84,21 @@
       "id": "modes",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
       "translation": "src/fundamentals/14-modes.md"
+    },
+    {
+      "id": "sight-singing",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+      "translation": "src/fundamentals/15-sight-singing.md"
+    },
+    {
+      "id": "intervals",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals/",
+      "translation": "src/fundamentals/16-intervals.md"
+    },
+    {
+      "id": "triads",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/",
+      "translation": "src/fundamentals/17-triads.md"
     }
   ]
 }
