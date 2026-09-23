@@ -71,7 +71,11 @@
 
 <a id="example-3"></a>
 
-[Пример 3 в MuseScore](https://musescore.com/user/32728834/scores/8394558/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8394558/embed" title="Пример 3. Счёт в двухдольном метре с трёхчастным делением доли — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8394558">Открыть пример 3 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 3. Счёт в двухдольном метре с трёхчастным делением доли.**
 
