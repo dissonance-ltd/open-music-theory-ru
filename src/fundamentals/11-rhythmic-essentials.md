@@ -33,7 +33,11 @@
 
 <div id="example-2"></div>
 
-[Открыть пример 2 в MuseScore](https://musescore.com/user/32728834/scores/8422571/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8422571/embed" title="Пример 2. Другие основы ритма — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8422571">Открыть пример 2 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 2. Для обозначения дуоли над соответствующей ритмической группой пишут цифру 2.*
 
@@ -49,7 +53,11 @@
 
 <div id="example-3"></div>
 
-[Открыть пример 3 в MuseScore](https://musescore.com/user/32728834/scores/8422604/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8422604/embed" title="Пример 3. Другие основы ритма — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8422604">Открыть пример 3 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 3. Восемь тактов Скерцо из Симфонии № 9 Людвига ван Бетховена (1824) с цифрами гиперметрического счёта.*
 
@@ -61,7 +69,11 @@
 
 <div id="example-4"></div>
 
-[Открыть пример 4 в MuseScore](https://musescore.com/user/32728834/scores/6296167/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296167/embed" title="Пример 4. Другие основы ритма — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296167">Открыть пример 4 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 4. Различные примеры синкопированных ритмов.*
 

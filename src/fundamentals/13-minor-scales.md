@@ -34,7 +34,11 @@
 
 <div id="example-1"></div>
 
-[Открыть пример 1 в MuseScore](https://musescore.com/user/32728834/scores/6825960/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6825960/embed" title="Пример 1. Минорные гаммы, ступени и ключевые знаки — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6825960">Открыть пример 1 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 1. Гамма соль натурального минора.*
 
@@ -46,7 +50,11 @@
 
 <div id="example-2"></div>
 
-[Открыть пример 2 в MuseScore](https://musescore.com/user/32728834/scores/6826003/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6826003/embed" title="Пример 2. Минорные гаммы, ступени и ключевые знаки — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6826003">Открыть пример 2 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 2. Гамма соль гармонического минора. Внешний пример, содержимое и воспроизведение не проверены.*
 
@@ -56,7 +64,11 @@
 
 <div id="example-3"></div>
 
-[Открыть пример 3 в MuseScore](https://musescore.com/user/32728834/scores/8455586/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8455586/embed" title="Пример 3. Минорные гаммы, ступени и ключевые знаки — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8455586">Открыть пример 3 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 3. Гамма соль мелодического минора. Внешний пример, содержимое и воспроизведение не проверены.*
 
@@ -64,7 +76,11 @@
 
 <div id="example-4"></div>
 
-[Открыть пример 4 в MuseScore](https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed" title="Пример 4. Минорные гаммы, ступени и ключевые знаки — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8383329/s/WuOIXN">Открыть пример 4 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 4. Мажорная, натуральная минорная, гармоническая минорная и мелодическая минорная гаммы от до. Внешний пример, содержимое и воспроизведение не проверены.*
 
@@ -78,7 +94,11 @@
 
 <div id="example-5"></div>
 
-[Открыть пример 5 в MuseScore](https://musescore.com/user/32728834/scores/8383293/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8383293/embed" title="Пример 5. Минорные гаммы, ступени и ключевые знаки — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8383293">Открыть пример 5 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 5. Ступени и слоги сольмизации трёх видов минора: a) натурального, b) гармонического, c) мелодического. Внешний пример, содержимое и воспроизведение не проверены.*
 

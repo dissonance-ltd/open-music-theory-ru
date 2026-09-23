@@ -93,7 +93,11 @@
 
 <div id="example-7"></div>
 
-[Открыть пример 7 в MuseScore](https://musescore.com/user/32728834/scores/6805289/s/Qwz0ek/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6805289/s/Qwz0ek/embed" title="Пример 7. Длительности нот и пауз — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6805289/s/Qwz0ek">Открыть пример 7 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 *Пример 7. Соединительная лига связывает первые две ноты.*
 

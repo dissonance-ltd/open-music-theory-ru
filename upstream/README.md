@@ -121,7 +121,7 @@ have explanatory text but no corresponding media in either the raw response or
 the normalized snapshot. Rhythm contains a missing-table-74 message. These source
 defects remain in the English archive and are visibly disclosed in the Russian
 drafts, together with limited corrections to misleading definitions. External
-MuseScore examples and worksheets remain links, not localized or verified content.
+MuseScore examples are now embedded with permanent source links; worksheets remain links. Neither is newly localized or certified by this presentation change.
 
 See the [batch workflow](../docs/batch-translation.md) and chapter records for
 [ASPN](../docs/reviews/aspn.md), [Other Notation](../docs/reviews/other-notation.md),
@@ -204,9 +204,11 @@ Separate AI reviews are complete: `review_batch06_singing_triads` for chapters 1
 `review_batch06_intervals` for chapter 16 and cross-chapter terminology. Their findings and rechecks are recorded per chapter, including the closed
 Intervals clarification and a review of all 47 new glossary entries. Technical results
 belong to the records and PR. Human review, rendered-page/mobile review, external-content inspection and
-playback checks remain pending. The MuseScore pilot remains limited to three earlier
-examples in chapters 6, 10, and 11; new examples retain external links.
+per-score playback checks remain pending. On 2026-09-23 the user confirmed that the
+MuseScore pilot works and requested rollout. All 60 source scores in chapters 6–17
+are now embedded, with permanent direct links. See the [inventory and rules](../docs/musescore-embeds.md).
 
-Batch 06 is stacked on `translation/restore-batch-05`. Merge PR #10 into main first,
-then **retarget the batch 06 PR to main before merging it**, and check its resulting
-diff and CI. Subsequent work begins with chapter 18; no translator is assigned yet.
+PR #10 restored batch 05 into main. PR #11 was merged into the old restoration
+branch, so this MuseScore rollout PR brings the already-reviewed batch 06 into main
+as a separate prerequisite commit. This PR targets main directly. Subsequent work
+begins with chapter 18; no translator is assigned yet.

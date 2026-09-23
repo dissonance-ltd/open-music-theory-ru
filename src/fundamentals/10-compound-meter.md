@@ -93,7 +93,11 @@
 
 <a id="example-4"></a>
 
-[Пример 4 в MuseScore](https://musescore.com/user/32728834/scores/8394447/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8394447/embed" title="Пример 4. Метр с трёхчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8394447">Открыть пример 4 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 4. При трёхчастном делении доли: (a) в двухдольном метре две доли, (b) в трёхдольном — три, (c) в четырёхдольном — четыре.**
 
@@ -103,7 +107,11 @@
 
 <a id="example-5"></a>
 
-[Пример 5 в MuseScore](https://musescore.com/user/32728834/scores/6296091/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296091/embed" title="Пример 5. Метр с трёхчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296091">Открыть пример 5 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 5. Номера долей, не произносимые вслух, заключают в скобки.**
 
@@ -117,7 +125,11 @@
 
 <a id="example-6"></a>
 
-[Пример 6 в MuseScore](https://musescore.com/user/32728834/scores/8394456/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8394456/embed" title="Пример 6. Метр с трёхчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8394456">Открыть пример 6 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 6. Один ритм записан с тремя разными длительностями доли: (a) четвертная с точкой, (b) половинная с точкой, (c) восьмая с точкой.**
 
@@ -131,7 +143,11 @@
 
 <a id="example-7"></a>
 
-[Пример 7 в MuseScore](https://musescore.com/user/32728834/scores/8394474/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/8394474/embed" title="Пример 7. Метр с трёхчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/8394474">Открыть пример 7 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 7. Группировка вязками в двух разных размерах.**
 
@@ -152,7 +168,11 @@
 
 <a id="example-9"></a>
 
-[Пример 9 в MuseScore](https://musescore.com/user/32728834/scores/6296096/embed).
+<div class="score-embed">
+<iframe src="https://musescore.com/user/32728834/scores/6296096/embed" title="Пример 9. Метр с трёхчастным делением доли и тактовые размеры — MuseScore" width="100%" height="440" loading="lazy" allowfullscreen></iframe>
+<p class="score-embed-fallback"><a href="https://musescore.com/user/32728834/scores/6296096">Открыть пример 9 в MuseScore</a> — если плеер не загрузился или нужен полноэкранный просмотр.</p>
+<p class="score-embed-note">Плеер загружается с MuseScore и требует подключения к интернету. Нотный пример оставлен на языке оригинала.</p>
+</div>
 
 **Пример 9. Наиболее распространённые варианты неполных вязок, когда единица деления доли — восьмая нота.**
 
