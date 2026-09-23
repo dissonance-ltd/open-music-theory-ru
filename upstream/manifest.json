@@ -1961,6 +1961,3176 @@
         }
       ],
       "excluded_media": []
+    },
+    {
+      "id": "sight-singing",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+      "title": "15 The Basics of Sight-Singing and Dictation",
+      "source_byline": [
+        "Kris Shaffer; Chelsey Hamm; and Samuel Brady"
+      ],
+      "raw_sha256": "b9040541246d39885cae013853a1d75e96f5cc850baf182a2c93907e75b1f167",
+      "content_sha256": "2235221311dbfdf6b885d461c9a34c7fbbff21fabcbb94a5aec43fcb65a75c6b",
+      "snapshot": "en/sight-singing.html",
+      "translation": "src/fundamentals/15-sight-singing.md",
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/OIe4tB1vYVs?feature=oembed&rel=0",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "audio",
+          "url": "",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "source",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/untitled-2.mp3?_=1",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/untitled-2.mp3",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png",
+          "alt": "Four groups of four dots are shown",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "audio",
+          "url": "",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "source",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/untitled-2-1.mp3?_=2",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/untitled-2-1.mp3",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-07-03-at-10.45.42-AM-300x101.png",
+          "alt": "Contour lines and a star appear above the slash notation and dot grid from Example 2",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2021-07-02-at-12.01.06-PM-300x68.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://choir.rigbytrojans.org/uploads/2/1/5/4/21541204/sight-singing-exercises.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://blueskymusic.net/wp-content/uploads/2020/04/All-Rhythm-Worksheets-in-One-File.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://blueskymusic.net/wp-content/uploads/2020/04/All-Rhythm-Worksheets-in-One-File.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.ccsoh.us/cms/lib/OH01913306/Centricity/Domain/3098/Choir%20Summer%20Packet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Basics-of-Sight-Singing-and-Dictation-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Basics-of-Sight-Singing-and-Dictation-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Basics-of-Sight-Singing-and-Dictation-2-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Basics-of-Sight-Singing-and-Dictation-2-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "intervals",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/intervals/",
+      "title": "16 Intervals",
+      "source_byline": [
+        "Chelsey Hamm and Bryn Hughes"
+      ],
+      "raw_sha256": "86a301bb039d2d6edad8a185fabbc82d32870d29adc762e3759d88236f56d7d7",
+      "content_sha256": "cdcca855aff9667ba39c8c79fa195f796830d94d230cfe0bd358cf73b0145385",
+      "snapshot": "en/intervals.html",
+      "translation": "src/fundamentals/16-intervals.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/simple-v-compound-300x140.png",
+          "alt": "notation: A2 to C3 form a mi3, and A2 to C4 form a mi10. A mi10 is the compound version of a mi3.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/inversion-3-300x148.png",
+          "alt": "Notation: A ma3 from C3 to E3 inverts to a mi6 from E3 to C4.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/imaginary-300x113.png",
+          "alt": "Notation: a harmonic interval from E𝄫3 to A♭3 is inverted, yielding A♭2 to E𝄫3.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/white-key-sevenths-1024x123.png",
+          "alt": "Notation: C4–B4 ma7, D4–C5 mi7, E4–D5 mi7, F4–E5 ma7, G4–F5 mi7, A4–G5 mi7, B4–A5 mi7",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/enh-eq-300x115.png",
+          "alt": "notation: harmonic interval E𝄫3 to A♭3 followed by D3 to G♯3.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws20-interval_id.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/major_scale_interval.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.wku.edu/music/documents/intervalswork.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws23-intervals-maj_keys.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws24-intervals-minor_keys.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://files.rcmusic.com//sites/default/files/examinations/documents/Theory_Worksheets/Level8-Complete.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws21-interval_constr_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws22-interval_constr_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://files.rcmusic.com//sites/default/files/examinations/documents/Theory_Worksheets/Level8-Complete.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Intervals-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-1.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Intervals-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Intervals-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-3.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "triads",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/",
+      "title": "17 Triads",
+      "source_byline": [
+        "Chelsey Hamm"
+      ],
+      "raw_sha256": "16870413c604d40a2f2f62fbf4cfe14a8cb5991858ce9c99c4f4912fd67d3aab",
+      "content_sha256": "6ba520e7c75db02a3ec59ca9edf26f634c5a80131dae179156bea876127fb1d3",
+      "snapshot": "en/triads.html",
+      "translation": "src/fundamentals/17-triads.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Snowperson-300x300.png",
+          "alt": "A snowperson with a hat and scarf is shown.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-08-17-at-1.39.09-PM-300x75.png",
+          "alt": "A triad consisting of the notes C, E, and G has its notes labeled; C is the root, E is the 3rd, and G is the 5th",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/d-major-1024x188.png",
+          "alt": "1. D3. 2. F3 and A3 are added on top of D3. 3. Key sig for D: two sharps. 4. D3, F♯3, and A3.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ab-minor-1024x119.png",
+          "alt": "1. A♭4. 2. C5 and E5 are on top of the A♭4. 3. Key signature for A♭: four flats. 4. A♭4, C5, E♭5. 5. A♭4, C♭5, E♭5.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws25-triad_id_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.belmont.edu/cmpa/_files/PDFs/theory_fundamentals/triads_worksheet2_answerkey.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_5.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.people.vcu.edu/~bhammel/theory/homework/elements/pdf/triads_6.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www2.lawrence.edu/fast/BIRINGEG/media/theory_funds/pdf/ws26-triad_constr_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch10.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Triads-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-1.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Triads-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Triads-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-3.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Introduction-to-Western-Musical-Notation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Introduction-to-Western-Musical-Notation.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inventing-a-Notation-System-Essay-Assignment-Rubric.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inventing-a-Notation-System-Essay-Assignment-Rubric.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Notation-of-Notes-Clefs-and-Ledger-Lines-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Notation-of-Notes-Clefs-and-Ledger-Lines-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Reading-Clefs-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-2.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-3-11.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-3-11.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-4-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-4-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-1-11.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-1-11.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-2-1-v2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-2-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-3-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-3-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Accidentals-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Accidentals-2.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-5-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-5.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-6-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Half-and-Whole-Steps-and-Accidentals-6-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-American-Standard-Pitch-Notation-ASPN-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-American-Standard-Pitch-Notation-ASPN-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Other-Aspects-of-Notation-13.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-2-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-2-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Other-Rhythmic-Essentials-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Other-Aspects-of-Notation-13.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Major-Scales-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Major-Scales-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Minor-Scales-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Minor-Scales-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Diatonic-Modes-and-the-Chromatic-Scale-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Diatonic-Modes-and-the-Chromatic-Scale-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Diatonic-Modes-and-the-Chromatic-Scale-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Diatonic-Modes-and-the-Chromatic-Scale-4.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Intervals-3.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Triads-3.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Seventh-Chords-3.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inversion-and-Figured-Bass-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inversion-and-Figured-Bass-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inversion-and-Figured-Bass-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Inversion-and-Figured-Bass-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Texture.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Texture.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Cantus-Firmus-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Cantus-Firmus-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/WK-First-species-Counterpoint-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-First-species-Counterpoint-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Second-species-Counterpoint-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Second-species-Counterpoint-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Third-species-Counterpoint-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Third-species-Counterpoint-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Benedictus_Missa_Venatorum_Exercise.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Benedictus_Missa_Venatorum_Exercise.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Bicinum_IV_Exercise.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Bicinum_IV_Exercise.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Benedictus_Missa_Brevis_Exercise.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Benedictus_Missa_Brevis_Exercise.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Surge_Propera_Exercise-1.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Surge_Propera_Exercise.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://fourscoreandmore.org/partimenti/downloads/Schema_Score_Template_1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Schema_Score_Template_2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://fourscoreandmore.org/partimenti/downloads/Schema_Score_Template_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Analyzing-Sentences.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Analyzing-Sentences.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Analyzing-Archetypes-and-Unique-Forms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Analyzing-Archetypes-and-Unique-Forms.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Composing-Brief-Melody-only-Sentences.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-The-Phrase-Archetypes-and-Unique-Forms-%E2%80%93-Composing-Fully-realized-Sentences.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Analyzing-Hybrid-Forms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Analyzing-Hybrid-Forms.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Analyzing-Forms-with-Multiple-Interpretive-Possibilities.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Analyzing-Forms-with-Multiple-Interpretive-Possibilities.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Composing-Phrase-level-Forms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Hybrid-Phrase-level-Forms-%E2%80%93-Composing-Phrase-level-Forms.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Analyzing-Expansion-Techniques.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Analyzing-Expansion-Techniques.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Analyzing-Multiple-Phrase-Expansion-Techniques.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Analyzing-Multiple-Phrase-Expansion-Techniques.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Recomposing-to-Remove-Expansions.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Expansion-and-Contraction-at-the-Phrase-Level-%E2%80%93-Recomposing-to-Remove-Expansions.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/binary-form-assignment-1-analysis.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/binary-form-assignment-1-analysis.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/binary-form-assignment-1-model-composition.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/binary-form-assignment-1-model-composition.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/ternary-form-assignment-1-analysis_06-10-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/ternary-form-assignment-1-analysis_06-10-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Crusell-Clarinet_Quartet_Op_7-Score_Menuetto_III_measures_numbered.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/ternary-form-assignment-2-analysis-LANG_06-11-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/ternary-form-assignment-2-analysis-LANG_06-11-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Lang_Josephine-2_Lieder_Op_28_No_1-Traumbild_Blank.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/sonata-form-assignment-1-analysis-Park_06-16-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/sonata-form-assignment-1-analysis-Park_06-16-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/Park_MariaHester_Sonata_Op_7_i_measure_numbers.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/rondo-form-assignment-1-analysis-Bologne_06-17-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/rondo-form-assignment-1-analysis-Bologne_06-17-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/Bologne_String_Quartet_Op_1_No_4_ii_Rondeau-measures_numbered.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-V7.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-V7.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Strong-Predominants.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Strong-Predominants.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Embellishing-Tones.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Embellishing-Tones.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Cadential-64.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Cadential-64.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Emilie_Mayer__Abendglocken__No._1_from_2_Gesange_mm._13-21.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Performing-Harmonic-Analysis-Using-the-Phrase-Model.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Performing-Harmonic-Analysis-Using-the-Phrase-Model.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Prolongation-at-Phrase-Endings-Using-the-Leading-Tone-Chord.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Prolongation-at-Phrase-Endings-Using-the-Leading-Tone-Chord.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Plagal-Motion-as-a-Form-of-Prolongation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-64-Chords-as-Forms-of-Prolongation.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/WK_Plagal_Motion.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/WK_Plagal_Motion.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Six_Concertante_Quartets_No._4_II_mm._54-61.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-La-in-the-bass.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-La-in-the-bass.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Mi-in-the-Bass.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Mi-in-the-Bass.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Predominant-Sevenths.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Predominant-Sevenths.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-Applied-Chords-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-Applied-Chords-B.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/02/WK-Applied-Chords-C.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/02/WK-Applied-Chords-C.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Tonicization.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Tonicization.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Extended-Tonicization-and-Modulation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Extended-Tonicization-and-Modulation.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_modal_mixture_assignment_1-06-29-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_modal_mixture_assignment_1-06-29-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_neapolitan_assignment_1-06-29-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_neapolitan_assignment_1-06-29-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_augmented_sixths_assignment_1-06-29-2020.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_augmented_sixths_assignment_1-06-29-2020.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_common_tone_chords_assignment.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_common_tone_chords_assignment.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_harmonic_elision_assignment.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_harmonic_elision_assignment.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/WK-neo-riemannian-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/09/WK-neo-riemannian.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/WK-neo-riemannian-composing.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/WK-neo-riemannian-composing.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-C_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bb_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Eb_Instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-F_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bass_clef_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Aebersold-rhythms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols-with-Extensions.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols-with-Extensions.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-voicing.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-voicing.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop-part-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop-part-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-12-bar-blues.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-12-bar-blues.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-12-bar-blues-no-jazz.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-12-bar-blues-no-jazz.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Blues_Scales-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Blues_Scales.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-improv.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-improv.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/improv-backing-track.mp3",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-blues.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-blues.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Transcribing-Rhythms-worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-rhythm-and-meter-in-pop-music-transcription.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/WK-section-phrases.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/WK-section-phrases.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-AABA-and-strophic-forms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-AABA-and-strophic-forms.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-verse-chorus-form-briformer.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-verse-chorus-form-briformer.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Blues-based-schemas-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Blues-based-schemas-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-no-variations.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-no-variations.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-with-variations.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-with-variations.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Classical-schemas.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Classical-schemas.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Puff-schema.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Puff-schema.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Modal-Schemas.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Modal-Schemas.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/06/WK-modal-schemas_Reharmonization.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Modal_Reharmonization_print.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-fragile-absent-emergent.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-fragile-absent-emergent.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/08/WK-Pitch-and-Pitch-Class.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/08/WK-Pitch-and-Pitch-Class.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-intervals.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-intervals.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-normal-form.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-normal-form.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Worksheet-for-prep.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Worksheet-for-prep.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Worksheet-for-prep.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Worksheet-for-prep.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-set-class-comp.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-set-class-comp.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/08/WK-Interval-Class-Vectors.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/08/WK-Interval-Class-Vectors.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Analysis-of-Free-Atonality.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Analysis-of-Free-Atonality.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Segmentation.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Segmentation.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Atonal-Analysis-Using-Pitch-Class-Sets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-atonal-analysis-using-pc-sets.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-atonal-analysis.mp3",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/WK-modes.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/WK-modes.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/WK-Collections.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/WK-Collections.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://raw.githubusercontent.com/MarkGotham/When-in-Rome/master/Corpus/OpenScore-LiederCorpus/Reichardt,_Louise/Zw%C3%B6lf_Ges%C3%A4nge/06_Unruhiger_Schlaf/lc5001911.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-2-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Rhythmic-and-Rest-Values-2-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Compound-Meters-and-Time-Signatures-2.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Other-Rhythmic-Essentials-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Other-Aspects-of-Notation-13.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Grouping_Dissonance_Composition_Exercise.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Grouping_Dissonance_Composition_Exercise.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-C_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bb_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Eb_Instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-F_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bass_clef_instruments.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Aebersold-rhythms.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Transcribing-Rhythms-worksheet.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-rhythm-and-meter-in-pop-music-transcription.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.mscz",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/chromatic-modulation-closely-related-keys-1024x491.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/distantly-related-keys-mixture-to-diatonic-1024x562.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/distantly-related-keys-diatonic-to-mixture-1024x540.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
     }
   ]
 }

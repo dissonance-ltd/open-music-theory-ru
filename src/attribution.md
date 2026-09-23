@@ -19,9 +19,12 @@ Pressbooks Университета Небраски (уведомление Cop
 главы 7 — Chelsey Hamm и Mark Gotham; главы 8 — Chelsey Hamm, Mark Gotham и Bryn Hughes;
 главы 9 — Chelsey Hamm, Kris Shaffer и Mark Gotham; главы 10 — Chelsey Hamm и Mark Gotham;
 главы 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm;
-глав 12–13 — Chelsey Hamm и Bryn Hughes; главы 14 — Chelsey Hamm. Перевод выполнен участниками Open Music Theory RU с
+глав 12–13 — Chelsey Hamm и Bryn Hughes; главы 14 — Chelsey Hamm;
+главы 15 — Kris Shaffer, Chelsey Hamm и Samuel Brady; главы 16 — Chelsey Hamm и Bryn Hughes;
+главы 17 — Chelsey Hamm. Перевод выполнен участниками Open Music Theory RU с
 помощью ИИ и ещё не прошёл независимую рецензию.
 
+Сохранены 92 локальные иллюстрации: 91 из Nebraska и одна из LibreTexts.
 Нотные рисунки сохранены с атрибуцией OMT; пример 17 дополнительно получен через
 LibreTexts в главе о записи нот. Рисунок 8 главы о клавиатуре восстановлен по
 исправленной ссылке из исходной страницы. Их подписи и текстовые описания переведены, изображения не изменены.
