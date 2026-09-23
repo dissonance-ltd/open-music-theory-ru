@@ -18,7 +18,8 @@ Pressbooks Университета Небраски (уведомление Cop
 написаны Chelsey Hamm. Авторы главы 6 — Chelsey Hamm и Bryn Hughes;
 главы 7 — Chelsey Hamm и Mark Gotham; главы 8 — Chelsey Hamm, Mark Gotham и Bryn Hughes;
 главы 9 — Chelsey Hamm, Kris Shaffer и Mark Gotham; главы 10 — Chelsey Hamm и Mark Gotham;
-главы 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm. Перевод выполнен участниками Open Music Theory RU с
+главы 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm;
+глав 12–13 — Chelsey Hamm и Bryn Hughes; главы 14 — Chelsey Hamm. Перевод выполнен участниками Open Music Theory RU с
 помощью ИИ и ещё не прошёл независимую рецензию.
 
 Нотные рисунки сохранены с атрибуцией OMT; пример 17 дополнительно получен через
