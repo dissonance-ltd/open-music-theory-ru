@@ -32,11 +32,11 @@ Chelsey Hamm и Bryn Hughes, главу 7 — Chelsey Hamm и Mark Gotham,
 главу 11 — Bryn Hughes, Mark Gotham и Chelsey Hamm;
 главы 12–13 — Chelsey Hamm и Bryn Hughes; главу 14 — Chelsey Hamm;
 главу 15 — Kris Shaffer, Chelsey Hamm и Samuel Brady; главу 16 — Chelsey Hamm и Bryn Hughes;
-главы 17–18 — Chelsey Hamm.
+главы 17–18 — Chelsey Hamm; главу 19 — Chelsey Hamm и Samuel Brady; главу 20 — Samuel Brady и Kris Shaffer.
 
 Пример 17 главы о записи нот дополнительно получен из LibreTexts OMT2;
-источник и хеш записаны в `upstream/assets.json`. Остальные 94 изображения, включая фотографии клавиатуры, —
-из адаптации Nebraska. Всего сохранено 95 локальных изображений. Подписи и alt-текст переведены, сами рисунки не изменены.
+источник и хеш записаны в `upstream/assets.json`. Остальные 103 изображения, включая фотографии клавиатуры, —
+из адаптации Nebraska. Всего сохранено 104 локальных изображения. Подписи и alt-текст переведены, сами рисунки не изменены.
 В главе о клавиатуре восстановлена повреждённая ссылка на рисунок 8; это
 исправление отмечено в тексте и реестре ресурсов. Обложка и иллюстрации интерфейса
 из введения опущены. Видеозаписи Jacob Tews, Benjamin Corbin и Chelsey Hamm
