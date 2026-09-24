@@ -99,6 +99,11 @@
       "id": "triads",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/triads/",
       "translation": "src/fundamentals/17-triads.md"
+    },
+    {
+      "id": "seventh-chords",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/seventh-chords/",
+      "translation": "src/fundamentals/18-seventh-chords.md"
     }
   ]
 }

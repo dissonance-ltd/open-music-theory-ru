@@ -1046,3 +1046,25 @@ terms:
   status: candidate
   note: 'Термин основного текста; popup CSS-only. Основание: docs/reviews/triads.md; пакет 06.
     Пакет 06: docs/reviews/triads.md; человеческая рецензия не выполнена.'
+- en: seventh chord
+  ru: септаккорд
+  status: candidate
+  note: 'Четыре звука, располагаемые по терциям. Основание: глава 18, docs/reviews/seventh-chords.md; независимая человеческая рецензия не выполнена.'
+- en: chordal seventh
+  ru: септимовый тон аккорда
+  status: candidate
+  note: 'Не смешивать с VII ступенью гаммы. Основание: глава 18, docs/reviews/seventh-chords.md.'
+- en: dominant seventh chord
+  ru: доминантсептаккорд
+  status: candidate
+  note: 'В главе 18 — мажорное трезвучие и малая септима; название не означает обязательной функции на V ступени.'
+- en: half-diminished seventh chord
+  ru: полууменьшённый септаккорд
+  status: candidate
+  note: 'Уменьшённое трезвучие и малая септима. Основание: глава 18, docs/reviews/seventh-chords.md.'
+- en: fully diminished seventh chord
+  ru: полностью уменьшённый септаккорд
+  status: candidate
+  alternatives:
+  - уменьшённый септаккорд
+  note: 'Уменьшённое трезвучие и уменьшённая септима; краткий вариант — уменьшённый септаккорд. Согласовать употребление в главах 18–20.'

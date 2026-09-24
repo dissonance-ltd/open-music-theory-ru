@@ -91,6 +91,17 @@
           "content_sha256": "6ba520e7c75db02a3ec59ca9edf26f634c5a80131dae179156bea876127fb1d3"
         }
       ]
+    },
+    {
+      "retrieved_at": "2026-09-23T16:48:26.033079+00:00",
+      "precision": "timestamp",
+      "provenance": "Raw Nebraska response captured in GitHub Actions run 35891273758, artifact 10764632374; normalized offline with v1 importer; catalog compared equal.",
+      "chapters": [
+        {
+          "id": "seventh-chords",
+          "content_sha256": "aea13b350fc2be2cb4d7288781c336cc421fdd1fffa7e21196bba7b9f61a23ad"
+        }
+      ]
     }
   ]
 }

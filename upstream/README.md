@@ -15,15 +15,15 @@ HTTP 403 during preparation, so no official XML export was obtained.
   and its Digital/PDF Workbook links, previously skipped by the importer.
   Catalog membership does not establish body availability or media completeness.
   Editorial progress and the full inventory are in [the chapter tracker](../docs/chapter-tracker.md).
-- `en/*.html`: nineteen normalized English chapter bodies: introduction, first seventeen
+- `en/*.html`: twenty normalized English chapter bodies: introduction, first eighteen
   Fundamentals chapters, and acknowledgments (for authorship/artwork evidence).
-  This branch includes batches 04 (chapters 9–11), 05 (chapters 12–14), and 06 (chapters 15–17).
+  This branch includes batches 04 (chapters 9–11), 05 (chapters 12–14), 06 (chapters 15–17), and 07 (chapter 18).
   Remaining chapter bodies have not been assessed.
 - `manifest.json`: edition, retrieval date, source URLs and bylines, raw-response
   hashes, normalized-body hashes, excluded cover artwork and media references.
 - `translations.json`: each Russian draft's pinned source-body hash and review
   status. Updating the English source never updates this hash automatically.
-- `assets.json`: 92 locally retained figures and keyboard photographs with source URLs, hashes,
+- `assets.json`: 95 locally retained figures and keyboard photographs with source URLs, hashes,
   attribution and the basis for reuse. Figure 17 comes from the same OMT example
   in LibreTexts because the Nebraska reference points to inaccessible VIVA.
 
@@ -35,7 +35,7 @@ chapter 8 **Chelsey Hamm, Mark Gotham and Bryn Hughes**, chapter 9
 chapter 11 **Bryn Hughes, Mark Gotham and Chelsey Hamm**, chapters 12–13
 **Chelsey Hamm and Bryn Hughes**, chapter 14 **Chelsey Hamm**, chapter 15
 **Kris Shaffer, Chelsey Hamm and Samuel Brady**, chapter 16 **Chelsey Hamm and Bryn Hughes**,
-and chapter 17 **Chelsey Hamm**.
+and chapters 17–18 **Chelsey Hamm**.
 
 ## Import and compare
 
@@ -212,3 +212,7 @@ PR #10 restored batch 05 into main. PR #11 was merged into the old restoration
 branch, so this MuseScore rollout PR brings the already-reviewed batch 06 into main
 as a separate prerequisite commit. This PR targets main directly. Subsequent work
 begins with chapter 18; no translator is assigned yet.
+
+## Seventh batch: seventh chords
+
+Chapter 18 was retrieved from the Nebraska Fall 2023 page at `2026-09-23T16:48:26.033079+00:00` via GitHub Actions run 35891273758 (artifact 10764632374). The v1 importer normalized its raw response offline without changing the 19 existing snapshots; the source catalog compared equal. The legacy global manifest date remains the baseline date; the new per-cohort entry is in `retrievals.json`. Three original Nebraska images were fetched at full available resolution and indexed with source references and SHA-256 in `assets.json`. Table 73 is absent from the source; example numbering conflicts and damaged popup definitions are described in [the chapter record](../docs/reviews/seventh-chords.md). Third-party media and worksheets remain English and unverified.

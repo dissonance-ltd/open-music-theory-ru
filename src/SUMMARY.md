@@ -21,6 +21,7 @@
   - [Основы пения с листа и музыкального диктанта](fundamentals/15-sight-singing.md)
   - [Интервалы](fundamentals/16-intervals.md)
   - [Трезвучия](fundamentals/17-triads.md)
+  - [Септаккорды](fundamentals/18-seventh-chords.md)
   - [Статус перевода](fundamentals/status.md)
 - [Рабочий глоссарий](glossary.md)
 - [Авторы и лицензия](attribution.md)
