@@ -313,6 +313,36 @@
         "Original notation figures retained locally with Russian captions/alt; original internal labels remain English.",
         "Exact source MuseScore URLs embedded with fallback links; external scores, exercises and worksheets remain English and unverified."
       ]
+    },
+    {
+      "id": "texture",
+      "path": "src/fundamentals/21-texture.md",
+      "status": "draft",
+      "source_content_sha256": "1ae7fa61f439b4838fb76240f5347849c06c4e908057b2d9987bc2abb95aa3e7",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; ten source Spotify examples linked or embedded with external content left in English; damaged glossary popup data excluded with an explicit source note"
+      ]
+    },
+    {
+      "id": "species-counterpoint",
+      "path": "src/fundamentals/22-species-counterpoint.md",
+      "status": "draft",
+      "source_content_sha256": "132dd70f45fb08e33c9882deac8dede6b809271714439f052c8f2b160cbedae4",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; translated captions and alt text for three locally copied original figures; English text inside images and external MuseScore/worksheets remain unlocalized; damaged glossary popup data excluded"
+      ]
+    },
+    {
+      "id": "first-species-counterpoint",
+      "path": "src/fundamentals/23-first-species-counterpoint.md",
+      "status": "draft",
+      "source_content_sha256": "82e59dfd9ea166a17d3728b5c79ca572022d036883e0988981d3b225e7d444da",
+      "reviewed_by": null,
+      "modifications": [
+        "Russian translation; two external MuseScore examples and worksheet remain in English; damaged glossary popup data excluded with a source note"
+      ]
     }
   ]
 }
