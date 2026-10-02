@@ -6075,6 +6075,705 @@
         }
       ],
       "excluded_media": []
+    },
+    {
+      "id": "texture",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/texture/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/texture/",
+      "title": "21 Texture",
+      "source_byline": [
+        "Samuel Brady and Mark Gotham"
+      ],
+      "raw_sha256": "cd23051256de7f3fd8a33c752f6185e7fc165cc7d99e095f4ae7fbbabd1c4484",
+      "content_sha256": "1ae7fa61f439b4838fb76240f5347849c06c4e908057b2d9987bc2abb95aa3e7",
+      "snapshot": "en/texture.html",
+      "translation": "src/fundamentals/21-texture.md",
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/17i5jLpzndlQhbS4SrTd0B?si=ecfedf54fade4b75&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/2B4zLbffjFvR9f2zOMNBco?si=7d244e2227c949ab&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/3dXpdIgOp6Nt44BZT19uc1?si=f969f6698f424e84&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/76Ux8146OjfnI05femAH4e?si=b00c0e77bb6444f9&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/1OEPCBLuX3KJnLvEJ9qjgv?si=25617341641c49f5&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/0uRBhzRM96B3M2QrHc5JO7?si=feb8a2ae33174ccc&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/0XipvOdx9OTq9G8SaB8AfW?si=6ce49b30fd7d428d&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/1muOt4yNs4bIiqlgGNJvjG?si=29b77933035b4848&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/3479DaAvmIGR4GZYtLGZVf?si=485802f92e4a4739&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "iframe",
+          "url": "https://open.spotify.com/embed/track/3ECCCziRCrTy4Sv3kOiS94?si=c2472b0bf7444ba1&utm_source=oembed",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://learnmusictheory.net/PDFs/pdffiles/01-05-01-TextureInMusic.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.ktc-tkat.org/assets/KS3-summer-work/Year-7-Music-Texture.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://rowman.com/WebDocs/Composition_Concepts_for_Band_and_Orchestra_Student_Handouts.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Texture.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Texture.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Atlas.png",
+          "alt": "Extract from Schubert's Der Atlas",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Bach.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Hensel-Extract.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "species-counterpoint",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/species-counterpoint/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/species-counterpoint/",
+      "title": "22",
+      "source_byline": [
+        "Kris Shaffer and Mark Gotham"
+      ],
+      "raw_sha256": "cc04d9aeec2272a5e7d6f6dc8ba4e15b33a2d4c090bbf80170e486fb178054da",
+      "content_sha256": "132dd70f45fb08e33c9882deac8dede6b809271714439f052c8f2b160cbedae4",
+      "snapshot": "en/species-counterpoint.html",
+      "translation": "src/fundamentals/22-species-counterpoint.md",
+      "media": [
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Consonance-1024x135.png",
+          "alt": "Recap in notation of the information in the list above.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Motion-1.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Outlining-1.png",
+          "alt": "",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Cantus-Firmus-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Cantus-Firmus-B.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
+    },
+    {
+      "id": "first-species-counterpoint",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/first-species-counterpoint/",
+      "requested_url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/first-species-counterpoint/",
+      "title": "23",
+      "source_byline": [
+        "Kris Shaffer and Mark Gotham"
+      ],
+      "raw_sha256": "82660ba2a9f6aa19201081ce34733f3071eb450df0a8db510c6c9ac9c02ec9a4",
+      "content_sha256": "82e59dfd9ea166a17d3728b5c79ca572022d036883e0988981d3b225e7d444da",
+      "snapshot": "en/first-species-counterpoint.html",
+      "translation": "src/fundamentals/23-first-species-counterpoint.md",
+      "media": [
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-First-species-Counterpoint-A.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Measures-and-Barlines-300x63.png",
+          "alt": "A measure is bracketed and a bar line is labeled",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+          "alt": "A percussion clef, 4/4 time signature, and four quarter notes on a staff",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/pickup-300x44.png",
+          "alt": "notation",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/withoutbeams-300x146.png",
+          "alt": "A series of notes in 3/4 time appear that are not beamed.",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/beaming-beat-unit-1024x609.png",
+          "alt": "notation, shows eighth, sixteenth, and mixed note values beamed together to show a quarter-note beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Stemming2-300x58.png",
+          "alt": "Two measures of notes are shown with proper stemming. Stems above the middle line point downwards, while stems below the middle line point upwards. ",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Flag-Direction-300x119.png",
+          "alt": "Flagging is determined by stem direction",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Multi-Measure-Rest-300x95.png",
+          "alt": "A filled-in rectangle with the number \"4\" appears, indicated a rest that will last for four measures",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "img",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/ties-clarify-beat-1024x158.png",
+          "alt": "notation of a rhythm without a tie, obscuring beat unit; then, the same rhythm with a tie, clarifying beat unit",
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.musicfun.com.au/pdf_files/time_signatures.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://web.pdx.edu/~jnewton/assignments/bas_mat_assignments/bas_mat_2_2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.gmajormusictheory.org/Fundamentals/Ch03.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/Music-Theory-Placement-Exam-Theory-Worksheets.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/circle.missing.note/circnote.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm/identify.time.sigs/idts.2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl3.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "http://www.sheetmusic1.com/rhythm.barlines/rhythm.dbl/dbl1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-1-1.docx",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/WK-Simple-Meter-and-Time-Signatures-2.pdf",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        },
+        {
+          "kind": "a",
+          "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Simple-Meter-and-Time-Signatures-2.mscz#fixme",
+          "alt": null,
+          "rights": "not_individually_audited",
+          "distribution": "reference_only"
+        }
+      ],
+      "excluded_media": []
     }
   ]
 }

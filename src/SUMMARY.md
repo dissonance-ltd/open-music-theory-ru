@@ -24,6 +24,13 @@
   - [Септаккорды](fundamentals/18-seventh-chords.md)
   - [Обращения и цифровой бас](fundamentals/19-inversion-figured-bass.md)
   - [Римские цифры и построение аккордов для SATB](fundamentals/20-roman-numerals.md)
+  - [Музыкальная фактура](fundamentals/21-texture.md)
   - [Статус перевода](fundamentals/status.md)
+
+# Контрапункт и галантные схемы
+
+- [Введение в видовой контрапункт](fundamentals/22-species-counterpoint.md)
+- [Контрапункт первого вида](fundamentals/23-first-species-counterpoint.md)
+
 - [Рабочий глоссарий](glossary.md)
 - [Авторы и лицензия](attribution.md)

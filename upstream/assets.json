@@ -1511,6 +1511,51 @@
       "retrieved_at": "2026-09-23T16:53:26.350789+00:00",
       "translated_alt": "В первом такте вводный тон ошибочно удвоен в двух голосах; во втором аккорд записан с исправленным удвоением.",
       "translated_caption": "Пример 14. Ошибка удвоения."
+    },
+    {
+      "chapter": "species-counterpoint",
+      "example": 1,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Consonance.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Consonance-1024x135.png",
+      "source_alt": "Recap in notation of the information in the list above.",
+      "path": "src/assets/species-counterpoint/example-01.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Kris Shaffer and Mark Gotham / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. English labels inside the original image retained.",
+      "sha256": "c865eccbe256b6dadb58553a00de654fe7d8bf3f2ea9b548f47372a17b7ab825",
+      "retrieved_at": "2026-09-25T11:06:39.610139+00:00",
+      "translated_alt": "Нотные примеры: совершенные консонансы (чистая прима, квинта, октава), несовершенные (малые и большие терции и сексты), диссонансы (секунды, септимы, увеличенная кварта, уменьшённая квинта).",
+      "translated_caption": "Пример 1. Совершенные и несовершенные консонансы и диссонансы."
+    },
+    {
+      "chapter": "species-counterpoint",
+      "example": 2,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Motion-1.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Motion-1.png",
+      "source_alt": "",
+      "path": "src/assets/species-counterpoint/example-02.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Kris Shaffer and Mark Gotham / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. English labels inside the original image retained.",
+      "sha256": "c9c3ab28d6d380acbf3d46a27416172977b5fd1dc3656e4ded456a1bc6de9154",
+      "retrieved_at": "2026-09-25T11:06:41.085917+00:00",
+      "translated_alt": "Четыре пары двухголосных нотных примеров иллюстрируют противоположное, прямое, параллельное и косвенное движение; подписи на изображении английские.",
+      "translated_caption": "Пример 2. Четыре вида движения двух голосов."
+    },
+    {
+      "chapter": "species-counterpoint",
+      "example": 4,
+      "source_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Outlining-1.png",
+      "original_reference": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/Outlining-1.png",
+      "source_alt": "",
+      "path": "src/assets/species-counterpoint/example-04.png",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Kris Shaffer and Mark Gotham / Open Music Theory; Nebraska Fall 2023 adaptation",
+      "rights_basis": "Chapter CC BY-SA 4.0 notice; no separate restriction stated for this figure. English labels inside the original image retained.",
+      "sha256": "a42c9e4e37a35b25de82e3e57563a579425869df884ac71dd0041a57f4aa14e9",
+      "retrieved_at": "2026-09-25T11:06:40.326151+00:00",
+      "translated_alt": "Четыре мелодических примера: слева не следует менять направление на тритоне или септиме; справа движение продолжается до квинты или октавы. Английские надписи остаются внутри рисунка.",
+      "translated_caption": "Пример 4. Мелодический контур: не останавливать движение на тритоне или септиме."
     }
   ]
 }

@@ -114,6 +114,21 @@
       "id": "roman-numerals",
       "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/roman-numerals/",
       "translation": "src/fundamentals/20-roman-numerals.md"
+    },
+    {
+      "id": "texture",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/texture/",
+      "translation": "src/fundamentals/21-texture.md"
+    },
+    {
+      "id": "species-counterpoint",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/species-counterpoint/",
+      "translation": "src/fundamentals/22-species-counterpoint.md"
+    },
+    {
+      "id": "first-species-counterpoint",
+      "url": "https://pressbooks.nebraska.edu/openmusictheory/chapter/first-species-counterpoint/",
+      "translation": "src/fundamentals/23-first-species-counterpoint.md"
     }
   ]
 }
